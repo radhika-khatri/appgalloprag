@@ -7,42 +7,43 @@ def extract_text_from_pdf(pdf_path):
     text = ""
     for i, page in enumerate(doc):
         print(f"[DEBUG] Extracting text from page {i+1}")
-        page_text = page.get_text()
-        text += page_text
+        text += page.get_text()
     print(f"[DEBUG] Finished extracting text from: {pdf_path}")
     return text
 
-def compare_texts(text1, text2):
-    print("[DEBUG] Splitting text into lines for comparison")
-    lines1 = text1.splitlines()
-    lines2 = text2.splitlines()
+def clean_lines(text):
+    # Remove extra spaces and blank lines
+    lines = text.splitlines()
+    cleaned = [line.strip() for line in lines if line.strip()]
+    return cleaned
 
-    print("[DEBUG] Performing unified diff comparison")
+def compare_texts_ignore_spaces(text1, text2):
+    print("[DEBUG] Cleaning and splitting text for comparison")
+    lines1 = clean_lines(text1)
+    lines2 = clean_lines(text2)
+
+    print("[DEBUG] Performing unified diff comparison (ignoring spaces)")
     diff = difflib.unified_diff(
         lines1, lines2,
         fromfile='file1',
         tofile='file2',
         lineterm=''
     )
-    diff_output = '\n'.join(diff)
-    print("[DEBUG] Diff comparison complete")
-    return diff_output
+    return '\n'.join(diff)
 
-# Paths to your two PDF files
-pdf_file1 = "deal_report.pdf"
+# --- File paths ---
+pdf_file1 = "Name.pdf"
 pdf_file2 = "extracted_info.pdf"
 
 print(f"[DEBUG] Starting comparison between {pdf_file1} and {pdf_file2}")
 
-# Extract text
+# --- Extract text ---
 text1 = extract_text_from_pdf(pdf_file1)
 text2 = extract_text_from_pdf(pdf_file2)
 
-# Compare and get differences
-print("[DEBUG] Comparing extracted texts")
-differences = compare_texts(text1, text2)
+# --- Compare and save differences ---
+differences = compare_texts_ignore_spaces(text1, text2)
 
-# Save differences to a file
 output_file = "differences.txt"
 print(f"[DEBUG] Saving differences to {output_file}")
 with open(output_file, "w", encoding="utf-8") as f:
