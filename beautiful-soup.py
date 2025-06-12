@@ -38,7 +38,7 @@ print("\n=== Extracted Text ===\n")
 print(cleaned_text)
 
 # Save cleaned text
-with open("cleaned_output2.txt", "w", encoding="utf-8") as output_file:
+with open("cleaned_output.txt", "w", encoding="utf-8") as output_file:
     output_file.write(cleaned_text)
 
 print("[✔] Cleaned text saved to cleaned_output.txt")
