@@ -9,7 +9,7 @@ import ollama
 
 # STEP 1: Initialize Pinecone
 print("[DEBUG] Initializing Pinecone...")
-api_key = "pcsk_3idWwW_4yuYEjXjmfSR3GGuLhmw9M6jzntNwQ3Bf8Cxf8zD9zgkMYADBM5kWqgPsdDNfoU"  # REPLACE WITH YOUR API KEY
+api_key = ""  # REPLACE WITH YOUR API KEY
 pc = Pinecone(api_key=api_key)
 index_name = "pdf-rag-index"
 
