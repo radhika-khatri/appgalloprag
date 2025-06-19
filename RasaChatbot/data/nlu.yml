@@ -1,0 +1,40 @@
+version: "3.1"
+nlu:
+
+- intent: process_image
+  examples: |
+    - process this image
+    - read this image
+    - can you extract the text from image
+
+- intent: ask_pdf
+  examples: |
+    - Is ABC mentioned in the PDF?
+    - What does the PDF say about XYZ?
+    - Can you find ABC in the PDF?
+
+- intent: ask_from_pdf
+  examples: |
+    - What is the return policy?
+    - Tell me about the company
+    - What's mentioned in the document?
+
+- intent: upload_image
+  examples: |
+    - Here is an image
+    - I want to upload this photo
+    - Check this image
+
+- intent: explain_image
+  examples: |
+    - explain this image
+    - tell me what is in this image
+    - analyze this image
+    - what does the image say
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodbye
+    - see you later
+
