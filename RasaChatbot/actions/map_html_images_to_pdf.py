@@ -13,20 +13,14 @@ model = SentenceTransformer("all-MiniLM-L6-v2")
 def extract_pdf_chunks(pdf_path, chunk_size=3):
     print("[DEBUG] Extracting chunks from PDF...")
     doc = fitz.open(pdf_path)
-    chunks = []
+    pages = []
     for page_num in range(len(doc)):
         text = doc[page_num].get_text()
-        paragraphs = [p.strip() for p in text.split('\n') if p.strip()]
-        for i in range(0, len(paragraphs), chunk_size):
-            chunk_text = ' '.join(paragraphs[i:i+chunk_size])
-            if chunk_text:
-                chunks.append({
-                    "page": page_num + 1,
-                    "text": chunk_text,
-                    "images": []
-                })
-    print(f"[DEBUG] Total chunks extracted: {len(chunks)}")
-    return chunks
+        pages.append({"page": page_num + 1, "text": text, "images": []})
+
+    print(f"[DEBUG] Total chunks extracted: {len(pages)}")
+    return pages
+
 
 # Step 2: Extract image-text pairs using full <li> context
 def extract_image_text_pairs_from_html(html_path):
@@ -85,6 +79,7 @@ def map_images_one_by_one(pdf_chunks, img_pairs):
         print(f"[DEBUG] ✔ Image mapped to chunk index {best_idx} (Page {pdf_chunks[best_idx]['page']})")
 
     return pdf_chunks
+
 
 # Main
 if __name__ == "__main__":
