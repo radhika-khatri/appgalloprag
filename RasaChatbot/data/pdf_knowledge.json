@@ -1,0 +1,4358 @@
+[
+  {
+    "page": 1,
+    "text": "Setup Your Account To set up an account: \u2022",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "Step 1: The sellers have to request an invite from https://xtributor.com/US/ \u2022 Step 2: The seller profile approval process is initiated.",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "\u2022 Step 3: On approval, you will be supplied with an URL and a user name. An Invite mail is sent which has a link to set up your login details. Step 4: Enter your preferred username and set up a strong password for your application. Enter a name for your CSP Marketplace to get started",
+    "images": [
+      "https://xtributor.com/US//files/assets/images/kb/readymarketplace/1.jpg",
+      "/files/assets/images/kb/readymarketplace/2.jpg",
+      "/files/assets/images/kb/readymarketplace/3.jpg",
+      "/files/assets/images/kb/readymarketplace/8.jpg"
+    ]
+  },
+  {
+    "page": 1,
+    "text": "Note Recommended strong password for your application: Minimum of 8 characters including a combination of lowercase letters, one uppercase letter, one number, and one special character.",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "\u2022 Step 5: Click on Get Started. This will redirect to your portal. Now you are all set to explore your new CSP store. Sign In To Your Account",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "\u2022 1. Go to your assigned URL. The displayed screen is your login page. \u2022",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "2. Click Login. The Sign In Window is displayed: \u2022 3. Enter the Username and Password. Click on Login. The Getting Started page is displayed.",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/4.jpg",
+      "/files/assets/images/kb/readymarketplace/5.jpg",
+      "/files/assets/images/kb/readymarketplace/6.jpg"
+    ]
+  },
+  {
+    "page": 1,
+    "text": "Note \u2022 For new customers, who do not have an account use click here to register.",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "\u2022 If you forgot your password, reset your password by clicking Forgot Password? \u2022",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "The Reset Password window is displayed. Enter the Username and click on Reset. Login Page Components \u2022",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "1. Login: The seller or customer uses the Login to gain access to the application. \u2022 2. Register: A new customer can Register here to access the seller's application.",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/7.jpg"
+    ]
+  },
+  {
+    "page": 1,
+    "text": "\u2022 3. Products And Services: Without logging in, the Customer can select the required category and land upon the order page. From here orders can be placed.",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "\u2022 4. Product Keyword Search Bar: Here you can search specific products of interest. This directs to the order page. \u2022",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "5. Cart: The orders placed are reflected in the cart. \u2022 6. Popular Links: This section captures deals of the day, best-selling product, new arrivals, and popular & featured services.",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "Getting Started Page Components The table below gives an overview of the main menu: Main Menu",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "Getting Started Set up a marketplace by adding products & company details and set up payment gateways.",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "Dashboard Provides data visualization of your key metrics. Gives an accurate picture of your sales performance.",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "Explore recent orders and upcoming renewals with their status. Showcases the revenue by product. Gives an insight into customer support.",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "Customers Add a new customer. View and edit the existing customer record.",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "Have a clear picture of the customer profile including Subscriptions, Billing, Tickets, and Logs. Enable or Disable settings",
+    "images": []
+  },
+  {
+    "page": 1,
+    "text": "Subscriptions Manage Subscription",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "Orders Add orders, view order summary & status, and cancel orders Invoices",
+    "images": [
+      "/files/assets/images/kb/order/1.jpg",
+      "/files/assets/images/kb/order/2.jpg",
+      "/files/assets/images/kb/order/14.jpg",
+      "/files/assets/images/kb/order/21.jpg"
+    ]
+  },
+  {
+    "page": 2,
+    "text": "List view of invoices and status of generated invoices. Cancel Invoices Storefront Add products, pricing to your products, and coupons.",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "Logs The activity & e-mail logs of the user Settings",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "Customize various settings as per your preference Product Banner: Displays all the products Cart: Reflects the placed order",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "Quick links: By using these links which are accessible easily, you can set up your domain, customize your theme portal, configure the mail server and add an SSL digital certificate. Getting Started",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "This section explains how to launch your marketplace. To set up a ready-to-go marketplace, you need to: \u2022",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "1. Add Products \u2022 2. Add Company Profile",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "\u2022 3. Payment Setup \u2022",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "4. View Marketplace Note It is not mandatory to proceed with the steps in order. You may first fill in the company info and then get back to add products. However, you add products before",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "viewing your marketplace. Add Product The products can be added to the Marketplace one by one or the product list file can be imported. The billing frequency options and the pricing of the products",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/23.jpg",
+      "/files/assets/images/kb/readymarketplace/24.jpg",
+      "/files/assets/images/kb/readymarketplace/26.jpg",
+      "/files/assets/images/kb/readymarketplace/27.jpg",
+      "/files/assets/images/kb/readymarketplace/31.jpg",
+      "/files/assets/images/kb/readymarketplace/32.jpg",
+      "/files/assets/images/kb/readymarketplace/33.jpg",
+      "/files/assets/images/kb/readymarketplace/42.jpg"
+    ]
+  },
+  {
+    "page": 2,
+    "text": "can be set. You can use one of the options: \u2022",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "1. Add Products Individually \u2022 2. Import Product List",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "Add Products Individually To add products to your catalog: \u2022",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "1. Head to Getting Started > Add Products. \u2022 2. The Add Product form is displayed.",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "\u2022 3. Click on Add Product The Add Product form is displayed:",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "4. The next step is adding Primary Category > Sub Category and the respective product with their unique ID. This is a mandatory field. \u2022 To add Primary Category, click on +. The Add Category window is displayed.",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/9.jpg",
+      "/files/assets/images/kb/readymarketplace/10.jpg",
+      "/files/assets/images/kb/readymarketplace/11.jpg",
+      "/files/assets/images/kb/readymarketplace/12.jpg",
+      "/files/assets/images/kb/readymarketplace/13.jpg"
+    ]
+  },
+  {
+    "page": 2,
+    "text": "\u2022 Select the Primary Category from the Parent Service Category dropdown. \u2022",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "Enter the Sub Category in the Service Category Name textbox. \u2022 Click on Choose File to choose the icon of Service Category.",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "\u2022 Describe the category in the Category Description textbox. \u2022",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "Click Save. This product is added to your Marketplace. We see that the product is also added to the Product Banner. 5. The table below describes the fields to be filled in the Add Product form: Field",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "Information Required Product Name",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "Name of the added product Product ID Unique identifier of the added product",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "Product Image Icon of the added product Add Product Image",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "Optional Publisher Name Publisher of the product",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "Optional Distributor Distributor of the product",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "Optional Billing Frequency Billing frequency applicable for the product.",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "Billing Frequency After setting the billing frequency, you can set up the",
+    "images": []
+  },
+  {
+    "page": 2,
+    "text": "pricing of the product Applicable Tax Tax applicable for the product",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "Price applicable from Date from which the price is effective Effective Date",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "Minimum Purchase Quantity Minimum order of the product Maximum Purchase Quantity",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "Maximum order of the product Product Brochure Description of the product, services, and",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "features Optional Short Description",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "Provides a short description of the product Optional Long Description",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "Provides a detailed description of the product Optional Status",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "Set the status of the product Options: Publish: Publish the product at the",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "Marketplace Draft: Saves the product for later use Disable: Deactivates the product",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "Optional Import Products The product list can be imported from an",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "excel file to your store. Import Products Optional",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "Product Features Sets product features Example:",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "24 x 7 Service Support Promotion if applicable Extended Support",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "Optional Additional Settings Choose if you require domain verification",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "Optional \u2022 6. Click on Save & Add more to add more products to your catalog else click Save & Next to proceed.",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "\u2022 7. A message confirms your product is added. Click on Close. Note:",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "If the mandatory details are not filled in, you will not be able to save the added product. The required details that are not filled in will be highlighted as shown in the below figure. Product Image",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "To add a product image icon: \u2022 a. Click on Choose File to select the product image file from the Media Library. The Media Library window is displayed.",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/14.jpg",
+      "/files/assets/images/kb/readymarketplace/15.jpg"
+    ]
+  },
+  {
+    "page": 3,
+    "text": "\u2022 b. Click on Logo. The thumbnails of various products are displayed. Choose the relevant logo for your product added. Billing Frequency",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "This field is used to set the billing frequency options and pricing of the product. The options available are Monthly, Quarterly, Half Yearly, One Time, and Pay-Per-Use monthly. Pay-Per-Use monthly is a flexible mode as it depends on the duration of the usage. \u2022",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "a. To set the billing frequency, select the options as applicable. Note: You can set more than one billing frequency option as per the product.",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "Example: For a product added; Half Yearly and Annually options can be added b. After selecting the Billing Frequency, you have to set the product pricing for all the options. For sample, take the Half Yearly option:",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/16.jpg",
+      "/files/assets/images/kb/readymarketplace/18.jpg"
+    ]
+  },
+  {
+    "page": 3,
+    "text": "\u2022 Enter the Cost Price of the product. \u2022",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "Enter the Markup % \u2022 The Sell Price is displayed automatically.",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "\u2022 Set the MRP of the product \u2022",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "Repeat the above for all the options selected under the Billing Frequency. \u2022 Note:",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "The MRP of the product set should be greater than the Sell Price.If not, you can see the following message displayed: \"Looks like your Sell Price is greater than MRP Price\" Price Effective Date",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/17.jpg"
+    ]
+  },
+  {
+    "page": 3,
+    "text": "To select the price effective date: \u2022 a. Click on , the calendar icon to set the price effective date.",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/19.jpg"
+    ]
+  },
+  {
+    "page": 3,
+    "text": "\u2022 b. Use , to move to any other month of the present calendar year or any other year. \u2022",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "c. Use , to move to the next month. \u2022 d. Click Today to select the effective date as today's.",
+    "images": []
+  },
+  {
+    "page": 3,
+    "text": "\u2022 e. Click Clear to cancel the date. Import Product List",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "Alternative to adding products from the add product window, products can also be imported from an existing excel file. Here we upload the product list file and map the fields with the columns of the excel file. Note:",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "The links in the Upload File window are the steps for importing the file. These links are visible in every step and highlight the step in the process. To import product list: \u2022",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "1. Head to Getting Started > Ready To Go Marketplace > Add Product. \u2022 2. Click Import Product to start the process.",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/20.jpg"
+    ]
+  },
+  {
+    "page": 4,
+    "text": "Step 1: Upload EXCEL FILE This step uploads the file. \u2022",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "a. Click on Import Products +. The Upload Excel File window is displayed. Note: \u2022",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "Before you import the file, you can download the sample excel template to look at the format of the data used. Click on Sample Excel Template to download the sample file. Maintain the same format of the data as the sample provided for successful upload \u2022",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "Make sure to overwrite products having the same SKU ID \u2022 b. Click on or Select Drop Files Here to upload the product list file",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "\u2022 4. Status (Active/Inactive/Terminated) Step 2: Column Mapping",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "After the file is uploaded, you have to map the corresponding fields with the columns of the excel file. \u2022 a. Click on Column mapping. The Column mapping window is displayed.",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "\u2022 b. Map the fields by selecting the respective columns. For example, if you have a column in your sheet named Customer Company, you need to map it with Company Name, and so on.",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/22.jpg",
+      "/files/assets/images/kb/customer/6.jpg"
+    ]
+  },
+  {
+    "page": 4,
+    "text": "\u2022 c. Click on Continue to move to the next step or click Back to go to the Upload Excel File window. Step 3: Import",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "Click on Import to upload the product list. The status window is displayed. Your product list file is imported. Company Info The company information and other details required for billing purposes are set in this section.",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "To enter your Company Info: \u2022 1. Click on Company Info from the Getting Started page. The Company Info form is displayed",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "2. Enter the following details to complete this step: Field Information",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "Required Company Details Company Name",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "Organization name Company Website Company website URL",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "Optional Personal Details First Name",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "Last Name First name and Last name of the Seller User Name",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "User Name you would like to use for this portal Email",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "Email id for communication Billing Address Billing Address",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "Billing address Mailing Address Mailing Address",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "If your mailing address is the same as the billing address, check the box as given below:",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "If the mailing address is the same, the fields of the mailing address are filled in automatically",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "as soon as you check the box. Contact Information Contact No",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "Enter your contact information Mobile No Enter your contact information",
+    "images": []
+  },
+  {
+    "page": 4,
+    "text": "Optional Financial Details",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "GST/ TAX ID GST Tax Identification number for billing purposes",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "Company Incorporation ID Company Incorporation ID or CID for billing purposes",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "Tax-Exempt If you are eligible for tax exemption, check Tax Exempt.",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "If eligible, enter the Tax Number. Billing Information Order Prefix",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "Found at the beginning of the order number. Used for tracking and managing the orders",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "Order Sequence Number Used for tracking and managing orders Invoice Prefix",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "Found at the beginning of the order number. Used for tracking and managing the invoices",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "Invoice Sequence Number Used for tracking and managing invoices Company Logo",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "Logo Uploading your company logo Note:Use image of resolution 200px x 50px",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "for best fit and accepts only jpeg, gif, png of max size 1MB Optional",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "Small Logo Note:Use image of resolution 100px x 100px for best fit and accepts",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "only jpeg, gif, png of max size 1MB Optional \u2022",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "3. Click on Save& Next to save your details and head to the next step Payment Gateway Setup You can access the Payment Setup by navigating to the Getting Started page and going to Payment Setup.",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "In this module, you will integrate both online and offline payment modes for the transaction. \u2022 1. Online Payment (Payment Gateway)",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "\u2022 2. Offline Payment (Bank Details) Set Up An Online Payment Gateway",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "There are two payment gateways to choose from. You can integrate either Paypal or Stripe or both as your transaction gateway. To set up an online payment method, navigate to Payment Setup and click Online Payment (Payment Gateway) Note",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "By default, the Online Payment (Payment Gateway) window is displayed. The Paypal Gateway setup screen is displayed. To set Paypal as your transaction gateway: \u2022",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "1. Click on to enter the details. \u2022 2. Enter the display name",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "\u2022 3. Enter the user name and password \u2022",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "4. Click on Save to save the PayPal gateway details. \u2022 5. Click on Launch to launch your Marketplace.This action rediects to your MarketPlace.",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "\u2022 6. Enable the toggle button to activate the payment gateway. The Enable toggle button is at the top right-hand side of the Payment Methods window. Note:",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "To deactivate the Paypal payment gateway, disable the Enable toggle button To set Stripe as your transaction gateway: \u2022",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "1. Choose Stripe on the Payment Methods page. \u2022 2. Click to enter the details.",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "\u2022 3. Enter the display name \u2022",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "4. Enter the API key \u2022 5. Enter the success URL and Cancel URL",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "\u2022 6. Click on Save to save the PayPal gateway details. \u2022",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "7. Click on Launch to launch your Marketplace. This action redirects to your MarketPlace. \u2022 8. Enable the toggle button to activate the payment gateway. The Enable toggle button is at the top right-hand side of the Payment Methods window",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "Note: To deactivate the Stripe payment gateway, disable the Enable toggle button",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "Set Up An Offline Payment Gateway To set up an offline payment method, navigate to Payment Setup and click Offline Payment (Bank Details) To add bank details to the offline payment mode:",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "\u2022 1. Click Add Bank. The Add Bank window is displayed. 2. Enter the following details to complete this step:",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "Field Information Required",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "Account Number Your bank account information Bank Name",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "Your bank account information Payee/ Account Name Your bank account information",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "NEFT/RTGS/ACHE Type of online transfer Address, Country, Bank Branch & City",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "Address of the bank \u2022 3. Enable the Status button to activate the payment gateway. The Status toggle button is at the bottom left-hand side of the Add Bank window",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/28.jpg",
+      "/files/assets/images/kb/readymarketplace/29.jpg"
+    ]
+  },
+  {
+    "page": 6,
+    "text": "\u2022 4. Click Save. The added bank details are updated in the Bank List as shown below. To see the Bank list, navigate to Payment Setup and click Offline Payment (Bank Details)",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "Note: Use First, Previous, Next, Last links at the bottom right of the Bank List screen for navigating through the list. the Payment Methods window.",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "Note: To deactivate the Paypal payment gateway, disable the Enable toggle button To edit bank information:",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "\u2022 1. To edit the added bank details, go to the Bank List. \u2022",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "2. Click on more icon, present at the end of the record that has to be edited \u2022 3. Select the Edit option",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "\u2022 4. The Add Bank window with the furnished details is displayed. \u2022",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "5. Edit the details that have to be changed. \u2022 6. Click Save to save the changes made.",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "To delete bank account: \u2022 1. To delete the bank account, go to the Bank List.",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "\u2022 2. Click on more icon, present at the end of the record that has to be edited \u2022",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "3. Select the Delete option. A confirmation pop-up window is displayed. \u2022 4. Click Yes, Delete it! if you are sure of deleting the bank information from the list. Click No, to cancel the deletion.",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/30.jpg"
+    ]
+  },
+  {
+    "page": 6,
+    "text": "View Marketplace Now you are all set! You have launched your Marketplace by adding products, setting up a pricing list, and the payment gateway. You can view your Marketplace by heading to the Getting Started page and going to View Marketplace",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "The catalog lists all products you have added with the respective Product Name, ID, Logo, Markup Price, and Selling Price. Sample of a product from the catalog: This product lists the information provided from the Add Product",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "From here, you can initiate an order following any of the options: \u2022 1. Add To Cart",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "\u2022 2. View Details Add To Cart",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "To order products: \u2022 1. Select the product from the catalog",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "\u2022 2. Click Add to Cart. The product is added to the cart. Note:",
+    "images": []
+  },
+  {
+    "page": 6,
+    "text": "After the product is added you can hover over the cart icon, to view the product in your cart. The cart icon, is present at the top right of the MarketPlace. \u2022 3. Click on the check out icon, to check out the ordered product. The Order Confirmation page is displayed",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/34.jpg",
+      "/files/assets/images/kb/readymarketplace/35.jpg",
+      "/files/assets/images/kb/readymarketplace/36.jpg"
+    ]
+  },
+  {
+    "page": 6,
+    "text": "Note: If you would opt to change the quantity and the term of the ordered product, you can also make the changes in this screen. The orderd item can also be",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "deleted by clicking the cancel icon, present at the end of each product. \u2022 4. Click Proceed to Checkout.",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "5. The next step requires the Customer Details to whom the order is placed. \u2022 Existing Customer: Select the existing customer from the list.",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "\u2022 New Customer: If the customer is new, click on Register for registering the customer. \u2022",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "6. Click on Proceed to Payment. The Payment page is displayed: The two options of payment are: \u2022",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "Pay using credit \u2022 Pay using offline/ bank transfer",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/37.jpg"
+    ]
+  },
+  {
+    "page": 7,
+    "text": "Pay using Credit This option is enabled only if: \u2022",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "1. The reseller enables the credit option in the Customer's Setting. \u2022 2. There is no credit overdue.",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "To pay from credit, follow the steps: \u2022 1. Click the add icon, + on the Pay From Credit tab to use the credit option.",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/38.jpg",
+      "/files/assets/images/kb/readymarketplace/39.jpg"
+    ]
+  },
+  {
+    "page": 7,
+    "text": "Note: You can also add credit to the customer's account. \u2022",
+    "images": [
+      "/files/assets/images/kb/order/12.jpg"
+    ]
+  },
+  {
+    "page": 7,
+    "text": "2. Enter the Coupon Code, if applicable. \u2022 3. Click Proceed to Payment.",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "\u2022 4. The Order Confirmation page is displayed: Pay using Offline/ Bank Transfer",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "To pay us, follow the steps:: \u2022 1. Click the add icon, + on the Pay Offline/ Bank Transfer tab.",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "\u2022 1. The bank details available are listed for the transaction. \u2022",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "2. Enter the Coupon Code, if applicable. \u2022 3. Transfer the amount payable using the bank details provided.",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "\u2022 4. Mail the transaction details to billing@appgallop.com or raise a ticket to the Billing department from the customer portal. \u2022",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/40.jpg",
+      "/files/assets/images/kb/readymarketplace/41.jpg"
+    ]
+  },
+  {
+    "page": 7,
+    "text": "5. Click Place Order. \u2022 6. The Order Confirmation page is displayed:",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "Order Initialised from View Detail Click on View Detail for the product details in your Marketplace. You can also order the products from this page. To order product:",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "\u2022 1. Select the term applicable. \u2022",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "2. Choose the quantity by selecting + or - accordingly for increasing or decreasing the item. \u2022 3. Click on Add To Cart. The product is added to the cart.",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "Dashboard The Dashboard is a holistic view of an up-to-date measure of your business metrics at a glance. Here you can set performance goals, define & analyse key metrics, view customer & sales churn, information on new sign-ups.",
+    "images": [
+      "/files/assets/images/kb/dashboard/1.jpg",
+      "/files/assets/images/kb/dashboard/2.jpg",
+      "/files/assets/images/kb/dashboard/3.jpg"
+    ]
+  },
+  {
+    "page": 7,
+    "text": "The various sections of the dashboard are: \u2022 1. Key Metrics: visualize your annual & monthly recurring revenues",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "\u2022 2. New Accounts: highlights the new sign-ups with status \u2022",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "3. Recent Orders: a quick overview of recent orders with status \u2022 4. Upcoming Renewals: glance of renewals with their expiry date",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "\u2022 5. Revenue by product category: analyses and compares revenue by category \u2022",
+    "images": []
+  },
+  {
+    "page": 7,
+    "text": "6. New Vs Renewal: compares renewal with new Key Metrics This graphical representation tracks your revenue, one of the significant metrics. Revenue analysis helps you in thoroughly analysing and planning.",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "Features: \u2022 1. Visualize the comparison of annual and monthly recurring revenue.",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "\u2022 2. Monitor, compare and analyse the revenue incurred towards Perpetual & Subscription products. \u2022",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "3. Analyse revenue growth or revenue drop \u2022 4. Keep track of your target.",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "New Accounts This section highlights the New Signups (past 7- or 30- days) in a table view. The status of the signup is displayed with the primary details. This gives you a good perspective on the sign-ups.",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "Recent Orders Recent Orders provides a quick overview of the past 7- or 30-days order summary. The table view lists the order ID, order date, cost price, and the amount with the order status.",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "Upcoming Renewals Upcoming Renewals shows when the products are set to renew with the days left for renewal, quantity, amount, and status for the next 7- or 30- days. Revenue By Product Category",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "Revenue by product tracks and compares the performance by product categories. This helps you in comparing revenues incurred by the categories. New Vs Renewal Compares new with renewal",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "Sales Dashboard Sales reports are focused on details of metrics that provide a broad overview of the sales cycle; from deals to sales generated. Reporting on sales include:",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "\u2022 1. Sales Performance: monthly/ annual sales report and compares with the target. \u2022",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "2. Monthly Deals by Source \u2022 3. Won Deals",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "\u2022 4. Deal Win Rate \u2022",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "5. Recent Sale Deals \u2022 6. Deal Summary",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "Sales Performance A sales Performance dashboard provides you a snapshot of annual and monthly sales, measures it against the target. This overview helps you see how your actual sales performance is compared with the set goals.",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "Monthly Deals by Source This report gives an understanding of where your deals are coming from. You can use this to prioritize the deals that require close attention, categories qualified and unqualified deals and the number of deals required to attain the monthly target.",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "Won Deals Won Deals lists the closed deals in a month with the sales generated and the assignee of the deal. This outlines you with information on the sales cycle length and the assignee performance.",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "Deal Win Rate Deal win rate is used to track percentage of deals closed for a specific period. It is calculated as Won Deals/Won Deals + Non-Won Deals.",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "Here the conversion rate is visualized which tells you the way you are progressing in converting opportunities to won deals. Recent Sale Deals This table view lists the sale deals with their status information. The expected closing date gives you a glance of the conversion time it takes and bring in change",
+    "images": []
+  },
+  {
+    "page": 8,
+    "text": "in your sales strategy, if required. Deal Summary",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "Manage Your Customers You can use the Customers section to: \u2022",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "1. Customers: Add, view, edit and search customer profile. \u2022 2. Subscriptions: View and manage Subscriptions.",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "\u2022 3. Orders & Billing: View and manage orders, invoices, receipts and ledgers \u2022",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "4. Ticket: Add and manage tickets \u2022 5. Logs: Registers activities and accesses email logs",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "\u2022 6. Settings: Configure different settings for a specific customer Customer Window",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "Go to Customers The Customer Window is displayed This section allows you to add customers, view and edit customers using the more option at the end of each customer details and search customers using",
+    "images": [
+      "/files/assets/images/kb/customer/1.jpg",
+      "/files/assets/images/kb/customer/2.jpg",
+      "/files/assets/images/kb/customer/4.jpg",
+      "/files/assets/images/kb/customer/7.jpg",
+      "/files/assets/images/kb/customer/8.jpg",
+      "/files/assets/images/kb/customer/10.jpg",
+      "/files/assets/images/kb/customer/11.jpg",
+      "/files/assets/images/kb/customer/31.jpg",
+      "/files/assets/images/kb/customer/34.jpg",
+      "/files/assets/images/kb/customer/49.jpg",
+      "/files/assets/images/kb/customer/51.jpg",
+      "/files/assets/images/kb/customer/52.jpg",
+      "/files/assets/images/kb/customer/53.jpg",
+      "/files/assets/images/kb/customer/54.jpg",
+      "/files/assets/images/kb/customer/55.jpg",
+      "/files/assets/images/kb/customer/56.jpg",
+      "/files/assets/images/kb/customer/57.jpg",
+      "/files/assets/images/kb/customer/58.jpg",
+      "/files/assets/images/kb/customer/59.jpg",
+      "/files/assets/images/kb/customer/60.jpg",
+      "/files/assets/images/kb/customer/61.jpg",
+      "/files/assets/images/kb/customer/62.jpg"
+    ]
+  },
+  {
+    "page": 9,
+    "text": "the search bar present at the top of the list. Add Customers To add customers one by one:",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "\u2022 1. Go to Customers > Add Customers. The Add Customers form is displayed: 2. Enter the following details to complete this step:",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "Field Information Required",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "Company Details Company Name Organization name",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "Company Website Domain Name Note:",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "Make sure to enter the domain name in the Company Website field, instead of the URL.",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "Optional Personal Details First Name",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "Last Name First name and Last name of the Customer",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "User Name User Name must be unique. Note:",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "If the User Name you had entered is available, you will see a checkmark. Now you can move",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "on to the next information. Email Email id of the customer for",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "communication Billing Address Billing Address",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "Billing address Mailing Address Mailing Address",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "To use the same address as your billing address, click the check box as below:",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "If the mailing address is different, enter the complete address. Note:",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "If the mailing address is the same, the fields of the mailing address are filled in automatically as",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "soon as you check the box. Contact Information Contact No",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "The country code is displayed automatically. Mobile No",
+    "images": []
+  },
+  {
+    "page": 9,
+    "text": "Enter your contact information Optional Financial Details",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "Credit Limit Maximum amount of credit offered to the customer",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "Optional Company Incorporation ID Company Incorporation ID or CID for",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "billing purposes GST/ TAX ID GST Tax Identification number for billing",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "purposes Tax-Exempt If you are eligible for tax exemption,",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "check Tax Exempt. If eligible, enter the Tax Number. Other Details",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "Currency Currency of the customer Status",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "\u2022 Active: Customer is presently availing your service.",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "\u2022 Inactive: Customer is not able to access the portal.",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "\u2022 Terminated: Customer has permanently stopped using",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "your service or you have opted to terminate the account. \u2022",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "3. Click on Save once the details are added. This will successfully add the customer to the list of customers on the Customer Window page. Import Customer List Alternative to adding customers from the add customer window, customers can also be imported from an existing excel file. Here we upload the customer list",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "file and map the fields with the columns of the excel file. Note The links in the Upload File window are the steps for importing the file. These links are visible in every step and highlight the step in the process.",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "To import the customer list file: Select Customers > Actions > Import Step 1: Upload EXCEL FILE",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "This step uploads the file. \u2022 a. Click on Import Products +. The Upload Excel File window is displayed.",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/21.jpg",
+      "/files/assets/images/kb/customer/5.jpg"
+    ]
+  },
+  {
+    "page": 10,
+    "text": "Note: \u2022 Before you import the file, you can download the sample excel template to look at the format of the data used. Click on Sample Excel Template to",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "download the sample file. Maintain the same format of the data as the sample provided for successful upload \u2022 Make sure to overwrite products having the same SKU ID",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "\u2022 b. Click on or Select Drop Files Here to upload the product list file \u2022",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "4. Status (Active/Inactive/Terminated) Step 2: Column Mapping After the file is uploaded, you have to map the corresponding fields with the columns of the excel file.",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "\u2022 a. Click on Column mapping. The Column mapping window is displayed. \u2022",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "b. Map the fields by selecting the respective columns. For example, if you have a column in your sheet named Customer Company, you need to map it with Company Name, and so on. \u2022",
+    "images": []
+  },
+  {
+    "page": 10,
+    "text": "c. Click on Continue to move to the next step or click Back to go to the Upload Excel File window. Step 3: Import",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "Click on Import to upload the product list. The status window is displayed. Your product list file is imported. Customer Profile To access the details of the customer",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "\u2022 1. Navigate to Customers. Customer List screen is displayed. \u2022",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "2. By clicking on any of the details of a customer, you will land on the Customer Profile of that specific customer. The details of the customer in the list include: \u2022",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "a. Account Name: implies the Company Name \u2022 b. Primary Contact & Email",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "c. Status Status can be one of the following: \u2022 Active: Customer is presently availing your service",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "\u2022 Inactive: Customer is not able to access your service. \u2022",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "Terminated: Customer has permanently stopped using your service or you have opted to terminate their account. To view the Customer Profile: \u2022",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "1. Click on any of the details of a customer of your interest. For example: If you click on Account Name, Cloud Pvt Ltd as in the above figure, you will be directed to the profile page of that customer: The following components are present throughout the windows of the customer profile screen:",
+    "images": [
+      "/files/assets/images/kb/customer/9.jpg"
+    ]
+  },
+  {
+    "page": 11,
+    "text": "\u2022 1. Account Number and Company Name \u2022",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "2. Customers Button: Directs to the Customer List 3. Customer Profile Sections: \u2022",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "Summary \u2022 Subscriptions",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "\u2022 Billing \u2022",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "Tickets \u2022 Logs",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "\u2022 Settings Customer Summary",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "Customers > Customer Profile Customer Summary provides the highlights of the selected customer. The Customer Summary screen is organized into various sections which give you an understanding of the customer.",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "The customer's contact information, recent orders, credit/wallet, monthly spend, annual spend, due invoices, spend analysis, complaints resolved, upcoming renewals, and a comparison of new and renewal services are included in the summary. To view the customer summary:",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "Select the Customer and click on any of the listed details. The Customer Summary screen is displayed: Customer Summary Screen What does it say?",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "Customer's Contact Information Primary contact name and contact number Email",
+    "images": []
+  },
+  {
+    "page": 11,
+    "text": "Price List set for this customer Reset Password link",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "Recent Orders By selecting any one of the options, the orders of the last 7 days or 30 days can be viewed.",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "Dashboard Dashboard view of credit/wallet, monthly spend, annual spend, and due invoices.",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "Spend Analysis Analyses the expenditure of the past 12 consecutive months Upcoming Renewals",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "Product list with the upcoming renewal details like due date, days left, quantity, and status. New Vs Renewal",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "Total billing of new and renewal subscriptions on a monthly basis. Subscriptions Customers > Customer Profile > Subscriptions",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "This page lists all the subscriptions that a customer had purchased. The details include name, price, expiry date, billing date, and status. In this section, you can: \u2022",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "1. View Subscriptions \u2022 2. Manage Subscriptions",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "View Subscriptions To view the subscriptions: Connect to Customer Profile page. Click on Subscriptions. The subscription list with the price, expiry date of subscription & billing, and status.",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "Subscription is displayed: Manage Subscriptions Subscription Management helps you:",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "\u2022 1. Change the status of the subscriptions \u2022",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "2. Schedule the subscription \u2022 3. Schedule the billing renewal",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "To manage the subscriptions: Click on the Subscription Name or More Actions, you will be directed to the Subscription Management screen. A more detailed view of a specific subscription including the Subscription Scheduler and Billing Renewal Scheduler is displayed:",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "This page lists the complete details like quantity, subscription start, and expiry date, billing start and end date, billing frequency, renew price, and last modified date. The last modified date lists the date of recent changes. Subscription Status Change",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "A subscription goes through various states. These include: \u2022 1. Active: When you approve a subscription, it goes to an active state. The customer can use the subscription.",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "\u2022 2. Cancelled: When you cancel a subscription, it goes to cancelled state and cannot be reactivated. \u2022",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "3. Pending: The subscription is pending until the validation is complete. You can either approve or reject the subscription. \u2022 4. Suspended: The subscription is paused temporarily and can be reactivated later.",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "\u2022 5. Terminated: The subscription can no longer be used and cannot be reactivated. To change the subscription status:",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "\u2022 1. Go to Customer Profile page and select Subscription. The Subscription Management page is displayed \u2022",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "2. Click on the edit, icon. \u2022 3. Select the status from the list of dropdown options.",
+    "images": []
+  },
+  {
+    "page": 12,
+    "text": "\u2022 4. Click on the checkmark, to confirm the status change else click on the cancel icon, to cancel it.",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "\u2022 5. On clicking the checkmark, you will see a confirmation pop-up window. Click Yes! to confirm else click Cancel to cancel the status change. \u2022",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "6. Once you confirm, a success message confirming the status change is displayed: Subscription Scheduler To schedule the subscription:",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "\u2022 1. Navigate to Customer Profile page and select Subscription. The Subscription Management page is displayed. \u2022",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "2. The Subscription Scheduler is found at the top right of the page. 3. Enable Auto Renew to process automatic renewals at the end of the subscription term. Note:",
+    "images": [
+      "/files/assets/images/kb/customer/15.jpg",
+      "/files/assets/images/kb/customer/16.jpg"
+    ]
+  },
+  {
+    "page": 13,
+    "text": "\u2022 Auto-Renew is set on the Customer Settings page. \u2022",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "The subscription expiry date is displayed in the scheduler. \u2022 The scheduler also highlights the post subscription and pending day count.",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "\u2022 If the billing is overdue, you will see a negative count. Billing Renewal Scheduler",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "To schedule the billing renewal: \u2022 1. Connect to the Customer Profile and select Subscription. The Subscription Management page is displayed:",
+    "images": [
+      "/files/assets/images/kb/customer/17.jpg",
+      "/files/assets/images/kb/customer/18.jpg"
+    ]
+  },
+  {
+    "page": 13,
+    "text": "\u2022 2. The Billing Renewal Scheduler is found at the bottom right of the page. \u2022",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "3. Enable Auto-Renew for turning on the recurring billing cycle. A confirmation popup window is displayed: Note: \u2022",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "Auto-Renew is set on the Customer Settings page. \u2022 The Billing End Date is displayed in the scheduler.",
+    "images": [
+      "/files/assets/images/kb/customer/19.jpg"
+    ]
+  },
+  {
+    "page": 13,
+    "text": "\u2022 The scheduler also highlights the post-billing day count and the leftover day count for the next billing cycle. \u2022",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "If the billing is overdue, you will see a negative count. Orders and Billing Customers > Customer Profile > Billing",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "Here you can manage orders, view invoices, receipts, and the ledger for a specific customer. The Billing page has four sections: \u2022",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "1. Order: To see the past orders, edit, and cancel the existing orders \u2022 2. Invoices: To see the invoices and cancel an invoice",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "\u2022 3. Receipts: To see the generated receipts of all the orders \u2022",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "3. Ledger: To see the complete transaction history View Orders To view the past orders:",
+    "images": []
+  },
+  {
+    "page": 13,
+    "text": "\u2022 1. Connect to Customer Profile page and select Billing. The Billing page is displayed:",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "Order history lists the orders in chronological order and include the following: \u2022 Order No",
+    "images": [
+      "/files/assets/images/kb/customer/21.jpg"
+    ]
+  },
+  {
+    "page": 14,
+    "text": "\u2022 Order Date \u2022",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "Cost Price \u2022 Amount",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "\u2022 Status \u2022",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "The orders can be searched by any of the above details using the search bar 2. Click on the Order Number or the More Actions button at the end of the order and select View Order to view the following two sections: The first section of the order displays the following:",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "\u2022 Order No and Date of purchase \u2022",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "Tax ID \u2022 Status (Pending/ Complete/ Cancelled)",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "\u2022 Billing Address, Email, and contact information \u2022",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/25.jpg",
+      "/files/assets/images/kb/customer/3.jpg"
+    ]
+  },
+  {
+    "page": 14,
+    "text": "Purchaser of the product The second section of the order displays the following: \u2022",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "Product name \u2022 Term",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "\u2022 Quantity \u2022",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "Unit price \u2022 Amount",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "\u2022 Cost price \u2022",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "Discount \u2022 Tax",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "\u2022 Total Amount \u2022",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "Coupon if applicable \u2022 Grand Total after applying the Coupon",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "Note You can print the order, download the order as pdf or email the order using the options at the upper-right corner of the page. Edit Orders",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "\u2022 1. Go to Customer Profile and select Billing. The Billing page is displayed \u2022",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "2. Click on the More Actions and select Edit Order to change the order details. The Edit Order page is displayed: Delete Orders To delete a particular order:",
+    "images": []
+  },
+  {
+    "page": 14,
+    "text": "\u2022 1. Go to Customer Profile and select Billing. The Billing page is displayed.",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "\u2022 2. Click on the More actions button at the end of the order that has to be deleted and select Cancel Order to delete the order. \u2022",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "3. A confirmation popup window is displayed. Click Yes to cancel the order and No to cancel the deletion. \u2022 4. On clicking Yes, success message is displayed. Click Ok to close the window.",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "View Invoices To view the generated invoices: \u2022",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "1. Connect to Customer Profile page and select Billing. The Billing page is displayed: 2. Select the Invoices tab. Invoice history lists the invoices in chronological order and includes the following: \u2022",
+    "images": [
+      "/files/assets/images/kb/customer/22.jpg",
+      "/files/assets/images/kb/customer/25.jpg"
+    ]
+  },
+  {
+    "page": 15,
+    "text": "Invoice No and date \u2022 Cost Price",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "\u2022 Amount \u2022",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "Receipt No \u2022 Mode of Payment (Offline, Credit)",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "\u2022 Billing Status (Paid, Unpaid) 3. Click on the Invoice Number or the More Actions button at the end of the invoice.The Invoice is displayed with two sections.",
+    "images": [
+      "/files/assets/images/kb/customer/26.jpg"
+    ]
+  },
+  {
+    "page": 15,
+    "text": "The first section of the invoice displays the following: \u2022 Invoice No and Date of purchase",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "\u2022 Tax ID \u2022",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "Status can take Unpaid or paid status \u2022 Billing Address, Email, and contact information",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "\u2022 Purchaser of the product The second section of the invoice displays the following:",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "\u2022 Product name \u2022",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "Term \u2022 Quantity",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "\u2022 Unit price \u2022",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "Amount \u2022 Cost price",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "\u2022 Discount \u2022",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "Tax \u2022 Total Amount and Grand Total",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "Cancel Invoices To cancel an invoice of a particular customer: \u2022",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "1. Go to Customer Profile and select Billing. \u2022 2. Select the Invoices tab",
+    "images": []
+  },
+  {
+    "page": 15,
+    "text": "\u2022 2. Click on the More actions button at the end of the invoice that has to be deleted and select Cancel Invoice to delete the invoice.",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "\u2022 3. A confirmation popup window is displayed. Click Yes to cancel the invoice and No to cancel the deletion. \u2022",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "4. On clicking Yes, success message is displayed. Click Ok to close the window. Receipt Add Receipts",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "To add a receipt for an order: \u2022 1. Go to Customer Profile and select Receipt.",
+    "images": [
+      "/files/assets/images/kb/customer/29.jpg",
+      "/files/assets/images/kb/customer/30.jpg"
+    ]
+  },
+  {
+    "page": 16,
+    "text": "\u2022 2. Click Add Receipt. The Add Receipt form is displayed: 3. Enter the following details:",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "Field Description Required",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "Date Select the date, the date at which payment was initiated",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "Amount Enter the order / invoice amount Transaction ID",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "Enter the transaction ID of the payment Optional Payment Method",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "Specify the payment method (online/ offline payment modes) Order/ Invoice",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "Select order or invoice. Order numbers or Invoice numbers are generated as per the selection",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "Description Brief about the transaction \u2022",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "4. Click Save. On saving, it gets added to the receipt list. Manage Receipts Here you can view and edit the generated receipts of a selected customer.",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "View Receipts To view the generated receipts: \u2022",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "1. Navigate to the Customer Profile and select Receipts. 2. Receipts history lists all the receipts in chronological order and includes the details added in the Add Receipt section. \u2022",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "Receipt Number and date \u2022 Amount",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "\u2022 Transaction ID: identifies the purchase by the customer as per the payment mode \u2022",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "Description: Includes description about the \u2022 Payment Method",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "Edit Receipts To edit the generated receipts: \u2022",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "1. Navigate to the and select Receipts. \u2022 2. Click on the More actions button at the end of the receipt that has to be edited.",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "Ledger Customers > Customer Profile > Ledger The overall transactions, inclusive of all credits and debits of a selected customer can be viewed in the Ledger page. On adding a receipt In the Receipt",
+    "images": []
+  },
+  {
+    "page": 16,
+    "text": "section, the ledger also gets updated automatically based on the information given View Ledger",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "To view the ledger: \u2022 1. Connect to the Customer Profile page and select Ledger.",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "2. The ledger page displays the following details from the add receipt section in chronological order \u2022 Date and time of the receipt creation",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "\u2022 Reference Number which implies the type of transaction \u2022",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "Description \u2022 Debit & Credit Amount",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "\u2022 Cumulative Balance View and Edit Receipt",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "From the ledger section, you can also view and edit the receipt of the specific transaction. \u2022 1. Connect to the Customer Profile page and select Ledger.",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "\u2022 2. Click on the More actions button at the end of the ledger whose transaction receipt has to be viewed or edited. Tickets",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "Customers > Customer Profile > Tickets This section helps you to centrally manage service requests from various customers. The following actions can be performed here:",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "\u2022 1. Add: Add tickets \u2022",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "2. View: View the ticket's summary. \u2022 3. Reply: View the ticket and reply",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "\u2022 4. Add Department: Add a relevant department for resolving issue. \u2022",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "5. Manage: Allocate assignee, merge tickets, move the tickets to a different department. Add Tickets To add tickets:",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "\u2022 1. Navigate to the Customer Profile page and select Tickets. The Ticket Management page is displayed: \u2022",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "2. Click Add Ticket to add a support ticket. 3. Enter the following details: Field",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "Description Required Client",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "Customer whose request have to be attended Department",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "Allocation of department according to the issue Product/ Subscription",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "Products related to that specific client is seen in the dropdown. Select the related product",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "Subject Summarizes the issue faced Post Reply",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "Brief the concern of the client Attachments Allows to add attachments of jpeg, gif,",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "png, pdf, doc of max size 5MB Optional Priority",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "Set the priority based on the severity of the issue Options: Low, Medium, High and Urgent",
+    "images": []
+  },
+  {
+    "page": 17,
+    "text": "Optional",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "Ticket Status Tracks the progress of the ticket. Select a state that can be applied:",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "\u2022 Open: At the time of creation \u2022",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "Answered: \u2022 Inprocess:",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "\u2022 Resolved: solution is provided \u2022",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "Closed: When a ticket is closed, cannot be changed \u2022",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "4. Click Save. This action saves the ticket details and lists the ticket in the Ticket Management page. Support Tickets Overview The Support Tickets page lists all the tickets raised by a specific customer. This screen gives an overview of the ticket history of the customer inclusive of the",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "status count of all tickets. The list consists of the following: \u2022",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "1. Ticket Number \u2022 2. Department that is assigned",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "\u2022 3. Subject, summarizing the issue \u2022",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "4. Requested by \u2022 5. Assignee",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "\u2022 6. Last Activity \u2022",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "7. Priority \u2022 8. Status",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "To view the support tickets list: Navigate to the page and select Tickets > Add Tickets > Support Tickets. The Support Tickets page is displayed: View Ticket and Reply",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "To view a support ticket and reply: \u2022 1. Navigate to the Customer Profile page and select Tickets > Add Tickets > Support Tickets. Click on the Ticket # of a specific ticket that has to be",
+    "images": [
+      "/files/assets/images/kb/customer/35.jpg"
+    ]
+  },
+  {
+    "page": 18,
+    "text": "viewed. The View ticket page is displayed: 2. This screen has two sections, of which the first section has the ticket description and General Information and the second section has the reply part to be posted.",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "Note: \u2022 The General Information has the details of the ticket provided",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "\u2022 The reply can be posted with attachments, if required and accepts only jpeg, gif, png, pdf, doc of max size 5MB. \u2022",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "3. You have an option to edit the ticket details like status, priority, assignee, move, and merge to in General Information present in the upper-right of the page. Note:",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "Click on the edit icon to change the support ticket details in the General Information. 4. Set the ticket status accordingly. It can take any of the options: \u2022",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "Open \u2022 Inprocess",
+    "images": []
+  },
+  {
+    "page": 18,
+    "text": "\u2022 Answered",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "\u2022 Resolved \u2022",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "Closed \u2022 5. Click Reply to post the message to the requester.",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "Add Department Any department can be added under the support system if required. The status of the tickets that are set by the departments are also taken care in this module.",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "To add a department: \u2022 1. Navigate to the Customer Profile page and select Tickets > Add Ticket > Departments. The Add Department page is displayed: (navigation)",
+    "images": [
+      "/files/assets/images/kb/customer/36.jpg"
+    ]
+  },
+  {
+    "page": 19,
+    "text": "\u2022 2. Select the Department to be added. \u2022",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "3. Enter the description of the query relevant to the department. \u2022 4. Enter the email of the initiator.",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "\u2022 5. Choose an icon related to a department. \u2022",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "6. Set the status as Active if this department is enabled under support else as Inactive. It can be set as active when required. Manage Tickets Various other actions that can be performed on the ticket are:",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "\u2022 1. Assign: Ticket is assigned to an assignee. \u2022",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "2. Merge: Ticket is merged to another ticket. Example of a merging ticket scenario: you receive two requests about the same issue from the same customer. \u2022",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "3. Move: Ticket is moved to another department. Assign Tickets A ticket can be assigned to a relevant support team member.",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "To assign a ticket: \u2022 1. Go to the Customer Profile and select Tickets > Add Tickets > Support Tickets. Check mark the ticket that has to be assigned.",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "\u2022 2. Select Assign To from Actions dropdown present at the right of the screen as shown below: \u2022",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "3. The Assign To window is displayed: \u2022 4. Select the assignee.",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "\u2022 5. Click Assign. \u2022",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "6. A confirmation popup window is displayed: \u2022 7. Click Yes to confirm and No to cancel the assignment action. On clicking Yes, assignee success message is displayed:",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "8. Click Ok to close the message box. Note: \u2022",
+    "images": []
+  },
+  {
+    "page": 19,
+    "text": "Assignee can also be assigned from the General Information section of the View and Reply Ticket window \u2022 Multiple tickets can also be selected for assigning to an assignee.",
+    "images": [
+      "/files/assets/images/kb/customer/37.jpg",
+      "/files/assets/images/kb/customer/38.jpg",
+      "/files/assets/images/kb/customer/39.jpg",
+      "/files/assets/images/kb/customer/40.jpg"
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Merge Tickets A ticket can be combined with another ticket to avoid duplicate entries.",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "To merge tickets, follow the steps below: \u2022 1. Go to the Customer Profile and select Tickets > Add Tickets > Support Tickets. Check mark the ticket that has to be assigned.",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "\u2022 2. Select Merge from Actions dropdown present at the right of the screen as shown below: \u2022",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "3. The Merge To window is displayed: \u2022 4. Select the ticket Number.",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "\u2022 5. Click Merge. \u2022",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "6. A confirmation popup window is displayed: \u2022 7. Click Yes to confirm and Cancel to withdraw the merging action. On clicking Yes, a success message is displayed:",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "8. Click Ok to close the message box. Note: \u2022",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "Ticket Merge can also be initiated from the General Information section of the View and Reply Ticket window \u2022 Multiple tickets can also be merged into a single ticket.",
+    "images": [
+      "/files/assets/images/kb/customer/41.jpg",
+      "/files/assets/images/kb/customer/42.jpg",
+      "/files/assets/images/kb/customer/43.jpg",
+      "/files/assets/images/kb/customer/44.jpg"
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Move Tickets A ticket can be routed to different department for resolving the issue using Move Ticketoption. To move a ticket to another department:",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "\u2022 1. Go to the Customer Profile and select Tickets > Add Tickets > Support Tickets. Check mark the ticket that has to be assigned. \u2022",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "2. Select Move To from Actions dropdown present at the right of the screen as shown below: \u2022 3. The Move To window is displayed:",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "\u2022 4. Select the department to route the ticket. \u2022",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "5. Click Move. \u2022 6. A confirmation popup window is displayed:",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "\u2022 7. Click Yes to confirm and No to withdraw the movoe. On clicking Yes, a success message is displayed: 8. Click Ok to close the message box.",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "Note: \u2022 Ticket Move can also be initiated from the General Information section of the View and Reply Ticket window",
+    "images": [
+      "/files/assets/images/kb/customer/45.jpg",
+      "/files/assets/images/kb/customer/46.jpg",
+      "/files/assets/images/kb/customer/47.jpg",
+      "/files/assets/images/kb/customer/48.jpg"
+    ]
+  },
+  {
+    "page": 20,
+    "text": "\u2022 Multiple tickets can also be move to a concerned department for further proceeding. Logs",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "Customers > Customer Profile > Logs Logs allows you to track and analyse the activities in the seller portal. Activities include that of the seller and the customer. Email logs can also be accessed here.",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "View Activity Logs To view logs: Head to the Customer Profile page and select Logs. The Activity screen is displayed:",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "The following details are present in the Activity: \u2022 1. Date of the Activity & the Activity: You can view the events performed and the date to track user activity.",
+    "images": []
+  },
+  {
+    "page": 20,
+    "text": "\u2022 2. Module/ Function Name: Defines the module accessed by the user",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "\u2022 3. User & IP address: Specifies the user and IP address. Example: A user A with IP address has accessed the Add Product screen on 23rd March 2022 helps you to keep track of the events by this customer.",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "View E-mail Logs To view e-mail logs: Navigate to the Customer Profile page and select Logs > Email. The Email Logs screen is displayed with the following:",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "\u2022 1. Date & Subject of the E-mail \u2022",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "2. Module/ Function \u2022 3. User and IP Address",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "The above details help you to track the e-mail sent to a specific customer related to a particular module. Settings Customers > Customer Profile > Settings",
+    "images": [
+      "/files/assets/images/kb/customer/50.jpg"
+    ]
+  },
+  {
+    "page": 21,
+    "text": "Settings module is used to enable or disable various functionalities with respect to a specific customer. To manage settings: Head to the Customer Profile page and select Settings. The Settings screen is displayed:",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "The following functionalities can be set in this section \u2022 1. Credit and Payment",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "\u2022 2. Billing Date \u2022",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "3. Revenue Target \u2022 4. Spend Target",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "\u2022 5. Order Configuration \u2022",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "6. Invoice Configuration \u2022 7. Subscription Settings",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "\u2022 8. Disable Services \u2022",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "9. Scheduler Settings \u2022 10. Ticket",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "\u2022 11. Roles and User Management \u2022",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "12. Email Templates Following are the various functionalities screenshots of the settings section: Credit and Payment",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "Billing Date or Anniversary Date Revenue Targets Spend Targets",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "Order Configuration Invoice Configuration Subscription Settings",
+    "images": []
+  },
+  {
+    "page": 21,
+    "text": "Disable Services",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Scheduler Settings Ticket Roles and User Management",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Email Templates The description of the fields of the various Settings are listed below: Field",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Description Credit and Payment Credit wallet",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Allows your customer to avail credit facility. The customer can pay through credit balance facility. Enable or disable the credit option accordingly.",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Credit Limit Set the credit limit for the customer if Credit Wallet is enabled. Over usage",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Checkmark Over Usage if permitted. If yes, specify the overuse amount above credit or as a percentage of the credit wallet.",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Tax Number Tax Number of the customer. Preferred Payment Method",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Credit wallet or PayPal are the options. These options are added from the Payment Setup page. Billing Date",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Billing Date or Anniversary Date The subscription's billing date can be set in this section. Select the",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Pay As You Go option or Billing date. By selecting Pay As You Go, the billing is initiated at the end of the month.",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Revenue Targets Perpetual Revenue Revenue generated from perpetual licensing which is billed up-front.",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Monthly Recurring Revenue Stable revenue expected to receive monthly for offerings over a period of time.",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Spend Targets Monthly Spend & Annual Spend Permissible spend targets of the customer",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Order Configuration Quotation & Order Placement Enable or disable Generate Quotation on placing order.",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Enable or disable Order Placement accordingly to a specific customer. Order Processing An order can be fulfilled by following different ways:",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "\u2022 Processing manually \u2022",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Processing from credit wallet \u2022 Processing order as soon as the order received",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Invoice Configuration Invoice Creation An Invoice can be created on the following occasions:",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "\u2022 As soon as an order is provisioned \u2022",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "On the Subscription Anniversary date Subscription Settings Subscription & Billing Auto Renew",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Configure subscription and billing for auto renewal. Note: This setting can also be initiated from the Subscription section using",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Subscription Scheduler and Billing Renewal Scheduler. Service Suspension Request",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Service can be suspended/ effective using this setting. Upgrade/ Degrade quantity Enable/ disable resize (upgrade/ downgrade) quantity feature",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "to increase/decrease the license count. Add on Purchase Enable/ disable Add ons for the subscriptions purchased.",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Add ons gives the flexibility in adding features to the existing subscription Default Margin Profit margin expected from this customer that has to be used in the price",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "book. Disable Services You can disable any specific product to place order",
+    "images": []
+  },
+  {
+    "page": 22,
+    "text": "Scheduler Settings",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "Enable/ disable notifications for \u2022 Reminder for Renewal (if Auto Renewal is disabled), Payment, Overdue reminders.",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "\u2022 Service Suspension/ Termination \u2022",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "Renewal Invoice Ticket Enable/disable access to help desk",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "Roles and User Management User Creating and managing user accounts",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "Roles Enable certain roles and thereby administering users with access to specific/ all modules",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "Email Templates Enable or disable various email templates on different events. Subscriptions",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "The Subscriptions menu holds the details of all the subscriptions of your customers. You can view and manage all the subscriptions on this page. Here you can: \u2022",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "1. View Subscription Summary \u2022 2. View and Manage Subscription",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "\u2022 3. Access Subscription Scheduler \u2022",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "4. Access Billing Renewal Scheduler \u2022 5. Change Subscription status",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "View Subscription Summary To view Subscription Summary: Connect to Subscriptions. The Subscriptions Summary is displayed with all the subscriptions of all your customers.",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "The components of a subscription are: \u2022 1. Service Details: This includes Subscription name, Billing Frequency, Quantity, Customer who owns the Subscription, and Price of the Subscription.",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "\u2022 2. Subscription & Billing Expiry Date \u2022",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "3. Subscription Status Bar \u2022 4. Subscription Search Bar",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "Subscription Status Bar The Subscription Status Bar, located at the top of the page gives the summary of the total count of the subscriptions under each status. Subscription Search Bar",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "The Subscription Search Bar lists the subscription/ subscriptions based on your search. Subscriptions can be searched by Subscription Name, Customer, Subscription Expiry Date, Billing Expiry Date and Status. View and Manage Subscription",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "You can view individual subscriptions information with the customer's name, order/invoice details, subscription status, subscription scheduler, and billing renewal scheduler. This is where you can:",
+    "images": [
+      "/files/assets/images/kb/subscriptions/1.jpg",
+      "/files/assets/images/kb/subscriptions/2.jpg",
+      "/files/assets/images/kb/subscriptions/3.jpg"
+    ]
+  },
+  {
+    "page": 23,
+    "text": "\u2022 1. View subscription \u2022",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "2. Access subscription scheduler \u2022 3. Access billing renewal scheduler",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "\u2022 4. Change subscription status Note",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "The Subscription Management page can also be accessed from the Customers section. View Subscription To view individual subscription details:",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "\u2022 1. Go to Getting Started > Subscriptions and click on the Subscription Name of your interest. The Subscription Management page is displayed: \u2022",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "2. The Subscription Summary along with Subscription Scheduler, Billing Renewal Scheduler, Order/ Invoice details are shown. Note You can also navigate to the Subscription Summary of a specific customer by clicking on more actions, and selecting View Service.",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "Access Subscription Scheduler The Subscription Scheduler allows you to automatically renew the subscription or opt for manual renewal. Enabling Auto Renew renews the subscription before the current term ends. You can turn it off to allow the manual renewal of the subscription.",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "To access the Subscription Scheduler: \u2022 1. Go to Subscriptions > Subscription Management. The Scheduler is seen at the top right of the page.",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "\u2022 2. Turn Auto Renew on for automatic renewal of the subscription before the current term expires else turn it off for manual renewal. Note",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "The Subscription Scheduler can also be accessed from the Customers section To know in more detail, connect to Subscription Scheduler of the Customers Section Billing Renewal Scheduler",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "Recurring billing can be turned on or off in the Billing Renewal Scheduler. By enabling it, you opt for automatic billing as per the selected billing option. To access the Billing Renewal Scheduler: \u2022",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "1. Go to Subscriptions > Subscription Management. The Scheduler is seen at the bottom right of the page. \u2022 2. Turn it on for auto billing.",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "Note The Billing Renewal Scheduler can also be accessed from the Customers section. To know in more detail, connect to Billing Renewal Scheduler of the Customer's section.",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "Change Subscription Status The status of the subscription can be set as per your choice. It falls under 5 stages: \u2022",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "1. Active: When you approve a subscription, it goes to an active state. The customer can use the subscription. \u2022 2. Cancelled: When you cancel a subscription, it goes to cancelled state and cannot be reactivated.",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "\u2022 3. Pending: The subscription is pending until the validation is complete. You can either approve or reject the subscription. \u2022",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "4. Suspended: The subscription is paused temporarily and can be reactivated later. \u2022 5. Terminated: The subscription can no longer be used and cannot be reactivated.",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "To change subscription status \u2022 1. Go to Subscriptions > Subscription Management.",
+    "images": [
+      "/files/assets/images/kb/customer/12.jpg",
+      "/files/assets/images/kb/customer/13.jpg",
+      "/files/assets/images/kb/customer/14.jpg",
+      "/files/assets/images/kb/subscriptions/4.jpg",
+      "/files/assets/images/kb/subscriptions/5.jpg"
+    ]
+  },
+  {
+    "page": 24,
+    "text": "\u2022 2. Click on the edit, icon \u2022",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "3. Select the status from the list of dropdown options \u2022 4. Click on the checkmark, to confirm the status change else click on the cancel icon, to cancel it.",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "Note The Subscription Status Change can also be accessed from the Customers section. To know in more detail, connect to Subscription Status Change of the Customer Section.",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "Orders The Orders page provides a look back at all the orders of all the customers, place orders from your catalog, check out your placed orders, and review your orders.",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "Head to the Orders page from the main menu. Here you can: \u2022",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "1. View Order Summary",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "\u2022 2. Add Order \u2022",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "2. View, Edit, Cancel Order \u2022 3. Print/Download/Email Order",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "Order Summary To view Order Summary: Go to Orders. The Order Summary is displayed with all the orders of all your customers.",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "The Order Summary lists the following: \u2022 1. Order No, Order Date, Customer who is the product owner.",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "\u2022 2. Cost Price and the Amount \u2022",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "3. Order Status: Pending / Complete / Cancelled Order Status An order may take one of the following statuses:",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "\u2022 1. Pending \u2022",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "2. Complete \u2022 3. Inprocess",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "\u2022 4. Cancelled When an order is placed for a specific customer, the order status takes the value as pending or complete.",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "An order goes to pending status for the following reasons: \u2022 Previous credit due is not cleared by the customer; hence not able to proceed with the payment",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "An order goes to complete status in one of the below cases: \u2022 Payment is cleared using credit/ online payment gateways/ offline transaction.",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "\u2022 When the seller approves the pending order. An order takes cancelled status when an order is cancelled and is no longer in effect. A cancelled order can only be viewed and cannot be approved further.",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "Product Catalog The product catalog is available in two views: \u2022",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "1. Catalog View: The products are listed with their images, units, and pricing information. From this page, products can be added to the cart and you can navigate to the ListView. \u2022",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "2. List View: The list view shows the catalog in the form of a table. From this page, you can add products to your catalog, navigate to the Catalog View and edit the product information. Add order from Catalog View",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "Here you can add orders from your catalog. The catalog lists the products added from the Add Product module. To add an order from the Catalog View: \u2022",
+    "images": []
+  },
+  {
+    "page": 25,
+    "text": "1. Go to Orders > Add Order \u2022 2. The Product Catalog is displayed",
+    "images": []
+  },
+  {
+    "page": 26,
+    "text": "\u2022 3. Locate the product/ products you would like to add. \u2022",
+    "images": []
+  },
+  {
+    "page": 26,
+    "text": "4. Click Add to Cart. \u2022 5. If a product is added with domain authentification, you have to add an existing domain or create a new domain to proceed.",
+    "images": [
+      "/files/assets/images/kb/order/3.jpg",
+      "/files/assets/images/kb/order/4.jpg",
+      "/files/assets/images/kb/order/5.jpg"
+    ]
+  },
+  {
+    "page": 26,
+    "text": "Case 1: New Domain \u2022",
+    "images": []
+  },
+  {
+    "page": 26,
+    "text": "1. Click Create New Domain and enter the domain name of your preference and hit Search. \u2022 6. The product is added and the shopping cart located at the top-right of the window reflects the additions.",
+    "images": [
+      "/files/assets/images/kb/order/6.jpg"
+    ]
+  },
+  {
+    "page": 26,
+    "text": "\u2022 7. Hover your mouse over the cart and click the checkout icon . Checkout",
+    "images": []
+  },
+  {
+    "page": 26,
+    "text": "The following steps list the checkout process: \u2022 1. Once a product is added, the cart reflects the product added.",
+    "images": []
+  },
+  {
+    "page": 26,
+    "text": "\u2022 2. Hover your mouse over the cart and click the checkout icon, . \u2022",
+    "images": []
+  },
+  {
+    "page": 26,
+    "text": "3. A comprehensive order detail screen including the Grand Total is displayed: Click on Proceed to Checkout. Note The units of the SKUs can be altered on the order detail screen by changing the Qty field. On editing the quantity, the amount and total amount changes",
+    "images": [
+      "/files/assets/images/kb/order/7.jpg",
+      "/files/assets/images/kb/order/8.jpg"
+    ]
+  },
+  {
+    "page": 26,
+    "text": "accordingly. To know in more detail, connect to Subscription Status Change of the Customer Section. \u2022",
+    "images": []
+  },
+  {
+    "page": 26,
+    "text": "4. In the next step, select any of the two options: \u2022 Existing Customer: The order has to be placed for an existing customer.",
+    "images": []
+  },
+  {
+    "page": 26,
+    "text": "\u2022 New Customer: New Customer has to be registered before placing the order. \u2022",
+    "images": []
+  },
+  {
+    "page": 26,
+    "text": "5. Proceeding to the Payment Method, options available are credit and offline transfer. Pay From Credit section shows the available credit. In case of low credit, the seller has a choice of adding credit. To add credit:",
+    "images": [
+      "/files/assets/images/kb/order/9.jpg",
+      "/files/assets/images/kb/order/10.jpg"
+    ]
+  },
+  {
+    "page": 26,
+    "text": "\u2022 Click on Add Credit. \u2022",
+    "images": [
+      "/files/assets/images/kb/order/11.jpg"
+    ]
+  },
+  {
+    "page": 26,
+    "text": "Enter the total credit and available credit for the customer. \u2022 Enter Coupon code, if applicable and click on Apply.",
+    "images": []
+  },
+  {
+    "page": 26,
+    "text": "\u2022 Click on Proceed to Payment. The Order Summary is displayed. You can view the status of the current order as shown below: Add order from List View",
+    "images": [
+      "/files/assets/images/kb/order/13.jpg"
+    ]
+  },
+  {
+    "page": 26,
+    "text": "Navigate to Orders > Add Order > List View. The product details are listed in the form of a table. List View allows you to perform the following: Actions",
+    "images": []
+  },
+  {
+    "page": 26,
+    "text": "Do this Add Product one by one Click Add Product. Refer Add Products.",
+    "images": []
+  },
+  {
+    "page": 26,
+    "text": "Import product list Go to Actions > Import. To learn on importing product list, refer Import Product.",
+    "images": []
+  },
+  {
+    "page": 26,
+    "text": "Navigate to Catalog View Click on Catalog View to view the products and create an order. Edit Product information",
+    "images": []
+  },
+  {
+    "page": 26,
+    "text": "Click on more options, icon and select Edit to change the product details.",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "Search Products Search Products by Name, Publisher, Category, Billing Frequency, and MRP of the product.",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "View, Edit, & Cancel Order You can view, edit and cancel the order. View Order",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "To view an order: \u2022 1. Go to Orders and navigate to the order you would like to view.",
+    "images": [
+      "/files/assets/images/kb/order/15.jpg",
+      "/files/assets/images/kb/order/16.jpg"
+    ]
+  },
+  {
+    "page": 27,
+    "text": "\u2022 2. Click on more option and select View Order. \u2022",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "3. The selected order details are displayed: Edit Order When an order is created, it is pending. It goes to complete state on approval by the seller. Here you can approve/cancel any orders that are in pending",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "status. To edit/approve an order \u2022",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "1. Go to Orders and navigate to the order you would like to edit. \u2022 2. Click on more option and select Edit Order.",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "\u2022 3. The selected order details are displayed: \u2022",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "4. Click Cancel to delete the order or Approve to proceed. On approving the order, a confirmation message is displayed: \u2022 5. Click Approve for approving the record or click Cancel.",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "Note 1. On approval, you will see the order goes to Complete status which is viewed in the Order Summary screen. 2. When an order is in Complete status, the actions available on the order are the view and cancel.",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "Cancel Order To delete an order: \u2022",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "1. Head to Orders and find the order you would like to edit. \u2022 2. Click on the more option icon, and select Cancel Order. A confirmation message is displayed:",
+    "images": [
+      "/files/assets/images/kb/order/17.jpg",
+      "/files/assets/images/kb/order/18.jpg",
+      "/files/assets/images/kb/order/19.jpg",
+      "/files/assets/images/kb/order/20.jpg"
+    ]
+  },
+  {
+    "page": 27,
+    "text": "\u2022 3. Click on Yes, cancel! for deleting the order, else click Cancel to cancel the action. A success message is displayed on cancelling the order: Note",
+    "images": [
+      "/files/assets/images/kb/customer/23.jpg",
+      "/files/assets/images/kb/customer/24.jpg"
+    ]
+  },
+  {
+    "page": 27,
+    "text": "1. Once an order is cancelled, it cannot be approved. 2. When an order goes to Cancelled status, you can only view the order. Print, Download & E-mail",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "An order can be printed, downloaded, and e-mailed using the options present at the top-right of the order page. Invoices The Invoices page provides a list of all the invoices of all the customers at a glance. When an order is created, an invoice is generated automatically with unpaid",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "status. Here you can: \u2022",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "1. View Invoice Summary \u2022 2. View Invoice",
+    "images": []
+  },
+  {
+    "page": 27,
+    "text": "\u2022 3. Cancel Invoices",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "View Invoice Summary Invoice Summary gives an overview of all the invoices generated for all the customers with their status. Status can be paid or unpaid. To view Invoice Summary:",
+    "images": [
+      "/files/assets/images/kb/invoice/1.jpg",
+      "/files/assets/images/kb/invoice/2.jpg"
+    ]
+  },
+  {
+    "page": 28,
+    "text": "Go to Invoices. The Invoice Summary is displayed with all the invoices of all your customers. The Invoice Summary lists the following: \u2022",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "1. Invoice No, Invoice Date, Customer who is the product owner. \u2022 2. Cost Price and the Amount",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "\u2022 3. Receipt Number \u2022",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "4. Mode of payment \u2022 5. Invoice Status",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "View Invoice To view an invoice: \u2022",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "1. Go to Invoices and navigate to the invoice you would like to view. \u2022 2. Select View Invoice, to view the generated invoice:",
+    "images": [
+      "/files/assets/images/kb/invoice/3.jpg",
+      "/files/assets/images/kb/invoice/4.jpg"
+    ]
+  },
+  {
+    "page": 28,
+    "text": "Cancel Invoice To delete an invoice: \u2022",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "1. Go to Invoice and navigate to the invoice you would like to cancel. \u2022 2. Click on more option icon and select Cancel Invoice. A confirmation message is displayed:",
+    "images": [
+      "/files/assets/images/kb/invoice/5.jpg",
+      "/files/assets/images/kb/invoice/6.jpg",
+      "/files/assets/images/kb/invoice/7.jpg"
+    ]
+  },
+  {
+    "page": 28,
+    "text": "\u2022 3. Click on Yes, cancel! for deleting the invoice, else click Cancel to cancel the action. A success message is displayed on cancelling the invoice: Storefront",
+    "images": [
+      "/files/assets/images/kb/customer/27.jpg",
+      "/files/assets/images/kb/customer/28.jpg"
+    ]
+  },
+  {
+    "page": 28,
+    "text": "Storefront allows you to: \u2022 1. Add Products to your Marketplace",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "\u2022 2. Order Products from Catalog View \u2022",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "3. Set Pricing for the products \u2022 4. Generate Coupons or Promotions",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "Products Summary \u2022 1. Go to Storefront > Products.",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "\u2022 2. The Product Summary page is displayed. This page lists all the products in your catalog. The following actions can be done here",
+    "images": [
+      "/files/assets/images/kb/storefront/2.jpg",
+      "/files/assets/images/kb/storefront/3.jpg"
+    ]
+  },
+  {
+    "page": 28,
+    "text": "1. Add product \u2022 Add products individually",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "\u2022 Import product list \u2022",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "2. Edit product \u2022 3. View catalog",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "Add Product Products can be added from: \u2022",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "1. Getting Started and navigate to Ready To Go Marketplace and select Add Product 2. Storefront This platform allows you to add products in two ways",
+    "images": [
+      "/files/assets/images/kb/storefront/1.jpg",
+      "/files/assets/images/kb/storefront/6.jpg",
+      "/files/assets/images/kb/storefront/9.jpg",
+      "/files/assets/images/kb/storefront/10.jpg"
+    ]
+  },
+  {
+    "page": 28,
+    "text": "\u2022 1. Add Products individually \u2022",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "2. Import product list Add Products individually To add products individually:",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "\u2022 1. Go to Storefronts > Products > Add Product. The Add Product page is displayed. \u2022",
+    "images": []
+  },
+  {
+    "page": 28,
+    "text": "2. Fill in the details of the product. Refer Add Product for description.",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "\u2022 3. Click Save. The product is listed successfully in the product list and in the catalog. Note",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "The product added is reflected in the Product Banner of your portal. Import Product Alternative to adding products individually, the entire product list can also be imported.",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "To import product list: \u2022 1. Go to Storefronts > Products > Actions > Import.",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "\u2022 2. Upload the products list \u2022",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "2. Map the columns: \u2022 4. Finally import to add the product list.",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "For a description of importing the product list, refer to Import Product. Note 1. Product list can also be uploaded from the Add Products in the Getting Started Page",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "2. A sample excel file is provided to have an understanding of the format required for a successful upload. Edit Product To edit an individually added product:",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "\u2022 1. Navigate to the product you want to edit. \u2022",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "2. Click more options to edit the product. \u2022 2. Select Edit. The product details page is displayed. Make the necessary changes.",
+    "images": [
+      "/files/assets/images/kb/storefront/4.jpg"
+    ]
+  },
+  {
+    "page": 29,
+    "text": "\u2022 4. Click Save to save all changes. Note",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "You will be directed to the Product Summary after the product details are edited. View Catalog The product list can be viewed in the form of a catalog that lists the logo of the product and the essential details that help to make the purchasing decision. From",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "this page, an item can also be ordered and placed in the cart for checkout. To go to Catalog View: \u2022",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "1. Go to Storefronts > Products > Catalog View. \u2022 2. The Catalog View allows to:",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "\u2022 1. Enter the quantity you would opt for purchase. \u2022",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "2. Select the term. \u2022 2. Add product to the cart.",
+    "images": [
+      "/files/assets/images/kb/storefront/5.jpg"
+    ]
+  },
+  {
+    "page": 29,
+    "text": "\u2022 3. Once the product is added to the cart, the items are reflected in the cart icon, present at the upper right corner of the page. Note",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "1. To learn more on ordering and checking out a product, connect to Orders. 2. Ordering a product can be performed in the following ways from: \u2022",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "Land up page of your portal \u2022 Marketplace: Getting Started and then select View Marketplace which is present as one of the links in the Ready To Go Marketplace.",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "\u2022 Orders Menu \u2022",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "Catalog View (Storefront > Products > Catalog View) Note The list view can be navigated from the Catalog View. Click List View which is present at the upper right of the Catalog View.",
+    "images": []
+  },
+  {
+    "page": 29,
+    "text": "Pricing The price list contains the products with the cost price and the MRP. Here you can set the markup percentage, thereby generating the selling price of a specific product. The details on this page are inherited from the Add Product section.",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "To connect to Pricing, Go to Storefront > Pricing. Here you can: \u2022",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "1. Set pricing \u2022 2. Edit pricing",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "Set Pricing To set pricing for the products: \u2022",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "1. Go to Storefronts > Pricing. The Price List is displayed: \u2022 2. Here you can view the pricing details of all the products. This information is accumulated from the Add Product module. You can set the markup % and the",
+    "images": [
+      "/files/assets/images/kb/storefront/7.jpg"
+    ]
+  },
+  {
+    "page": 30,
+    "text": "selling price is displayed automatically. Note \u2022",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "1. The markup % can also be fixed in the Add Product or the Edit Product sections. \u2022 2. Make sure the selling price is less than the MRP.",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "Edit Pricing To edit the pricing list: \u2022",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "1. Go to Storefronts > Pricing. The Price List is displayed: \u2022 2. Click the more options icon to edit the pricing details.",
+    "images": [
+      "/files/assets/images/kb/storefront/8.jpg"
+    ]
+  },
+  {
+    "page": 30,
+    "text": "\u2022 3. Select Edit. The Add Product page is displayed with all the details entered. \u2022",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "4. Make the required changes. \u2022 5. Click Save to save the changes.",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "\u2022 6. The changes made are shown in the product summary as well as on the pricing page. Note",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "Make sure to enter all the mandatory fields before saving the pricing details. On clicking Save, the fields that have to be filled are highlighted. Promotions Promotions permit the user to generate coupons for specific products and apply when the item is ordered. These coupons are used to provide discounts or",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "cashback and can be set as a percentage or as the amount in Add Coupon section. To go to Promotions, select Storefronts > Promotions. Below are the actions performed on this page.",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "\u2022 1. View coupon summary \u2022",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "2. Add coupon \u2022 3. Edit coupon",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "\u2022 4. Delete coupon \u2022",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "5. Change Status View Coupon Summary In this section, you can view the details of all the generated coupons. The promotions are listed in chronological order.",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "The following details are displayed: \u2022 1. Coupon name & code",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "\u2022 2. Value \u2022",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "3. Product for which the coupon is applicable \u2022 4. Coupon validity date (start date-end date)",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "\u2022 5. Customer for whom the coupon \u2022",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "6. Coupon status can be set as active or inactive From this page, coupons can be added, edited, and deleted. Add Coupon",
+    "images": []
+  },
+  {
+    "page": 30,
+    "text": "To add a coupon for the selected products: \u2022 1. Go to Storefronts > Promotions > Add Coupon. The Add Coupon page is displayed:",
+    "images": [
+      "/files/assets/images/kb/storefront/11.jpg"
+    ]
+  },
+  {
+    "page": 31,
+    "text": "2. Enter the following details: Field Description",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "Required Coupon Name Related name for the coupon",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "Coupon Description Brief the coupon usage optional",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "Coupon Code Click Generate The code is automatically provided.",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "Generated automatically SKU / Product Select one of the options: By Product",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "Category: Lists the primary categories By Product/ Plan Name: Lists the products",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "Coupon Type Options available are: \u2022",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "1. Discount \u2022 2. Cashback",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "Both these types can be specified as a percentage or as an amount Usage",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "\u2022 1. Specifies if this coupon can be used as one coupon per",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "purchase or unlimited times. If multiple time option is selected, enter the maximum number of",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "times the coupon can be applied. \u2022",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "2. Checkmark if the coupon is applied to a specific customer. If yes, select the customer from the",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "dropdown. Other conditions Checkmark if applicable for the following:",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "\u2022 Can be applied only for the first transaction",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "\u2022 Not applicable for the existing customers Optional",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "Coupon Validity Select one of the two options: \u2022",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "1. The coupon start date and end date for validity \u2022",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "2. No date range implies coupon is active always Coupon Status",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "\u2022 Active: On enabling the coupon for use. \u2022",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "Inactive: On disabling the coupon for use. \u2022 3. Click Save. This adds the coupon to the Coupon Summary with the details entered.",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "Edit Coupon To change the details of the added coupon: \u2022",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "1. Go to Storefronts > Promotions. The Coupon Summary is displayed: \u2022 3. Click the more options icon to edit the specific coupon details.",
+    "images": [
+      "/files/assets/images/kb/storefront/12.jpg"
+    ]
+  },
+  {
+    "page": 31,
+    "text": "\u2022 4. Select Edit. The Add Coupon page is displayed with the added information \u2022",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "5. Make the required changes. \u2022 6. Click Save to save the changes.",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "\u2022 6. The changes made are shown in the product summary as well as on the pricing page. Note",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "Make sure to enter all the mandatory fields before saving the coupon. On clicking Save, the fields that have to be filled are highlighted.",
+    "images": []
+  },
+  {
+    "page": 32,
+    "text": "Delete Coupon To delete the added coupon: \u2022",
+    "images": []
+  },
+  {
+    "page": 32,
+    "text": "1. Go to Storefronts > Promotions. The Coupon Summary is displayed: \u2022 2. Click the more options icon to delete the specific coupon.",
+    "images": [
+      "/files/assets/images/kb/storefront/13.jpg",
+      "/files/assets/images/kb/storefront/14.jpg",
+      "/files/assets/images/kb/storefront/15.jpg"
+    ]
+  },
+  {
+    "page": 32,
+    "text": "\u2022 3. Select Delete. A confirmation message is displayed: \u2022",
+    "images": []
+  },
+  {
+    "page": 32,
+    "text": "4. Click Yes for deleting the coupon else click Cancel for cancelling the action. \u2022 5. On clicking yes, a success message is displayed:",
+    "images": []
+  },
+  {
+    "page": 32,
+    "text": "Change Status The status of the coupon enables or disables the coupon application. The status change can also be initiated from the Coupon Summary page. To change the status of the coupon:",
+    "images": []
+  },
+  {
+    "page": 32,
+    "text": "\u2022 1. Go to Storefronts > Promotions. The Coupon Summary is displayed: \u2022",
+    "images": []
+  },
+  {
+    "page": 32,
+    "text": "2. Select Active for activation of the coupon else select Inactive. \u2022 3. On changing the status, a confirmation message is displayed:",
+    "images": [
+      "/files/assets/images/kb/storefront/16.jpg",
+      "/files/assets/images/kb/storefront/17.jpg",
+      "/files/assets/images/kb/storefront/18.jpg"
+    ]
+  },
+  {
+    "page": 32,
+    "text": "\u2022 4. Click on Yes, update it if you opt for a change of status else click on Cancel. On clicking Yes, a success message is displayed: Support",
+    "images": []
+  },
+  {
+    "page": 32,
+    "text": "All the customer issues are managed in this section. Support takes care of adding to resolving a ticket, assigning, moving and merging, and adding relevant departments. The overview of all the ticket statuses is also visible on this page. \u2022",
+    "images": [
+      "/files/assets/images/kb/customer/32.jpg",
+      "/files/assets/images/kb/customer/33.jpg"
+    ]
+  },
+  {
+    "page": 32,
+    "text": "1. Go to Support. \u2022 2. The summary of all the tickets is listed:",
+    "images": [
+      "/files/assets/images/kb/storefront/19.jpg",
+      "/files/assets/images/kb/storefront/20.jpg"
+    ]
+  },
+  {
+    "page": 32,
+    "text": "Here you can: Add Add tickets",
+    "images": []
+  },
+  {
+    "page": 32,
+    "text": "View View the ticket's summary Reply",
+    "images": []
+  },
+  {
+    "page": 32,
+    "text": "View ticket and reply Add Department Add a relevant department for resolving issue",
+    "images": []
+  },
+  {
+    "page": 32,
+    "text": "Manage Allocate assignee, merge tickets, move the tickets to a different department. To know more on support, navigate to Tickets section.",
+    "images": []
+  },
+  {
+    "page": 32,
+    "text": "Logs Logs provide an insight into the activities or events recorded in the seller's portal. This section helps to:",
+    "images": [
+      "/files/assets/images/kb/storefront/21.jpg"
+    ]
+  },
+  {
+    "page": 32,
+    "text": "View Activity Logs View Email Logs Note",
+    "images": []
+  },
+  {
+    "page": 32,
+    "text": "Follow the links above to learn on each action on the Logs module. Settings Configure all your settings required for successfully setting up a marketplace.",
+    "images": []
+  },
+  {
+    "page": 32,
+    "text": "Settings menu is organized into:",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "\u2022 1. Store Settings: set your theme, add hot categories, define email templates, add your company profile and agreement. \u2022",
+    "images": [
+      "/files/assets/images/kb/settings/1.jpg",
+      "/files/assets/images/kb/settings/2.jpg",
+      "/files/assets/images/kb/settings/3.jpg",
+      "/files/assets/images/kb/settings/5.jpg",
+      "/files/assets/images/kb/settings/6.jpg",
+      "/files/assets/images/kb/settings/8.jpg",
+      "/files/assets/images/kb/settings/17.jpg",
+      "/files/assets/images/kb/settings/18.jpg",
+      "/files/assets/images/kb/settings/20.jpg",
+      "/files/assets/images/kb/settings/200.jpg",
+      "/files/assets/images/kb/settings/23.jpg",
+      "/files/assets/images/kb/settings/28.jpg"
+    ]
+  },
+  {
+    "page": 33,
+    "text": "2. Server Settings: configure mail server, add domain and SSL certificate. \u2022 3. Integrations: integrate payment gateways, accounting tools",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "\u2022 4. Advanced Settings: add custom fields, manage portal settings, users and roles Store Settings",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "The Store Settings allows you to set the following categories: \u2022 1. Theme",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "\u2022 2. Hot Categories \u2022",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "3. Email Templates \u2022 4. Taxation",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "\u2022 5. Company Profile \u2022",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "6. Terms & Conditions To access Store Settings: Go to Settings > Store Settings",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "Theme Here you can customize the theme of the portal as per your needs. Note",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "You can also access Customize Theme from the Quick Links of Getting Started page as shown below: To customize theme: \u2022",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "1. Go to Settings > Store Settings > Theme. \u2022 2. Click on Customize your Theme.",
+    "images": [
+      "/files/assets/images/kb/settings/4.jpg"
+    ]
+  },
+  {
+    "page": 33,
+    "text": "Hot Categories The most popular & best-rated products, special deals and the latest products,, etc are featured in the seller's portal. Hot Categories allows you to set deals, best sellers, new arrivals, popular & featured services in your portal.",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "To set Hot Categories: Head to Settings > Store Settings > Hot Categories. \u2022",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "1. The Hot Categories page is displayed with all the options required to set. Today's Deals Today's Deals refers to products that are offered at its best price.",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "To set Today's Deals: \u2022 1. Go to Settings > Store Settings > Hot Categories.",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "\u2022 2. Expand Today's Deal section \u2022",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "3. Checkmark the products you would like to add in Today's Deals. \u2022 4. Use chevron icon, to move the selected products .",
+    "images": [
+      "/files/assets/images/kb/settings/7.jpg"
+    ]
+  },
+  {
+    "page": 33,
+    "text": "\u2022 5. The selected products are shifted to the Selected Products list and removed from the Select Products list. Note",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "If you would like to remove the selected products, checkmark the specific items. Use to shift the items back to the Select Products list. Best Seller Best Seller features the best and the fast moving products.",
+    "images": []
+  },
+  {
+    "page": 33,
+    "text": "To know how to add products under Best Sellers, refer Today's deal. New Arrivals New Arrivals lists the latest products. This gives an insight on the new products to the existing customers.",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "To learn how to add products under New Arrivals, refer Today's deal. Popular Products Here you can add the top-rated products that are popular.",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "To list the popular products, go to Today's deal. Featured Services Featured Services are products you would like to highlight on your portal.",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "To know on adding Featured Services, connect to Today's deal. Email Templates E-mail Templates allow you to:",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "\u2022 1. Enable / disable all auto generated e-mails from a specific department. \u2022",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "2. Enable/ disable specific e-mails \u2022 3. Edit Template",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "\u2022 4. Preview Template Enable/ Disable E-mail",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "\u2022 1. Go to Settings > Store Settings > Email Templates. \u2022",
+    "images": [
+      "/files/assets/images/kb/settings/11.jpg",
+      "/files/assets/images/kb/settings/12.jpg"
+    ]
+  },
+  {
+    "page": 34,
+    "text": "2. All the departments which are related to e-mail templates are listed. \u2022 3. You can enable/ disable all auto generated e-mails from a specific department.",
+    "images": [
+      "/files/assets/images/kb/settings/9.jpg"
+    ]
+  },
+  {
+    "page": 34,
+    "text": "In case, you would like to disable e-mail from Accounts department, toggle it off. By default, the e-mail templates of all the departments are turned on. Enable/ Disable specific e-mail To enable/ disable specific e-mail form a particular department",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "\u2022 1. Go to Settings > Store Settings > Email Templates \u2022",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "2. Click on the specific department, say Accounts. This directs to the Accounts e-mail templates. \u2022 3. Find the event you would like to disable.",
+    "images": [
+      "/files/assets/images/kb/settings/10.jpg"
+    ]
+  },
+  {
+    "page": 34,
+    "text": "\u2022 4. Select disable. Note",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "All the e-mails are enabled by default. Edit Template To edit an e-mail template:",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "\u2022 1. Go to Settings > Store Settings > Email Templates. \u2022",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "2. Find the event you would like to edit the template for. \u2022 3. Click on more options and then select Edit Template.",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "\u2022 4. The template is displayed in edit mode. Make the necessary changes. \u2022",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "5. Click on Save. Preview Template To preview an e-mail template:",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "\u2022 1. Go to Settings > Store Settings > Email Templates. \u2022",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "2. Find the relevant department, whose e-mail template have to be previewed. \u2022 3. Click on the department, say Accounts. All the e-mail templates connected to Accounts department is displayed:",
+    "images": [
+      "/files/assets/images/kb/settings/13.jpg",
+      "/files/assets/images/kb/settings/14.jpg"
+    ]
+  },
+  {
+    "page": 34,
+    "text": "\u2022 4. Find the event, you would like to preview the template for. for example: On Seller Registration \u2022",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "5. Click on more options and then select Preview Template. The template of On Seller Registration is displayed: Company Profile Company Profile refers to the seller's profile. This includes company's name, primary contact's personal details, demographic information, financial and billing",
+    "images": []
+  },
+  {
+    "page": 34,
+    "text": "details. To enter your profile details, follow any one of the options:",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "\u2022 1. Go to Settings > Store Settings > Company's Profile. \u2022",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "2. Getting Started and navigate to Ready to Go Marketplace links. Select Company Info. To know about Company Profile, refer Company Info of the Ready To Launch Marketplace. Terms of USE",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "Terms of use specify the terms & conditions and the privacy policy that has to be published for the customer. The terms of use have to be read and acknowledged by the customer before the products are checked out. In this module, you can publish the following contents:",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "\u2022 Terms & Conditions \u2022",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "Privacy Policy Terms & Conditions To publish the terms and conditions:",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "\u2022 1. Go to Settings > Store Settings > Terms and Conditions. \u2022",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "2. The Terms Of Use page is displayed: \u2022 3. Click on Terms & Conditions.",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "\u2022 4. You can opt for one of the following to publish the agreement: \u2022",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "Enter the URL of the Terms & Conditions. \u2022 Upload the Terms & Conditions pdf file.",
+    "images": [
+      "/files/assets/images/kb/settings/15.jpg",
+      "/files/assets/images/kb/settings/16.jpg"
+    ]
+  },
+  {
+    "page": 35,
+    "text": "For uploading, click on Choose File and select the agreement. \u2022 5. Click Save.",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "Privacy Policy Privacy policy specifies how the seller collects and handles the data of the customers. To add privacy policy:",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "\u2022 1. Go to Settings > Store Settings > Terms and Conditions. \u2022",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "2. The Terms Of Use page is displayed: \u2022 3. Click on Privacy Policy.",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "\u2022 4. You can opt for one of the following to publish the agreement: \u2022",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "Enter the URL of the Terms & Conditions. \u2022 Upload the Terms & Conditions pdf file.",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "For uploading, click on Choose File and select the agreement. \u2022 5. Click Save.",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "Server Settings Go to Settings > Server Settings Server Settings allow you to:",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "\u2022 Configure the Mail Server Configure Mail Server",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "To use the e-mail services, the seller must use a third-party SMTP service or can own one. To setup email integration: Navigate to Settings > Server Settings > Mail Server (SMTP)",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "Note This functionality can also be accessed from Getting Started > Quick links > Mail Server (SMTP). You can send e-mail using one of the following transfer methods:",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "\u2022 1. API \u2022",
+    "images": []
+  },
+  {
+    "page": 35,
+    "text": "2. SMTP API To connect using API, enter the API key generated from your SMTP portal.",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "Click Save SMTP To connect to SMTP",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "\u2022 1. Go to Settings > Server Settings. \u2022",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "2. Select SMTP credentials. 3. Enter the following information: Field",
+    "images": [
+      "/files/assets/images/kb/settings/19.jpg"
+    ]
+  },
+  {
+    "page": 36,
+    "text": "Description Required Host",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "SMTP Host Address Port SMTP port number",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "Username SMTP credentials Password",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "Type of Encryption Options: (None, SSL, TLS) Note",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "SMTP credentials depends on the mail service you are using. \u2022 4. Click Save.",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "Integrations Integrations enable other applications to integrate with your portal. It aids to connect data from various sources like: \u2022",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "Payment Gateways: adds both online and offline payment gateways \u2022 Accounting Tools: adds and configures accounting tools",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "Payment Gateways Here you can integrate both online and offline payment modes for the transaction. Go to Settings > Integrations > Payment Gateways",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "Note Payment Gateways set up can also be initialized from Getting Started > Ready to Launch -Marketplace > Payment Setup. To learn how to add an online payment gateway, refer Online Payment of the Customer's Section.",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "To set up an offline payment, refer Offline Payment of the Customer's section. Accounting Tools Accounting, billing, inventory and business books can be managed with tools like Tally & Quickbooks.",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "You can integrate and configure accounting tools here. You can integrate and configure accounting tools here. \u2022",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "1. Go to Settings > Integrations > Accounting Tools \u2022 2. You must configure the tools to work with it. For example, click on quick books and click Configure.",
+    "images": [
+      "/files/assets/images/kb/settings/21.jpg",
+      "/files/assets/images/kb/settings/22.jpg"
+    ]
+  },
+  {
+    "page": 36,
+    "text": "Advanced Settings Go to Getting Started > Settings > Advanced Advanced Settings permit you to add fields in a specific section, customise notification scheduler, manage various settings, and set users and roles",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "The following can be performed in this module: \u2022 1. Custom Fields: add fields in a specific section",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "\u2022 2. Master Settings: set various functionalities that applies to customers \u2022",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "3. Users and Roles: manage users and access permissions Custom Fields Use this screen to add field of your choice in a particular section.",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "To add fields: \u2022 1. Go to Settings > Advanced Settings > Custom Fields and then click on Add Custom Fields.",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "\u2022 2. The Add Custom Field form is displayed: 3. Enter the details of the field to be added:",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Field Description Required",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Label Name Name of the label you would like to add. Example: Legal Trading Name",
+    "images": [
+      "/files/assets/images/kb/settings/24.jpg",
+      "/files/assets/images/kb/settings/25.jpg"
+    ]
+  },
+  {
+    "page": 37,
+    "text": "of the company field has to be included in the Customer Profile page.",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Here the label is Legal Trading Name. Show Under Module Module name and the specific section where",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "this label has to be listed. As per our case, we have to select Customer > Profile.",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Field Type The various field types are listed. Choose the appropriate option.",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Here the field Legal Trading Name takes in text values. Is it Mandatory?",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Checkmark if this field is mandatory else leave it unchecked. \u2022",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "4. Click Save. The field added is listed in the Custom Fields page. Click on Custom Fields, at the top-right to navigate to the list. Master Settings Master settings are default settings to manage entire services handled in your portal. You can change these settings in this page.",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Go to Settings > Advanced Settings > Master Settings To know about Master Settings, refer Settings of Customer's section. Users & Roles",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Managing users and their permission to access sections of your portal is handled in this section. Multiple users can share one account. In this page, you can: \u2022",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Add users \u2022 Edit user profile",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "\u2022 Reset password Add Users",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "To add users to an account: \u2022 1. Go to Settings > Advanced Settings > Users & Roles. Click on Add User.",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "\u2022 2. The Add User form is displayed 3. Enter the following information:",
+    "images": [
+      "/files/assets/images/kb/settings/26.jpg",
+      "/files/assets/images/kb/settings/27.jpg"
+    ]
+  },
+  {
+    "page": 37,
+    "text": "Field Description Required",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Company Name Customer's Organisation User Name",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Login User Name First Name/ Last Name Primary User",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Role/ Department Email/ Mobile No Primary Contact No",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Address Profile Image Upload your profile image",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Optional \u2022 4. Click Save",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "Note To view the users and their roles, click Users present at the top-right of the screen. This action directs you to the list of added users with their allocated roles. Edit User Profile",
+    "images": []
+  },
+  {
+    "page": 37,
+    "text": "The assigned user's profile and roles can be edited.",
+    "images": []
+  },
+  {
+    "page": 38,
+    "text": "To edit: \u2022 1. Go to Settings > Advanced Settings > Users & Roles.",
+    "images": []
+  },
+  {
+    "page": 38,
+    "text": "\u2022 2. Find the user whose details have to be edited. Click more options and select Edit User. \u2022",
+    "images": [
+      "/files/assets/images/kb/settings/29.jpg"
+    ]
+  },
+  {
+    "page": 38,
+    "text": "3. The user profile form is displayed in edit mode. \u2022 4. Make the necessary changes. Click Save.",
+    "images": []
+  },
+  {
+    "page": 38,
+    "text": "Reset Password Here you can reset the login password of a specific customer. To reset password:",
+    "images": []
+  },
+  {
+    "page": 38,
+    "text": "\u2022 1. Go to Settings > Advanced Settings > Users & Roles. \u2022",
+    "images": []
+  },
+  {
+    "page": 38,
+    "text": "2. Find the user whose password you would like to change. Click more options and select Reset Password. \u2022 3. A confirmation message is displayed",
+    "images": [
+      "/files/assets/images/kb/settings/30.jpg",
+      "/files/assets/images/kb/settings/31.jpg"
+    ]
+  },
+  {
+    "page": 38,
+    "text": "\u2022 4. Click on Yes, to proceed",
+    "images": []
+  }
+]

@@ -1,0 +1,25 @@
+version: "3.1"
+
+language: en
+
+pipeline:
+- name: WhitespaceTokenizer
+- name: RegexFeaturizer
+- name: LexicalSyntacticFeaturizer
+- name: CountVectorsFeaturizer
+- name: CountVectorsFeaturizer
+  analyzer: char_wb
+  min_ngram: 1
+  max_ngram: 4
+- name: DIETClassifier
+  epochs: 100
+- name: EntitySynonymMapper
+- name: ResponseSelector
+  epochs: 100
+- name: FallbackClassifier
+  threshold: 0.3
+
+policies:
+- name: MemoizationPolicy
+- name: RulePolicy
+assistant_id: 20250623-141040-equilateral-cake

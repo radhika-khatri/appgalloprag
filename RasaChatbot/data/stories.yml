@@ -1,0 +1,5 @@
+stories:
+- story: respond with PDF content and images
+  steps:
+  - intent: ask_pdf_content
+  - action: action_respond_pdf_content

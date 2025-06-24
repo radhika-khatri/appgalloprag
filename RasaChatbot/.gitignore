@@ -1,0 +1,5 @@
+# .gitignore
+.env
+.rasa
+venv-rasa
+docs

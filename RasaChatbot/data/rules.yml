@@ -1,0 +1,17 @@
+version: "3.1"
+
+rules:
+- rule: Respond to PDF content queries
+  steps:
+    - intent: ask_pdf_content
+    - action: action_respond_pdf_content
+
+- rule: Respond to goodbye
+  steps:
+    - intent: goodbye
+    - action: utter_goodbye
+
+- rule: Default fallback
+  steps:
+    - intent: nlu_fallback
+    - action: utter_default

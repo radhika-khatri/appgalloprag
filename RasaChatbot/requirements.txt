@@ -1,0 +1,6 @@
+pymupdf
+beautifulsoup4
+pinecone
+sentence-transformers
+rasa[full]
+python-dotenv

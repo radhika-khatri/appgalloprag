@@ -1,0 +1,14 @@
+nlu:
+- intent: ask_pdf_content
+  examples: |
+    - What is on page 3?
+    - Show me the diagram on the first page
+    - Can you explain the content of the safety section?
+    - Tell me what is discussed in the introduction
+
+- intent: goodbye
+  examples: |
+    - goodbye
+    - bye
+    - see you later
+    - farewell

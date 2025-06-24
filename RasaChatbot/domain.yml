@@ -1,0 +1,14 @@
+intents:
+  - ask_pdf_content
+  - goodbye
+
+responses:
+  utter_default:
+    - text: "Sorry, I couldn't find an answer."
+  utter_greet:
+    - text: "Hello! How can I help you?"
+  utter_goodbye:
+    - text: "Goodbye! Have a great day!"
+
+actions:
+  - action_respond_pdf_content
