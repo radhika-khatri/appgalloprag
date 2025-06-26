@@ -1,0 +1,855 @@
+[
+  {
+    "page": 1,
+    "text": "Setup Your Account\nTo set up an account:\n• Step 1: The sellers have to request an invite from https://xtributor.com/US/\n• \n• Step 2: The seller profile approval process is initiated.\n• Step 3: On approval, you will be supplied with an URL and a user name. An   Invite mail is sent which has a link to set up your login details.\n• \n• Step 4: Enter your preferred username and set up a strong password for your application. Enter a name for your CSP Marketplace to get startedNoteRecommended strong password for your application: Minimum of 8 characters including a combination of   lowercase letters, one uppercase letter, one number, and one special character.\n• Step 5: Click onGet Started. This will redirect to your portal. Now you are all set to explore your new CSP store.\n• \nNote\nRecommended strong password for your application: Minimum of 8 characters including a combination of   lowercase letters, one uppercase letter, one number, and one special character.\n",
+    "images": [
+      "https://xtributor.com/US//files/assets/images/kb/readymarketplace/1.jpg",
+      "/files/assets/images/kb/readymarketplace/2.jpg",
+      "/files/assets/images/kb/readymarketplace/3.jpg"
+    ]
+  },
+  {
+    "page": 2,
+    "text": "Sign In To Your Account\n• 1. Go to your assigned URL. The displayed screen is your login page.\n• \n• 2. ClickLogin. TheSign InWindow is displayed:\n• \n• 3. Enter theUsernameandPassword. Click onLogin. The Getting Started page is displayed.\n• NoteFor new customers, who do not have an account use click here to register.If you forgot your password, reset your password by clickingForgot Password?\n• For new customers, who do not have an account use click here to register.\n• If you forgot your password, reset your password by clickingForgot Password?\n• TheReset Passwordwindow is displayed. Enter theUsernameand click on  Reset.\n• \nNote\n• For new customers, who do not have an account use click here to register.\n• If you forgot your password, reset your password by clickingForgot Password?\nLogin Page Components\n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/4.jpg",
+      "/files/assets/images/kb/readymarketplace/5.jpg",
+      "/files/assets/images/kb/readymarketplace/6.jpg"
+    ]
+  },
+  {
+    "page": 3,
+    "text": "• 1.Login:  The seller or customer uses theLoginto gain access to the application.\n• 2.Register: A new customer canRegisterhere to access the seller's application.\n• \n• 3.Products And Services:  Without logging in, the Customer can select the required category and land upon the order page. From here orders can be placed.\n• 4.Product Keyword Search Bar: Here you can search specific products of interest. This directs to the order page.\n• 5.Cart:  The orders placed are reflected in the cart.\n• 6.Popular Links: This section captures deals of the day, best-selling product, new arrivals, and popular & featured services.\nGetting Started Page Components\nThe table below gives an overview of the main menu:\nProduct Banner: Displays all the products\nCart: Reflects the placed order\nQuick links: By using these links which are accessible easily, you can set up your domain, customize your theme portal, configure the mail server and add an SSL digital certificate.\n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/7.jpg",
+      "/files/assets/images/kb/readymarketplace/8.jpg"
+    ]
+  },
+  {
+    "page": 4,
+    "text": "Getting Started\nThis section explains how to launch your marketplace.\nTo set up a ready-to-go marketplace, you need to:\n• 1.Add Products\n• 2.Add Company Profile\n• 3.Payment Setup\n• 4.View Marketplace\nNote\nIt is not mandatory to proceed with the steps in order. You may first fill in the company info and then get back to add products. However, you add products before viewing your marketplace.\nAdd Product\nThe products can be added to the Marketplace one by one or the product list file can be imported. The billing frequency options and the pricing of the products can be set.\n",
+    "images": []
+  },
+  {
+    "page": 5,
+    "text": "You can use one of the options:\n• 1. Add Products Individually\n• 2. Import Product List\nAdd Products Individually\nTo add products to your catalog:\n• 1. Head to Getting Started > Add Products.\n• \n• 2. TheAdd Productform is displayed.\n• \n• 3. Click onAdd ProductTheAdd Productform is displayed:\n• \n• 4. The next step is addingPrimary Category > Sub Categoryand the respective product with their unique ID. This is a mandatory field.To add Primary Category, click on+. TheAdd Categorywindow is displayed.Select the Primary Category from theParent Service Categorydropdown.Enter the Sub Category in theService Category Nametextbox.Click onChoose Fileto choose the icon of Service Category.Describe the category in theCategory Descriptiontextbox.ClickSave. This product is added to your Marketplace. We see that the product is also added to theProduct Banner.\n• To add Primary Category, click on+. TheAdd Categorywindow is displayed.\n• Select the Primary Category from theParent Service Categorydropdown.\n• Enter the Sub Category in theService Category Nametextbox.\n• Click onChoose Fileto choose the icon of Service Category.\n• Describe the category in theCategory Descriptiontextbox.\n• ClickSave. This product is added to your Marketplace. We see that the product is also added to theProduct Banner.\n• \n• 5. The table below describes the fields to be filled in the Add Product form:FieldInformationRequiredProduct NameName of the added productProduct IDUnique identifier of the added productProduct ImageIcon of the added productAdd Product ImageOptionalPublisher NamePublisher of the productOptionalDistributorDistributor of the productOptionalBilling FrequencyBilling frequency applicable for the product.Billing FrequencyAfter setting the billing frequency, you can set up thepricing of the productApplicable TaxTax applicable for the productPrice applicable fromDate from which the price is effectiveEffective DateMinimum Purchase QuantityMinimum order of the productMaximum Purchase QuantityMaximum order of the productProduct BrochureDescription of the product, services, and featuresOptionalShort DescriptionProvides a short description of the productOptionalLong DescriptionProvides a detailed description of the productOptionalStatusSet the status of the productOptions:Publish: Publish the product at the MarketplaceDraft: Saves the product for later useDisable: Deactivates the productOptionalImport ProductsThe product list can be imported from an excel file to your store.Import ProductsOptionalProduct FeaturesSets product featuresExample:24 x 7 Service SupportPromotion if applicableExtended SupportOptionalAdditional SettingsChoose if you require domain verificationOptional\n• 6. Click onSave & Add moreto add more products to your catalog else clickSave & Nextto proceed.\n• 7. A message confirms your product is added. Click onClose.Note:If the mandatory details are not filled in, you will not be able to save the added product. The required details that are not filled in will be highlighted as shown in the below figure.\n• \n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/9.jpg",
+      "/files/assets/images/kb/readymarketplace/10.jpg",
+      "/files/assets/images/kb/readymarketplace/11.jpg"
+    ]
+  },
+  {
+    "page": 6,
+    "text": "• To add Primary Category, click on+. TheAdd Categorywindow is displayed.\n• Select the Primary Category from theParent Service Categorydropdown.\n• Enter the Sub Category in theService Category Nametextbox.\n• Click onChoose Fileto choose the icon of Service Category.\n• Describe the category in theCategory Descriptiontextbox.\n• ClickSave. This product is added to your Marketplace. We see that the product is also added to theProduct Banner.\nProduct Image\nTo add a product image icon:\n• a. Click onChoose Fileto select the product image file from the Media Library. TheMedia Librarywindow is displayed.\n• \n• b. Click onLogo. The thumbnails of various products are displayed. Choose the relevant logo for your product added.\n• \n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/12.jpg",
+      "/files/assets/images/kb/readymarketplace/13.jpg",
+      "/files/assets/images/kb/readymarketplace/14.jpg",
+      "/files/assets/images/kb/readymarketplace/15.jpg"
+    ]
+  },
+  {
+    "page": 7,
+    "text": "Billing Frequency\nThis field is used to set the billing frequency options and pricing of the product. The options available areMonthly, Quarterly, Half Yearly, One Time, and Pay-Per-Use monthly. Pay-Per-Use monthlyis a flexible mode as it depends on the duration of the usage.\n• a.\tTo set the billing frequency, select the options as applicable.Note:You can set more than one billing frequency option as per the product.Example: For a product added;Half YearlyandAnnuallyoptions can be added\n• \n• b.\tAfter selecting the Billing Frequency, you have to set the product pricing for all the options.For sample, take the Half Yearly option:Enter the Cost Price of the product.Enter theMarkup %The Sell Price is displayed automatically.Set the MRP of the productRepeat the above for all the options selected under theBilling Frequency.\n• Enter the Cost Price of the product.\n• Enter theMarkup %\n• The Sell Price is displayed automatically.\n• Set the MRP of the product\n• Note:The MRP of the product set should be greater than the Sell Price.If not, you can see the following message displayed:\"Looks like your Sell Price is greater than MRP Price\"\n• \n• Enter the Cost Price of the product.\n• Enter theMarkup %\n• The Sell Price is displayed automatically.\n• Set the MRP of the product\nPrice Effective Date\n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/16.jpg",
+      "/files/assets/images/kb/readymarketplace/17.jpg",
+      "/files/assets/images/kb/readymarketplace/18.jpg"
+    ]
+  },
+  {
+    "page": 8,
+    "text": "To select the price effective date:\n• a. Click on, the calendar icon to set the price effective date.\n• b. Use, to move to any other month of the present calendar year or any other year.\n• c. Use, to move to the next month.\n• d. Click Today to select the effective date as today's.\n• e. Click Clear to cancel the date.\n• \nImport Product List\nAlternative to adding products from the add product window, products can also be imported from an existing excel file. Here we upload the product list file and map the fields with the columns of the excel file.Note:The links in the Upload File window are the steps for importing the file. These links are visible in every step and highlight the step in the process.\nTo import product list:\n• 1.\tHead to Getting Started > Ready To Go Marketplace > Add Product.\n• 2.\tClickImport Productto start the process.\n• \n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/19.jpg",
+      "/files/assets/images/kb/readymarketplace/20.jpg"
+    ]
+  },
+  {
+    "page": 9,
+    "text": "Step 1: Upload EXCEL FILE\nThis step uploads the file.\n• a. Click onImport Products+. The Upload Excel File window is displayed.\n• \n• Note:Before you import the file, you can download the sample excel template to look at the format of the data used. Click onSample Excel Templateto download the sample file. Maintain the same format of the data as the sample provided for successful uploadMake sure to overwrite products having the same SKU ID\n• Before you import the file, you can download the sample excel template to look at the format of the data used. Click onSample Excel Templateto download the sample file. Maintain the same format of the data as the sample provided for successful upload\n• Make sure to overwrite products having the same SKU ID\n• b. Click onorSelect Drop Files Hereto upload the product list file\n• 4. Status (Active/Inactive/Terminated)\n• Before you import the file, you can download the sample excel template to look at the format of the data used. Click onSample Excel Templateto download the sample file. Maintain the same format of the data as the sample provided for successful upload\n• Make sure to overwrite products having the same SKU ID\nStep 2: Column Mapping\nAfter the file is uploaded, you have to map the corresponding fields with the columns of the excel file.\n• a. Click onColumn mapping. The Column mapping window is displayed.\n• \n• b. Map the fields by selecting the respective columns. For example, if you have a column in your sheet named Customer Company, you need to map it withCompany Name, and so on.\n• c. Click onContinueto move to the next step or clickBackto go to theUpload Excel Filewindow.\n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/21.jpg"
+    ]
+  },
+  {
+    "page": 10,
+    "text": "Step 3: Import\nClick onImportto upload the product list. The status window is displayed. Your product list file is imported.\nCompany Info\nThe company information and other details required for billing purposes are set in this section.\nTo enter your Company Info:\n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/22.jpg",
+      "/files/assets/images/kb/readymarketplace/23.jpg",
+      "/files/assets/images/kb/readymarketplace/24.jpg"
+    ]
+  },
+  {
+    "page": 11,
+    "text": "• 1. Click onCompany Infofrom the Getting Started page. The Company Info form is displayed\n• \n• 2. Enter the following details to complete this step:FieldInformationRequiredCompany DetailsCompany NameOrganization nameCompany WebsiteCompany website URLOptionalPersonal DetailsFirst NameLast NameFirst name and Last name of the SellerUser NameUser Nameyou would like to use for this portalEmailEmail id for communicationBilling AddressBilling AddressBilling addressMailing AddressMailing AddressIf your mailing address is the same as the billing address,check the box as given below:If the mailing address is the same, the fields of the mailing addressare filled in automaticallyas soon as you check the box.Contact InformationContact NoEnter your contact informationMobile NoEnter your contact informationOptionalFinancial DetailsGST/ TAX IDGST Tax Identification number for billing purposesCompany Incorporation IDCompany Incorporation ID or CID for billing purposesTax-ExemptIf you are eligible for tax exemption, checkTax Exempt.If eligible, enter theTax Number.Billing InformationOrder PrefixFound at the beginning of the order number. Used for trackingand managing the ordersOrder Sequence NumberUsed for tracking and managing ordersInvoice PrefixFound at the beginning of the order number. Used for trackingand managing the invoicesInvoice Sequence NumberUsed for tracking and managing invoicesCompany LogoLogoUploading your company logoNote:Use image of resolution 200px x 50px for best fit and acceptsonly jpeg, gif, png of max size 1MBOptionalSmall LogoNote:Use image of resolution 100px x 100px for best fit and acceptsonly jpeg, gif, png of max size 1MBOptional\n• 3. Click on Save& Next to save your details and head to the next step\nPayment Gateway Setup\nYou can access thePayment Setupby navigating to the Getting Started page and going toPayment Setup.\nIn this module, you will integrate both online and offline payment modes for the transaction.\n• 1.Online Payment (Payment Gateway)\n• 2.Offline Payment (Bank Details)\nSet Up An Online Payment Gateway\n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/25.jpg",
+      "/files/assets/images/kb/readymarketplace/26.jpg"
+    ]
+  },
+  {
+    "page": 12,
+    "text": "There are two payment gateways to choose from. You can integrate either Paypal or Stripe or both as your transaction gateway.\nTo set up an online payment method, navigate toPayment Setupand clickOnline Payment (Payment Gateway)\nNote\nBy default, theOnline Payment (Payment Gateway)window is displayed. ThePaypal Gatewaysetup screen is displayed.\nTo set Paypal as your transaction gateway:\n• 1. Click onto enter the details.\n• 2. Enter the display name\n• 3. Enter  the user name and password\n• 4. Click onSaveto save the PayPal gateway details.\n• 5. Click onLaunchto launch your Marketplace.This action rediects to your MarketPlace.\n• 6. Enable the toggle button to activate the payment gateway. The Enable toggle button is at the top right-hand side of the Payment Methods window.Note:To deactivate the Paypal payment gateway, disable theEnabletoggle button\nTo set Stripe as your transaction gateway:\n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/27.jpg"
+    ]
+  },
+  {
+    "page": 13,
+    "text": "• 1. Choose Stripe on the Payment Methods page.\n• 2. Clickto enter the details.\n• 3. Enter the display name\n• 4. Enter  the API key\n• 5. Enter the success URL and Cancel URL\n• 6. Click onSaveto save the PayPal gateway details.\n• 7. Click onLaunchto launch your Marketplace. This action redirects to your MarketPlace.\n• 8. Enable the toggle button to activate the payment gateway. The Enable toggle button is at the top right-hand side of the Payment Methods windowNote:To deactivate the Stripe payment gateway, disable theEnabletoggle button\nSet Up An Offline Payment Gateway\nTo set up an offline payment method, navigate toPayment Setupand clickOffline Payment (Bank Details)\nTo add bank details to the offline payment mode:\n• 1. ClickAdd Bank. The Add Bank window is displayed.\n• \n• 2. Enter the following details to complete this step:FieldInformationRequiredAccount NumberYour bank account informationBank NameYour bank account informationPayee/ Account NameYour bank account informationNEFT/RTGS/ACHEType of online transferAddress, Country, Bank Branch & CityAddress of the bank\n• 3. Enable theStatusbutton to activate the payment gateway. The Status toggle button is at the bottom left-hand side of the Add Bank window\n• 4. ClickSave. The added bank details are updated in theBank Listas shown below.  To see the Bank list, navigate toPayment Setupand click Offline Payment (Bank Details)Note:UseFirst, Previous, Next, Lastlinks at the bottom right of the Bank List screen for navigating through the list.\n• \nTo edit bank information:\n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/28.jpg",
+      "/files/assets/images/kb/readymarketplace/29.jpg"
+    ]
+  },
+  {
+    "page": 14,
+    "text": "• 1. To edit the added bank details, go to theBank List.\n• 2. Click on more icon,present at the end of the record that has to be edited\n• 3. Select theEditoption\n• 4. The Add Bank window with the furnished details is displayed.\n• 5. Edit the details that have to be changed.\n• 6. Click Save to save the changes made.\nTo delete bank account:\n• 1. To delete the bank account, go to the Bank List.\n• 2. Click on more icon,present at the end of the record that has to be edited\n• 3. Select theDeleteoption. A confirmation pop-up window is displayed.\n• 4. ClickYes, Delete it!if you are sure of deleting the bank information from the list. ClickNo, to cancel the deletion.\n• \nView Marketplace\nNow you are all set! You have launched your Marketplace by adding products, setting up a pricing list, and the payment gateway.\nYou can view your Marketplace by heading to the Getting Started page and going toView Marketplace\n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/30.jpg",
+      "/files/assets/images/kb/readymarketplace/31.jpg"
+    ]
+  },
+  {
+    "page": 15,
+    "text": "The catalog lists all products you have added with the respectiveProduct Name, ID, Logo, Markup Price, and Selling Price.\nSample of a  product from the catalog:\nThis product lists the information provided from the Add Product\nFrom here, you can initiate an order following any of the options:\n• 1.Add To Cart\n• 2.View Details\nAdd To Cart\n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/32.jpg",
+      "/files/assets/images/kb/readymarketplace/33.jpg"
+    ]
+  },
+  {
+    "page": 16,
+    "text": "To order products:\n• 1. Select the product from the catalog\n• 2. ClickAdd to Cart. The product is added to the cart.Note:After the product is added you can hover over the cart icon,to view the product in your cart. The cart icon,is present at the top right of the MarketPlace.\n• \n• 3. Click on the check out icon,to check out the ordered product. The Order Confirmation page is displayedNote:If you would opt to change the quantity and the term of the ordered product, you can also make the changes in this screen. The orderd item can also be deleted by clicking the cancel icon,present at the end of each product.\n• \n• 4. ClickProceed to Checkout.\n• 5. The next step requires theCustomer Detailsto whom the order is placed.Existing Customer: Select the existing customer from the list.New Customer: If the customer is new, click onRegisterfor registering the customer.\n• Existing Customer: Select the existing customer from the list.\n• New Customer: If the customer is new, click onRegisterfor registering the customer.\n• \n• 6. Click onProceed to Payment. ThePaymentpage is displayed:\n• The two options of payment are:Pay using creditPay using offline/ bank transfer\n• Pay using credit\n• Pay using offline/ bank transfer\n• Existing Customer: Select the existing customer from the list.\n• New Customer: If the customer is new, click onRegisterfor registering the customer.\n• Pay using credit\n• Pay using offline/ bank transfer\n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/34.jpg",
+      "/files/assets/images/kb/readymarketplace/35.jpg",
+      "/files/assets/images/kb/readymarketplace/36.jpg",
+      "/files/assets/images/kb/readymarketplace/37.jpg"
+    ]
+  },
+  {
+    "page": 17,
+    "text": "Pay using Credit\nThis option is enabled only if:\n• 1. The reseller enables the credit option in the Customer's Setting.\n• 2. There is no credit overdue.\nTo pay from credit, follow the steps:\n• 1.\tClick the add icon,+on the Pay From Credit tab to use the credit option.Note:You can also add credit to the customer's account.\n• \n• 2. Enter the Coupon Code, if applicable.\n• 3. ClickProceed to Payment.\n• 4. TheOrder Confirmationpage is displayed:\n• \nPay using Offline/ Bank Transfer\n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/38.jpg",
+      "/files/assets/images/kb/readymarketplace/39.jpg"
+    ]
+  },
+  {
+    "page": 18,
+    "text": "To pay us, follow the steps::\n• 1.\tClick the add icon,+on the Pay Offline/ Bank Transfer tab.\n• \n• \n• 1. The bank details available are listed for the transaction.\n• 2. Enter the Coupon Code, if applicable.\n• 3. Transfer the amount payable using the bank details provided.\n• 4. Mail the transaction details tobilling@appgallop.comor raise a ticket to the Billing department from the customer portal.\n• 5. ClickPlace Order.\n• 6. TheOrder Confirmationpage is displayed:\nOrder Initialised from View Detail\nClick onView Detailfor the product details in your Marketplace. You can also order the products from this page.\nTo order product:\n",
+    "images": [
+      "/files/assets/images/kb/readymarketplace/40.jpg",
+      "/files/assets/images/kb/readymarketplace/41.jpg",
+      "/files/assets/images/kb/readymarketplace/42.jpg"
+    ]
+  },
+  {
+    "page": 19,
+    "text": "• 1.\tSelect the term applicable.\n• 2.\tChoose the quantity by selecting + or - accordingly for increasing or decreasing the item.\n• 3.\tClick onAdd To Cart. The product is added to the cart.\nDashboard\nThe Dashboard is a holistic view of an up-to-date measure of your business metrics at a glance.\nHere you can set performance goals, define & analyse key metrics, view customer & sales churn, information on new sign-ups.\nThe various sections of the dashboard are:\n• 1.Key Metrics: visualize your annual & monthly recurring revenues\n• 2.New Accounts: highlights the new sign-ups with status\n• 3.Recent Orders: a quick overview of recent orders with status\n• 4.Upcoming Renewals: glance of renewals with their expiry date\n• 5.Revenue by product category: analyses and compares revenue by category\n• 6.New Vs Renewal: compares renewal with new\nKey Metrics\n",
+    "images": [
+      "/files/assets/images/kb/dashboard/1.jpg"
+    ]
+  },
+  {
+    "page": 20,
+    "text": "This graphical representation tracks your revenue, one of the significant metrics. Revenue analysis helps you in thoroughly analysing and planning.\nFeatures:\n• 1. Visualize the comparison of annual and monthly recurring revenue.\n• 2. Monitor, compare and analyse the revenue incurred towards Perpetual & Subscription products.\n• 3. Analyse revenue growth or revenue drop\n• 4. Keep track of your target.\nNew Accounts\nThis section highlights theNew Signups(past 7- or 30- days) in a table view. The status of the signup is displayed with the primary details. This gives you a good perspective on the sign-ups.\nRecent Orders\nRecent Orders provides a quick overview of the past 7- or 30-days order summary. The table view lists the order ID, order date, cost price, and the amount with the order status.\n",
+    "images": [
+      "/files/assets/images/kb/dashboard/2.jpg"
+    ]
+  },
+  {
+    "page": 21,
+    "text": "Upcoming Renewals\nUpcoming Renewals shows when the products are set to renew with the days left for renewal, quantity, amount, and status for the next 7- or 30- days.\nRevenue By Product Category\nRevenue by product tracks and compares the performance by product categories. This helps you in comparing revenues incurred by the categories.\nNew Vs Renewal\nCompares new with renewal\nSales Dashboard\n",
+    "images": [
+      "/files/assets/images/kb/dashboard/3.jpg"
+    ]
+  },
+  {
+    "page": 22,
+    "text": "Sales reports are focused on details of metrics that provide a broad overview of the sales cycle; from deals to sales generated.\nReporting on sales include:\n• 1. Sales Performance:  monthly/ annual sales report and compares with the target.\n• 2. Monthly Deals by Source\n• 3. Won Deals\n• 4. Deal Win Rate\n• 5. Recent Sale Deals\n• 6. Deal Summary\nSales Performance\nA sales Performance dashboard provides you a snapshot of annual and monthly sales, measures it against the target. This overview helps you see how your actual sales performance is compared with the set goals.\nMonthly Deals by Source\nThis report gives an understanding of where your deals are coming from. You can use this to prioritize the deals that require close attention, categories qualified and unqualified deals and the number of deals required to attain the monthly target.\nWon Deals\n",
+    "images": []
+  },
+  {
+    "page": 23,
+    "text": "Won Deals lists the closed deals in a month with the sales generated and the assignee of the deal. This outlines you with information on the sales cycle length and the assignee performance.\nDeal Win Rate\nDeal win rate is used to track percentage of deals closed for a specific period.\nIt is calculated asWon Deals/Won Deals + Non-Won Deals.\nHere the conversion rate is visualized which tells you the way you are progressing in converting opportunities to won deals.\nRecent Sale Deals\nThis table view lists the sale deals with their status information. The expected closing date gives you a glance of the conversion time it takes and bring in change in your sales strategy, if required.\nDeal Summary\n",
+    "images": []
+  },
+  {
+    "page": 24,
+    "text": "Manage Your Customers\nYou can use the Customers section to:\n• 1.Customers: Add, view, edit and search customer profile.\n• 2.Subscriptions: View and manage Subscriptions.\n• 3.Orders & Billing: View and manage orders, invoices, receipts and ledgers\n• 4.Ticket: Add and manage tickets\n• 5.Logs: Registers activities and accesses email logs\n• 6.Settings: Configure different settings for a specific customer\nCustomer Window\nGo toCustomers\nTheCustomer Windowis displayed\n",
+    "images": [
+      "/files/assets/images/kb/customer/1.jpg",
+      "/files/assets/images/kb/customer/2.jpg"
+    ]
+  },
+  {
+    "page": 25,
+    "text": "This section allows you to add customers, view and edit customers using the more option at the end of each customer details and search customers using the search bar present at the top of the list.\nAdd Customers\nTo add customers one by one:\n• 1. Go toCustomers > Add Customers. TheAdd Customersform is displayed:\n• \n• 2. Enter the following details to complete this step:FieldInformationRequiredCompany DetailsCompany NameOrganization nameCompany WebsiteDomain NameNote:Make sure to enter the domain name in the Company Websitefield, instead of the URL.OptionalPersonal DetailsFirst NameLast NameFirst name and Last name of the CustomerUser NameUser Name must be unique.Note:If the User Name you had entered is available, you will see acheckmark. Now you can moveon to the next information.EmailEmail id of the customer for communicationBilling AddressBilling AddressBilling addressMailing AddressMailing AddressTo use the same address as your billing address, clickthe check box as below:If the mailing address is different, enter the complete address.Note:If the mailing address is the same, the fields of the mailingaddress are filled in automatically assoon as you check the box.Contact InformationContact NoThe country code is displayed automatically.Mobile NoEnter your contact informationOptionalFinancial DetailsCredit LimitMaximum amount of credit offered to the customerOptionalCompany Incorporation IDCompany Incorporation ID or CID for billing purposesGST/ TAX IDGST Tax Identification number for billing purposesTax-ExemptIf you are eligible for tax exemption, checkTax Exempt.If eligible, enter theTax Number.Other DetailsCurrencyCurrency of the customerStatusActive: Customer is presently availing your service.Inactive: Customer is not able to access the portal.Terminated: Customer has permanently stopped usingyour service or you have opted to terminate the account.\n• Active: Customer is presently availing your service.\n• Inactive: Customer is not able to access the portal.\n• Terminated: Customer has permanently stopped usingyour service or you have opted to terminate the account.\n• 3. Click on Save once the details are added. This will successfully add the customer to the list of customers on the Customer Window page.\n• Active: Customer is presently availing your service.\n• Inactive: Customer is not able to access the portal.\n• Terminated: Customer has permanently stopped usingyour service or you have opted to terminate the account.\nImport Customer List\nAlternative to adding customers from the add customer window, customers can also be imported from an existing excel file. Here we upload the customer list file and map the fields with the columns of the excel file.\n",
+    "images": [
+      "/files/assets/images/kb/customer/3.jpg"
+    ]
+  },
+  {
+    "page": 26,
+    "text": "Note\nThe links in the Upload File window are the steps for importing the file. These links are visible in every step and highlight the step in the process.\nTo import the customer list file:\nSelect Customers > Actions > Import\nStep 1: Upload EXCEL FILE\nThis step uploads the file.\n• a. Click on Import Products +. The Upload Excel File window is displayed.\n• \n• Note:Before you import the file, you can download the sample excel template to look at the format of the data used. Click onSample Excel Templateto download the sample file. Maintain the same format of the data as the sample provided for successful uploadMake sure to overwrite products having the same SKU ID\n• Before you import the file, you can download the sample excel template to look at the format of the data used. Click onSample Excel Templateto download the sample file. Maintain the same format of the data as the sample provided for successful upload\n• Make sure to overwrite products having the same SKU ID\n• b. Click onorSelect Drop Files Hereto upload the product list file\n• 4. Status (Active/Inactive/Terminated)\n",
+    "images": [
+      "/files/assets/images/kb/customer/4.jpg"
+    ]
+  },
+  {
+    "page": 27,
+    "text": "• Before you import the file, you can download the sample excel template to look at the format of the data used. Click onSample Excel Templateto download the sample file. Maintain the same format of the data as the sample provided for successful upload\n• Make sure to overwrite products having the same SKU ID\nStep 2: Column Mapping\nAfter the file is uploaded, you have to map the corresponding fields with the columns of the excel file.\n• a. Click onColumn mapping. The Column mapping window is displayed.\n• \n• b. Map the fields by selecting the respective columns. For example, if you have a column in your sheet named Customer Company, you need to map it withCompany Name, and so on.\n• c. Click onContinueto move to the next step or clickBackto go to theUpload Excel Filewindow.\nStep 3: Import\nClick onImportto upload the product list. The status window is displayed. Your product list file is imported.\n",
+    "images": [
+      "/files/assets/images/kb/customer/5.jpg",
+      "/files/assets/images/kb/customer/6.jpg"
+    ]
+  },
+  {
+    "page": 28,
+    "text": "Customer Profile\nTo access the details of the customer\n• 1. Navigate toCustomers. Customer List screen is displayed.\n• 2. By clicking on any of the details of a customer, you will land on theCustomer Profileof that specific customer.\n• The details of the customer in the list include:a.Account Name: implies the Company Nameb.Primary Contact & Emailc.StatusStatus can be one of the following:Active: Customer is presently availing your serviceInactive: Customer is not able to access your service.Terminated: Customer has permanently stopped using your service or you have opted to terminate their account.\n• a.Account Name: implies the Company Name\n• b.Primary Contact & Email\n• c.StatusStatus can be one of the following:Active: Customer is presently availing your serviceInactive: Customer is not able to access your service.Terminated: Customer has permanently stopped using your service or you have opted to terminate their account.\n• Active: Customer is presently availing your service\n• Inactive: Customer is not able to access your service.\n• Terminated: Customer has permanently stopped using your service or you have opted to terminate their account.\n• a.Account Name: implies the Company Name\n• b.Primary Contact & Email\n• c.StatusStatus can be one of the following:Active: Customer is presently availing your serviceInactive: Customer is not able to access your service.Terminated: Customer has permanently stopped using your service or you have opted to terminate their account.\n• Active: Customer is presently availing your service\n• Inactive: Customer is not able to access your service.\n• Terminated: Customer has permanently stopped using your service or you have opted to terminate their account.\n• Active: Customer is presently availing your service\n• Inactive: Customer is not able to access your service.\n• Terminated: Customer has permanently stopped using your service or you have opted to terminate their account.\nTo view the Customer Profile:\n",
+    "images": [
+      "/files/assets/images/kb/customer/7.jpg",
+      "/files/assets/images/kb/customer/8.jpg"
+    ]
+  },
+  {
+    "page": 29,
+    "text": "• 1. Click on any of the details of a customer of your interest.For example: If you click on Account Name, Cloud Pvt Ltd as in the above figure, you will be directed to the profile page of that customer:\n• \nThe following components are present throughout the windows of the customer profile screen:\n• 1. Account Number and Company Name\n• 2. Customers Button: Directs to the Customer List\n• 3. Customer Profile Sections:SummarySubscriptionsBillingTicketsLogsSettings\n• Summary\n• Subscriptions\n• Billing\n• Tickets\n• Logs\n• Settings\n• Summary\n• Subscriptions\n• Billing\n• Tickets\n• Logs\n• Settings\nCustomer Summary\nCustomers >Customer Profile\nCustomer Summary provides the highlights of the selected customer. The Customer Summary screen is organized into various sections which give you an understanding of the customer.\n",
+    "images": [
+      "/files/assets/images/kb/customer/9.jpg"
+    ]
+  },
+  {
+    "page": 30,
+    "text": "The customer's contact information, recent orders, credit/wallet, monthly spend, annual spend, due invoices, spend analysis, complaints resolved, upcoming renewals, and a comparison of new and renewal services are included in the summary.\nTo view the customer summary:\nSelect the Customerand click on any of the listed details. The Customer Summary screen is displayed:\nSubscriptions\nCustomers >Customer Profile> Subscriptions\nThis page lists all the subscriptions that a customer had purchased. The details include name, price, expiry date, billing date, and status. In this section, you can:\n• 1.View Subscriptions\n• 2.Manage Subscriptions\nView Subscriptions\n",
+    "images": []
+  },
+  {
+    "page": 31,
+    "text": "To view the subscriptions:\nConnect toCustomer Profilepage. Click onSubscriptions. The subscription list with the price, expiry date of subscription & billing, and status.\nSubscription is displayed:\nManage Subscriptions\nSubscription Management helps you:\n• 1.Change the status of the subscriptions\n• 2.Schedule the subscription\n• 3.Schedule the billing renewal\nTo manage the subscriptions:\n",
+    "images": [
+      "/files/assets/images/kb/customer/10.jpg"
+    ]
+  },
+  {
+    "page": 32,
+    "text": "Click on theSubscription NameorMore Actions, you will be directed to theSubscription Managementscreen.\nA more detailed view of a specific subscription including the Subscription Scheduler and Billing Renewal Scheduler is displayed:\nThis page lists the complete details like quantity, subscription start, and expiry date, billing start and end date, billing frequency, renew price, and last modified date. The last modified date lists the date of recent changes.\nSubscription Status Change\nA subscription goes through various states. These include:\n• 1.Active:  When you approve a subscription, it goes to an active state. The customer can use the subscription.\n• 2.Cancelled: When you cancel a subscription, it goes to cancelled state and cannot be reactivated.\n• 3.Pending:  The subscription is pending until the validation is complete. You can either approve or reject the subscription.\n• 4.Suspended: The subscription is paused temporarily and can be reactivated later.\n• 5.Terminated: The subscription can no longer be used and cannot be reactivated.\nTo change the subscription status:\n",
+    "images": [
+      "/files/assets/images/kb/customer/11.jpg"
+    ]
+  },
+  {
+    "page": 33,
+    "text": "• 1. Go toCustomer Profilepage and select Subscription. TheSubscription Managementpage is displayed\n• 2. Click on the edit,icon.\n• 3. Select the status from the list of dropdown options.\n• 4. Click on the checkmark,to confirm the status change else click on the cancel icon,to cancel it.\n• \n• 5. On clicking the checkmark, you will see a confirmation pop-up window. Click Yes! to confirm else click Cancel to cancel the status change.\n• \n• 6. Once you confirm, a success message confirming the status change is displayed:\n• \nSubscription Scheduler\nTo schedule the subscription:\n• 1. Navigate toCustomer Profilepage and select Subscription. TheSubscription Managementpage is displayed.\n• \n• 2. TheSubscription Scheduleris found at the top right of the page.\n• \n• 3. EnableAuto Renewto process automatic renewals at the end of the subscription term.Note:Auto-Renew is set on theCustomer Settingspage.The subscription expiry date is displayed in the scheduler.The scheduler also highlights the post subscription and pending day count.If the billing is overdue, you will see a negative count.\n• Auto-Renew is set on theCustomer Settingspage.\n• The subscription expiry date is displayed in the scheduler.\n• The scheduler also highlights the post subscription and pending day count.\n• If the billing is overdue, you will see a negative count.\n",
+    "images": [
+      "/files/assets/images/kb/customer/12.jpg",
+      "/files/assets/images/kb/customer/13.jpg",
+      "/files/assets/images/kb/customer/14.jpg",
+      "/files/assets/images/kb/customer/15.jpg"
+    ]
+  },
+  {
+    "page": 34,
+    "text": "• Auto-Renew is set on theCustomer Settingspage.\n• The subscription expiry date is displayed in the scheduler.\n• The scheduler also highlights the post subscription and pending day count.\n• If the billing is overdue, you will see a negative count.\nBilling Renewal Scheduler\nTo schedule the billing renewal:\n• 1. Connect to theCustomer Profileand select Subscription. TheSubscription Managementpage is displayed:\n• \n• 2. TheBilling Renewal Scheduleris found at the bottom right of the page.\n• \n• 3. Enable Auto-Renew for turning on the recurring billing cycle. A confirmation popup window is displayed:\n• Note:Auto-Renew is set on the Customer Settings page.The Billing End Date is displayed in the scheduler.The scheduler also highlights the post-billing day count and the leftover day count for the next billing cycle.If the billing is overdue, you will see a negative count.\n• Auto-Renew is set on the Customer Settings page.\n• The Billing End Date is displayed in the scheduler.\n• The scheduler also highlights the post-billing day count and the leftover day count for the next billing cycle.\n• If the billing is overdue, you will see a negative count.\n",
+    "images": [
+      "/files/assets/images/kb/customer/16.jpg",
+      "/files/assets/images/kb/customer/17.jpg",
+      "/files/assets/images/kb/customer/18.jpg",
+      "/files/assets/images/kb/customer/19.jpg"
+    ]
+  },
+  {
+    "page": 35,
+    "text": "• Auto-Renew is set on the Customer Settings page.\n• The Billing End Date is displayed in the scheduler.\n• The scheduler also highlights the post-billing day count and the leftover day count for the next billing cycle.\n• If the billing is overdue, you will see a negative count.\nOrders and Billing\nCustomers >Customer Profile> Billing\nHere you can manage orders, view invoices, receipts, and the ledger for a specific customer.\nThe Billing page has four sections:\n• 1.Order: To see the past orders, edit, and cancel the existing orders\n• 2.Invoices:  To see the invoices and cancel an invoice\n• 3.Receipts: To see the generated receipts of all the orders\n• 3.Ledger: To see the complete transaction history\nView Orders\nTo view the past orders:\n",
+    "images": []
+  },
+  {
+    "page": 36,
+    "text": "• 1. Connect toCustomer Profilepage and selectBilling. TheBilling pageis displayed:\n• Order history lists the orders in chronological order and include the following:Order NoOrder DateCost PriceAmountStatusThe orders can be searched by any of the above details using the search bar\n• Order No\n• Order Date\n• Cost Price\n• Amount\n• Status\n• 2. Click on theOrder Numberor theMore Actionsbutton at the end of the order and selectView Orderto view the following two sections:\n                The first section of the order displays the following:Order No and Date of purchaseTax IDStatus (Pending/ Complete/ Cancelled)Billing Address, Email, and contact informationPurchaser of the productThe second section of the order displays the following:Product nameTermQuantityUnit priceAmountCost priceDiscountTaxTotal AmountCoupon if applicableGrand Total after applying the Coupon\n• Order No and Date of purchase\n• Tax ID\n• Status (Pending/ Complete/ Cancelled)\n• Billing Address, Email, and contact information\n• Purchaser of the product\n• Product name\n• Term\n• Quantity\n• Unit price\n• Amount\n• Cost price\n• Discount\n• Tax\n• Total Amount\n• Coupon if applicable\n• Grand Total after applying the Coupon\n• \n• Order No\n• Order Date\n• Cost Price\n• Amount\n• Status\n• Order No and Date of purchase\n• Tax ID\n• Status (Pending/ Complete/ Cancelled)\n• Billing Address, Email, and contact information\n• Purchaser of the product\n• Product name\n• Term\n• Quantity\n• Unit price\n• Amount\n• Cost price\n• Discount\n• Tax\n• Total Amount\n• Coupon if applicable\n• Grand Total after applying the Coupon\nNote\nYou can print the order, download the order as pdf or email the order using the options at the upper-right corner of the page.\n",
+    "images": [
+      "/files/assets/images/kb/customer/21.jpg",
+      "/files/assets/images/kb/customer/22.jpg"
+    ]
+  },
+  {
+    "page": 37,
+    "text": "Edit Orders\n• 1. Go toCustomer Profileand select Billing. TheBilling pageis displayed\n• 2. Click on theMore Actionsand selectEdit Orderto change the order details. TheEdit Orderpage is displayed:\nDelete Orders\nTo delete a particular order:\n• 1. Go toCustomer Profileand selectBilling. TheBilling pageis displayed.\n• 2. Click on theMore actionsbutton at the end of the order that has to be deleted and selectCancel Orderto delete the order.\n• 3. A confirmation popup window is displayed. ClickYesto cancel the order andNoto cancel the deletion.\n• \n• 4. On clickingYes, success message is displayed. ClickOkto close the window.\n• \nView Invoices\n",
+    "images": [
+      "/files/assets/images/kb/customer/23.jpg",
+      "/files/assets/images/kb/customer/24.jpg"
+    ]
+  },
+  {
+    "page": 38,
+    "text": "To view the generated invoices:\n• 1. Connect toCustomer Profilepage and selectBilling. TheBilling pageis displayed:\n• 2. Select theInvoicestab. Invoice history lists the invoices in chronological order and includes the following:Invoice No and dateCost PriceAmountReceipt NoMode of Payment (Offline, Credit)Billing Status (Paid, Unpaid)\n• Invoice No and date\n• Cost Price\n• Amount\n• Receipt No\n• Mode of Payment (Offline, Credit)\n• Billing Status (Paid, Unpaid)\n• 3. Click on theInvoice Numberor theMore Actionsbutton at the end of the invoice.The Invoice is displayed with two sections.The first section of the invoice displays the following:Invoice No and Date of purchaseTax IDStatus can take Unpaid or paid statusBilling Address, Email, and contact informationPurchaser of the productThe second section of the invoice displays the following:Product nameTermQuantityUnit priceAmountCost priceDiscountTaxTotal Amount and Grand Total\n• Invoice No and Date of purchase\n• Tax ID\n• Status can take Unpaid or paid status\n• Billing Address, Email, and contact information\n• Purchaser of the product\n• Product name\n• Term\n• Quantity\n• Unit price\n• Amount\n• Cost price\n• Discount\n• Tax\n• Total Amount and Grand Total\n• \n• Invoice No and date\n• Cost Price\n• Amount\n• Receipt No\n• Mode of Payment (Offline, Credit)\n• Billing Status (Paid, Unpaid)\n• Invoice No and Date of purchase\n• Tax ID\n• Status can take Unpaid or paid status\n• Billing Address, Email, and contact information\n• Purchaser of the product\n• Product name\n• Term\n• Quantity\n• Unit price\n• Amount\n• Cost price\n• Discount\n• Tax\n• Total Amount and Grand Total\nCancel Invoices\n",
+    "images": [
+      "/files/assets/images/kb/customer/25.jpg",
+      "/files/assets/images/kb/customer/26.jpg"
+    ]
+  },
+  {
+    "page": 39,
+    "text": "To cancel an invoice of a particular customer:\n• 1. Go toCustomer Profileand selectBilling.\n• 2. Select the Invoices tab\n• 2. Click on theMore actionsbutton at the end of the invoice that has to be deleted and selectCancel Invoiceto delete the invoice.\n• 3. A confirmation popup window is displayed. ClickYesto cancel the invoice andNoto cancel the deletion.\n• \n• 4. On clickingYes, success message is displayed. ClickOkto close the window.\n• \nReceipt\nAdd Receipts\nTo add a receipt for an order:\n• 1. Go toCustomer Profileand selectReceipt.\n• \n• 2. ClickAdd Receipt. TheAdd Receiptform is displayed:\n• \n• 3. Enter the following details:FieldDescriptionRequiredDateSelect the date, the date at which payment was initiatedAmountEnter the order / invoice amountTransaction IDEnter the transaction ID of the paymentOptionalPayment MethodSpecify the payment method (online/ offline payment modes)Order/ InvoiceSelect order or invoice.Order numbers or Invoice numbers are generated as per the selectionDescriptionBrief about the transaction\n• 4. ClickSave. On saving, it gets added to the receipt list.\n",
+    "images": [
+      "/files/assets/images/kb/customer/27.jpg",
+      "/files/assets/images/kb/customer/28.jpg"
+    ]
+  },
+  {
+    "page": 40,
+    "text": "Manage Receipts\nHere you can view and edit the generated receipts of a selected customer.\nView Receipts\nTo view the generated receipts:\n• 1. Navigate to theCustomer Profileand selectReceipts.\n• 2. Receipts history lists all the receipts in chronological order and includes the details added in theAdd Receiptsection.Receipt Number and dateAmountTransaction ID: identifies the purchase by the customer as per the payment modeDescription: Includes description about thePayment Method\n• Receipt Number and date\n• Amount\n• Transaction ID: identifies the purchase by the customer as per the payment mode\n• Description: Includes description about the\n• Payment Method\n• Receipt Number and date\n• Amount\n• Transaction ID: identifies the purchase by the customer as per the payment mode\n• Description: Includes description about the\n• Payment Method\n",
+    "images": [
+      "/files/assets/images/kb/customer/29.jpg",
+      "/files/assets/images/kb/customer/30.jpg"
+    ]
+  },
+  {
+    "page": 41,
+    "text": "Edit Receipts\nTo edit the generated receipts:\n• 1. Navigate to the and selectReceipts.\n• 2. Click on theMore actionsbutton at the end of the receipt that has to be edited.\nLedger\nCustomers >Customer Profile> Ledger\nThe overall transactions, inclusive of all credits and debits of a selected customer can be viewed in the Ledger page. On adding a receipt In the Receipt section, the ledger also gets updated automatically based on the information given\nView Ledger\n",
+    "images": [
+      "/files/assets/images/kb/customer/31.jpg"
+    ]
+  },
+  {
+    "page": 42,
+    "text": "To view the ledger:\n• 1. Connect to theCustomer Profilepage and selectLedger.\n• 2. The ledger page displays the following details from the add receipt section in chronological orderDate and time of the receipt creationReference Number which implies the type of transactionDescriptionDebit & Credit AmountCumulative Balance\n• Date and time of the receipt creation\n• Reference Number which implies the type of transaction\n• Description\n• Debit & Credit Amount\n• Cumulative Balance\n• Date and time of the receipt creation\n• Reference Number which implies the type of transaction\n• Description\n• Debit & Credit Amount\n• Cumulative Balance\nView and Edit Receipt\nFrom the ledger section, you can also view and edit the receipt of the specific transaction.\n• 1. Connect to theCustomer Profilepage and selectLedger.\n• 2. Click on theMore actionsbutton at the end of the ledger whose transaction receipt has to be viewed or edited.\nTickets\nCustomers >Customer Profile> Tickets\n",
+    "images": []
+  },
+  {
+    "page": 43,
+    "text": "This section helps you to centrally manage service requests from various customers.\nThe following actions can be performed here:\n• 1.Add: Add tickets\n• 2.View: View the ticket's summary.\n• 3.Reply: View the ticket and reply\n• 4.Add Department: Add a relevant department for resolving issue.\n• 5.Manage: Allocate assignee, merge tickets, move the tickets to a different department.\nAdd Tickets\nTo add tickets:\n• 1. Navigate to theCustomer Profilepage and select Tickets. The Ticket Management page is displayed:\n• \n• 2. Click Add Ticket to add a support ticket.\n• \n• 3. Enter the following details:FieldDescriptionRequiredClientCustomer whose request have to be attendedDepartmentAllocation of department according to the issueProduct/ SubscriptionProducts related to that specific client is seen in the dropdown.Select the related productSubjectSummarizes the issue facedPost ReplyBrief the concern of the clientAttachmentsAllows to add attachments of   jpeg, gif, png, pdf, doc of max size 5MBOptionalPrioritySet the priority based on the severity of the issueOptions: Low, Medium, High and UrgentOptionalTicket StatusTracks the progress of the ticket.Select a state that can be applied:Open: At the time of creationAnswered:Inprocess:Resolved: solution is providedClosed: When a ticket is closed, cannot be changed\n• Open: At the time of creation\n• Answered:\n• Inprocess:\n• Resolved: solution is provided\n• Closed: When a ticket is closed, cannot be changed\n• 4. Click Save. This action saves the ticket details and lists the ticket in theTicket Managementpage.\n",
+    "images": [
+      "/files/assets/images/kb/customer/32.jpg",
+      "/files/assets/images/kb/customer/33.jpg"
+    ]
+  },
+  {
+    "page": 44,
+    "text": "• Open: At the time of creation\n• Answered:\n• Inprocess:\n• Resolved: solution is provided\n• Closed: When a ticket is closed, cannot be changed\nSupport Tickets Overview\nThe Support Tickets page lists all the tickets raised by a specific customer. This screen gives an overview of the ticket history of the customer inclusive of the status count of all tickets.\nThe list consists of the following:\n• 1. Ticket Number\n• 2. Department that is assigned\n• 3. Subject, summarizing the issue\n• 4. Requested by\n• 5. Assignee\n• 6. Last Activity\n• 7. Priority\n• 8. Status\nTo view the support tickets list:\nNavigate to the page and selectTickets > Add Tickets > Support Tickets. The Support Tickets page is displayed:\n",
+    "images": [
+      "/files/assets/images/kb/customer/34.jpg"
+    ]
+  },
+  {
+    "page": 45,
+    "text": "View Ticket and Reply\nTo view a support ticket and reply:\n• 1. Navigate to theCustomer Profilepage and selectTickets > Add Tickets > Support Tickets. Click on theTicket #of a specific ticket that has to be viewed. The View ticket page is displayed:\n• \n• 2. This screen has two sections, of which the first section has the ticket description andGeneral Informationand the second section has the reply part to be posted.Note:TheGeneral Informationhas the details of the ticket providedThe reply can be posted with attachments, if required and accepts only jpeg, gif, png, pdf, doc of max size 5MB.\n• TheGeneral Informationhas the details of the ticket provided\n• The reply can be posted with attachments, if required and accepts only jpeg, gif, png, pdf, doc of max size 5MB.\n• 3. You have an option to edit the ticket details like status, priority, assignee, move, and merge to inGeneral Informationpresent in the upper-right of the page.Note:Click on the edit iconto change the support ticket details in theGeneral Information.\n• 4. Set the ticket status accordingly. It can take any of the options:OpenInprocessAnsweredResolvedClosed\n• Open\n• Inprocess\n• Answered\n• Resolved\n• Closed\n• 5. Click Reply to post the message to the requester.\n• TheGeneral Informationhas the details of the ticket provided\n• The reply can be posted with attachments, if required and accepts only jpeg, gif, png, pdf, doc of max size 5MB.\n• Open\n• Inprocess\n• Answered\n• Resolved\n• Closed\nAdd Department\nAny department can be added under the support system if required. The status of the tickets that are set by the departments are also taken care in this module.\n",
+    "images": [
+      "/files/assets/images/kb/customer/35.jpg"
+    ]
+  },
+  {
+    "page": 46,
+    "text": "To add a department:\n• 1. Navigate to theCustomer Profilepage and selectTickets > Add Ticket > Departments. The Add Department page is displayed: (navigation)\n• \n• 2. Select the Department to be added.\n• 3. Enter the description of the query relevant to the department.\n• 4. Enter the email of the initiator.\n• 5. Choose an icon related to a department.\n• 6. Set the status asActiveif this department is enabled under support else asInactive. It can be set as active when required.\nManage Tickets\nVarious other actions that can be performed on the ticket are:\n• 1.Assign: Ticket is assigned to an assignee.\n• 2.Merge: Ticket is merged to another ticket.Example of a merging ticket scenario: you receive two requests about the same issue from the same customer.\n• 3.Move: Ticket is moved to another department.\nAssign Tickets\nA ticket can be assigned to a relevant support team member.\n",
+    "images": [
+      "/files/assets/images/kb/customer/36.jpg"
+    ]
+  },
+  {
+    "page": 47,
+    "text": "To assign a ticket:\n• 1. Go to theCustomer Profileand selectTickets > Add Tickets > Support Tickets. Check mark the ticket that has to be assigned.\n• 2. SelectAssign TofromActionsdropdown present at the right of the screen as shown below:\n• \n• 3. TheAssign Towindow is displayed:\n• \n• 4. Select the assignee.\n• 5. Click Assign.\n• 6. A confirmation popup window is displayed:\n• \n• 7. ClickYesto confirm andNoto cancel the assignment action. On clickingYes, assignee success message is displayed:\n• \n• 8. ClickOkto close the message box.Note:Assignee can also be assigned from theGeneral Informationsection of theView and ReplyTicket windowMultiple tickets can also be selected for assigning to an assignee.\n• Assignee can also be assigned from theGeneral Informationsection of theView and ReplyTicket window\n• Multiple tickets can also be selected for assigning to an assignee.\n• Assignee can also be assigned from theGeneral Informationsection of theView and ReplyTicket window\n• Multiple tickets can also be selected for assigning to an assignee.\nMerge Tickets\n",
+    "images": [
+      "/files/assets/images/kb/customer/37.jpg",
+      "/files/assets/images/kb/customer/38.jpg",
+      "/files/assets/images/kb/customer/39.jpg",
+      "/files/assets/images/kb/customer/40.jpg"
+    ]
+  },
+  {
+    "page": 48,
+    "text": "A ticket can be combined with another ticket to avoid duplicate entries.\nTo merge tickets, follow the steps below:\n• 1. Go to theCustomer Profileand selectTickets > Add Tickets > Support Tickets. Check mark the ticket that has to be assigned.\n• 2. SelectMergefromActionsdropdown present at the right of the screen as shown below:\n• \n• 3. TheMerge Towindow is displayed:\n• \n• 4. Select the ticket Number.\n• 5. ClickMerge.\n• 6. A confirmation popup window is displayed:\n• \n• 7. ClickYesto confirm andCancelto withdraw the merging action. On clickingYes, a success message is displayed:\n• \n• 8. ClickOkto close the message box.Note:Ticket Merge can also be initiated from theGeneral Informationsection of theView and ReplyTicket windowMultiple tickets can also be merged into a single ticket.\n• Ticket Merge can also be initiated from theGeneral Informationsection of theView and ReplyTicket window\n• Multiple tickets can also be merged into a single ticket.\n• Ticket Merge can also be initiated from theGeneral Informationsection of theView and ReplyTicket window\n• Multiple tickets can also be merged into a single ticket.\n",
+    "images": [
+      "/files/assets/images/kb/customer/41.jpg",
+      "/files/assets/images/kb/customer/42.jpg",
+      "/files/assets/images/kb/customer/43.jpg",
+      "/files/assets/images/kb/customer/44.jpg"
+    ]
+  },
+  {
+    "page": 49,
+    "text": "Move Tickets\nA ticket can be routed to different department for resolving the issue usingMove Ticketoption.\nTo move a ticket to another department:\n• 1. Go to theCustomer Profileand selectTickets > Add Tickets > Support Tickets. Check mark the ticket that has to be assigned.\n• 2. SelectMove TofromActionsdropdown present at the right of the screen as shown below:\n• \n• 3. TheMove Towindow is displayed:\n• \n• 4. Select the department to route the ticket.\n• 5. ClickMove.\n• 6. A confirmation popup window is displayed:\n• \n• 7. ClickYesto confirm andNoto withdraw the movoe. On clickingYes, a success message is displayed:\n• \n• 8. ClickOkto close the message box.Note:Ticket Move  can also be initiated from theGeneral Informationsection of theView and ReplyTicket windowMultiple tickets can also be move to a concerned department for further proceeding.\n• Ticket Move  can also be initiated from theGeneral Informationsection of theView and ReplyTicket window\n• Multiple tickets can also be move to a concerned department for further proceeding.\n",
+    "images": [
+      "/files/assets/images/kb/customer/45.jpg",
+      "/files/assets/images/kb/customer/46.jpg",
+      "/files/assets/images/kb/customer/47.jpg",
+      "/files/assets/images/kb/customer/48.jpg"
+    ]
+  },
+  {
+    "page": 50,
+    "text": "• Ticket Move  can also be initiated from theGeneral Informationsection of theView and ReplyTicket window\n• Multiple tickets can also be move to a concerned department for further proceeding.\nLogs\nCustomers >Customer Profile> Logs\nLogs allows you to track and analyse the activities in the seller portal. Activities include that of the seller and the customer. Email logs can also be accessed here.\nView Activity Logs\nTo view logs:\nHead to theCustomer Profilepage and selectLogs. TheActivityscreen is displayed:\n",
+    "images": [
+      "/files/assets/images/kb/customer/49.jpg"
+    ]
+  },
+  {
+    "page": 51,
+    "text": "The following details are present in the Activity:\n• 1. Date of the Activity & the Activity: You can view the events performed and the date to track user activity.\n• 2. Module/ Function Name: Defines the module accessed by the user\n• 3. User & IP address: Specifies the user and IP address.Example: A user A with IP address has accessed the Add Product screen on 23rd March 2022 helps you to keep track of the events by this customer.\nView E-mail Logs\nTo view e-mail logs:\nNavigate to theCustomer Profilepage and selectLogs > Email. TheEmail Logsscreen is displayed with the following:\n• 1. Date & Subject of the E-mail\n• 2. Module/ Function\n• 3. User and IP AddressThe above details help you to track the e-mail sent to a specific customer related to a particular module.\n• \nSettings\n",
+    "images": [
+      "/files/assets/images/kb/customer/50.jpg"
+    ]
+  },
+  {
+    "page": 52,
+    "text": "Customers >Customer Profile> Settings\nSettings module is used to enable or disable various functionalities with respect to a specific customer.\nTo manage settings:\nHead to theCustomer Profilepage and selectSettings. TheSettingsscreen is displayed:\nThe following functionalities can be set in this section\n• 1. Credit and Payment\n• 2. Billing Date\n• 3. Revenue Target\n• 4. Spend Target\n• 5. Order Configuration\n• 6. Invoice Configuration\n• 7. Subscription Settings\n• 8. Disable Services\n• 9. Scheduler Settings\n• 10. Ticket\n• 11. Roles and User Management\n• 12. Email Templates\nFollowing are the various functionalities screenshots of the settings section:\nCredit and Payment\n",
+    "images": []
+  },
+  {
+    "page": 53,
+    "text": "Billing Date or Anniversary Date\nRevenue Targets\nSpend Targets\nOrder Configuration\n",
+    "images": [
+      "/files/assets/images/kb/customer/51.jpg",
+      "/files/assets/images/kb/customer/52.jpg",
+      "/files/assets/images/kb/customer/53.jpg",
+      "/files/assets/images/kb/customer/54.jpg"
+    ]
+  },
+  {
+    "page": 54,
+    "text": "Invoice Configuration\nSubscription Settings\nDisable Services\nScheduler Settings\n",
+    "images": [
+      "/files/assets/images/kb/customer/55.jpg",
+      "/files/assets/images/kb/customer/56.jpg",
+      "/files/assets/images/kb/customer/57.jpg",
+      "/files/assets/images/kb/customer/58.jpg"
+    ]
+  },
+  {
+    "page": 55,
+    "text": "Ticket\nRoles and User Management\nEmail Templates\nThe description of the fields of the various Settings are listed below:\n",
+    "images": [
+      "/files/assets/images/kb/customer/59.jpg",
+      "/files/assets/images/kb/customer/60.jpg",
+      "/files/assets/images/kb/customer/61.jpg",
+      "/files/assets/images/kb/customer/62.jpg"
+    ]
+  },
+  {
+    "page": 56,
+    "text": "• Processing manually\n• Processing from credit wallet\n• Processing order as soon as the order received\n• As soon as an order is provisioned\n• On the Subscription Anniversary date\n• Reminder for Renewal (if Auto Renewal is disabled), Payment, Overdue reminders.\n• Service Suspension/ Termination\n• Renewal Invoice\nSubscriptions\nTheSubscriptionsmenu holds the details of all the subscriptions of your customers. You can view and manage all the subscriptions on this page.\nHere you can:\n• 1.View Subscription Summary\n• 2.View and Manage Subscription\n• 3.Access Subscription Scheduler\n• 4.Access Billing Renewal Scheduler\n• 5.Change Subscription status\n",
+    "images": [
+      "/files/assets/images/kb/subscriptions/1.jpg"
+    ]
+  },
+  {
+    "page": 57,
+    "text": "View Subscription Summary\nTo view Subscription Summary:\nConnect to Subscriptions. TheSubscriptions Summaryis displayed with all the subscriptions of all your customers.\nThe components of a subscription are:\n• 1. Service Details: This includes Subscription name, Billing Frequency, Quantity, Customer who owns the Subscription, and Price of the Subscription.\n• 2. Subscription & Billing Expiry Date\n• 3. Subscription Status Bar\n• 4. Subscription Search Bar\nSubscription Status Bar\nThe Subscription Status Bar, located at the top of the page gives the summary of the total count of the subscriptions under each status.\n",
+    "images": [
+      "/files/assets/images/kb/subscriptions/2.jpg"
+    ]
+  },
+  {
+    "page": 58,
+    "text": "Subscription Search Bar\nThe Subscription Search Bar lists the subscription/ subscriptions based on your search. Subscriptions can be searched by Subscription Name, Customer, Subscription Expiry Date, Billing Expiry Date and Status.\nView and Manage Subscription\nYou can view individual subscriptions information with the customer's name, order/invoice details, subscription status, subscription scheduler, and billing renewal scheduler.\nThis is where you can:\n• 1.View subscription\n• 2.Access subscription scheduler\n• 3.Access billing renewal scheduler\n• 4.Change subscription status\nNote\nThe Subscription Management page can also be accessed from the Customers section.\n",
+    "images": []
+  },
+  {
+    "page": 59,
+    "text": "View Subscription\nTo view individual subscription details:\n• 1. Go to Getting Started > Subscriptions and click on theSubscription Nameof your interest. TheSubscription Management pageis displayed:\n• 2. The Subscription Summary along with Subscription Scheduler, Billing Renewal Scheduler, Order/ Invoice details are shown.\nNote\nYou can also navigate to the Subscription Summary of aspecificcustomer by clicking on more actions, and selectingView Service.\nAccess Subscription Scheduler\nTheSubscription Schedulerallows you to automatically renew the subscription or opt for manual renewal. EnablingAuto Renewrenews the subscription before the current term ends. You can turn it off to allow the manual renewal of the subscription.\n",
+    "images": [
+      "/files/assets/images/kb/subscriptions/3.jpg"
+    ]
+  },
+  {
+    "page": 60,
+    "text": "To access the Subscription Scheduler:\n• 1. Go to Subscriptions >Subscription Management. The Scheduler is seen at the top right of the page.\n• 2. Turn Auto Renew on for automatic renewal of the subscription before the current term expires else turn it off for manual renewal.\nNote\nThe Subscription Scheduler can also be accessed from theCustomerssection\nTo know in more detail, connect toSubscription Scheduler of the Customers Section\nBilling Renewal Scheduler\nRecurring billing can be turned on or off in the Billing Renewal Scheduler. By enabling it, you opt for automatic billing as per the selected billing option.\nTo access the Billing Renewal Scheduler:\n",
+    "images": []
+  },
+  {
+    "page": 61,
+    "text": "• 1. Go toSubscriptions >Subscription Management. The Scheduler is seen at the bottom right of the page.\n• 2. Turn it on for auto billing.\nNote\nTheBilling Renewal Schedulercan also be accessed from theCustomerssection.\nTo know in more detail, connect toBilling Renewal Scheduler of the Customer's section.\nChange Subscription Status\nThe status of the subscription can be set as per your choice. It falls under 5 stages:\n• 1.Active:  When you approve a subscription, it goes to an active state. The customer can use the subscription.\n• 2.Cancelled: When you cancel a subscription, it goes to cancelled state and cannot be reactivated.\n• 3.Pending:  The subscription is pending until the validation is complete. You can either approve or reject the subscription.\n• 4.Suspended: The subscription is paused temporarily and can be reactivated later.\n• 5.Terminated: The subscription can no longer be used and cannot be reactivated.\nTo change subscription status\n",
+    "images": []
+  },
+  {
+    "page": 62,
+    "text": "• 1. Go toSubscriptions >Subscription Management.\n• \n• 2. Click on the edit,icon\n• \n• 3. Select the status from the list of dropdown options\n• 4. Click on the checkmark, to confirm the status change else click on the cancel icon, to cancel it.\nNote\nTheSubscription Status Changecan also be accessed from theCustomerssection.\nTo know in more detail, connect toSubscription Status Change of the Customer Section.\nOrders\nThe Orders page provides a look back at all the orders of all the customers, place orders from your catalog, check out your placed orders, and review your orders.\n",
+    "images": [
+      "/files/assets/images/kb/subscriptions/4.jpg",
+      "/files/assets/images/kb/subscriptions/5.jpg"
+    ]
+  },
+  {
+    "page": 63,
+    "text": "Head to the Orders page from the main menu.\nHere you can:\n• 1.View Order Summary\n• 2.Add Order\n• 2.View, Edit, Cancel Order\n• 3.Print/Download/Email Order\nOrder Summary\nTo view Order Summary:\nGo to Orders. TheOrder Summaryis displayed with all the orders of all your customers.\n",
+    "images": [
+      "/files/assets/images/kb/order/1.jpg",
+      "/files/assets/images/kb/order/2.jpg"
+    ]
+  },
+  {
+    "page": 64,
+    "text": "The Order Summary lists the following:\n• 1. Order No, Order Date, Customer who is the product owner.\n• 2. Cost Price and the Amount\n• 3. Order Status: Pending / Complete / Cancelled\nOrder Status\nAn order may take one of the following statuses:\n• 1. Pending\n• 2. Complete\n• 3. Inprocess\n• 4. Cancelled\nWhen an order is placed for a specific customer, the order status takes the value as pending or complete.\nAn order goes topending statusfor the following reasons:\n• Previous credit due is not cleared by the customer; hence not able to proceed with the payment\n",
+    "images": []
+  },
+  {
+    "page": 65,
+    "text": "An order goes tocomplete statusin one of the below cases:\n• Payment is cleared using credit/ online payment gateways/ offline transaction.\n• When the seller approves the pending order.\nAn order takes cancelled status when an order is cancelled and is no longer in effect. A cancelled order can only be viewed and cannot be approved further.\nProduct Catalog\nThe product catalog is available in two views:\n• 1.Catalog View: The products are listed with their images, units, and pricing information. From this page, products can be added to the cart and you can navigate to the ListView.\n• 2.List View: The list view shows the catalog in the form of a table. From this page, you can add products to your catalog, navigate to the Catalog View and edit the product information.\nAdd order from Catalog View\nHere you can add orders from your catalog. The catalog lists the products added from theAdd Productmodule.\n",
+    "images": []
+  },
+  {
+    "page": 66,
+    "text": "To add an order from the Catalog View:\n• 1. Go toOrders > Add Order\n• \n• 2. The Product Catalog is displayed\n• \n• 3. Locate the product/ products you would like to add.\n• 4. ClickAdd to Cart.\n• 5. If a product is added with domain authentification, you have to add an existing domain or create a new domain to proceed.\n• \nCase 1:\nNew Domain\n• 1. ClickCreate New Domainand enter the domain name of your preference and hitSearch.\n• \n",
+    "images": [
+      "/files/assets/images/kb/order/3.jpg",
+      "/files/assets/images/kb/order/4.jpg",
+      "/files/assets/images/kb/order/5.jpg"
+    ]
+  },
+  {
+    "page": 67,
+    "text": "• 6. The product is added and the shopping cart located at the top-right of the window reflects the additions.\n• 7. Hover your mouse over the cart and click the checkout icon.\nCheckout\nThe following steps list the checkout process:\n• 1. Once a product is added, the cart reflects the product added.\n• 2. Hover your mouse over the cart and click the checkout icon,.\n• \n• 3. A comprehensive order detail screen including the Grand Total is displayed: Click onProceed to Checkout.\n• \nNote\n",
+    "images": [
+      "/files/assets/images/kb/order/6.jpg",
+      "/files/assets/images/kb/order/7.jpg",
+      "/files/assets/images/kb/order/8.jpg"
+    ]
+  },
+  {
+    "page": 68,
+    "text": "The units of the SKUs can be altered on the order detail screen by changing theQtyfield. On editing the quantity, the amount and total amount changes accordingly.\nTo know in more detail, connect toSubscription Status Change of the Customer Section.\n• 4. In the next step, select any of the two options:Existing Customer: The order has to be placed for an existing customer.New Customer: New Customer has to be registered before placing the order.\n• Existing Customer: The order has to be placed for an existing customer.\n• New Customer: New Customer has to be registered before placing the order.\n• \n• 5. Proceeding to the Payment Method, options available are credit and offline transfer.\n• \n• Pay From Creditsection shows the available credit. In case of low credit, the seller has a choice of adding credit.To add credit:Click onAdd Credit.Enter the total credit and available credit for the customer.Enter Coupon code, if applicable and click onApply.Click onProceed to Payment. The Order Summary is displayed. You can view the status of the current order as shown below:\n• Click onAdd Credit.\n• Enter the total credit and available credit for the customer.\n• Enter Coupon code, if applicable and click onApply.\n• Click onProceed to Payment. The Order Summary is displayed. You can view the status of the current order as shown below:\n• Existing Customer: The order has to be placed for an existing customer.\n• New Customer: New Customer has to be registered before placing the order.\nPay From Creditsection shows the available credit. In case of low credit, the seller has a choice of adding credit.\nTo add credit:\n",
+    "images": [
+      "/files/assets/images/kb/order/9.jpg",
+      "/files/assets/images/kb/order/10.jpg"
+    ]
+  },
+  {
+    "page": 69,
+    "text": "• Click onAdd Credit.\n• Enter the total credit and available credit for the customer.\n• Enter Coupon code, if applicable and click onApply.\n• Click onProceed to Payment. The Order Summary is displayed. You can view the status of the current order as shown below:\nAdd order from List View\nNavigate toOrders > Add Order > List View. The product details are listed in the form of a table.\nList View allows you to perform the following:\n",
+    "images": [
+      "/files/assets/images/kb/order/11.jpg",
+      "/files/assets/images/kb/order/12.jpg",
+      "/files/assets/images/kb/order/13.jpg",
+      "/files/assets/images/kb/order/14.jpg"
+    ]
+  },
+  {
+    "page": 70,
+    "text": "View, Edit, & Cancel Order\nYou can view, edit and cancel the order.\nView Order\nTo view an order:\n• 1. Go toOrdersand navigate to the order you would like to view.\n• \n• 2. Click on more optionand selectView Order.\n• 3. The selected order details are displayed:\n• \nEdit Order\n",
+    "images": [
+      "/files/assets/images/kb/order/15.jpg",
+      "/files/assets/images/kb/order/16.jpg"
+    ]
+  },
+  {
+    "page": 71,
+    "text": "When an order is created, it is pending. It goes to complete state on approval by the seller. Here you can approve/cancel any orders that are in pending status.\nTo edit/approve an order\n• 1. Go toOrdersand navigate to the order you would like to edit.\n• 2. Click on more optionand selectEdit Order.\n• 3. The selected order details are displayed:\n• \n• 4. Click Cancel to delete the order or Approve to proceed. On approving the order, a confirmation message is displayed:\n• \n• 5. ClickApprovefor approving the record or clickCancel.\nNote\n1. On approval, you will see the order goes toCompletestatus which is viewed in the Order Summary screen.\n2. When an order is inCompletestatus, the actions available on the order are the view and cancel.\n",
+    "images": [
+      "/files/assets/images/kb/order/17.jpg",
+      "/files/assets/images/kb/order/18.jpg"
+    ]
+  },
+  {
+    "page": 72,
+    "text": "Cancel Order\nTo delete an order:\n• 1. Head toOrdersand find the order you would like to edit.\n• 2. Click on the more option icon,and selectCancel Order. A confirmation message is displayed:\n• \n• 3. Click onYes, cancel!for deleting the order, else clickCancelto cancel the action. A success message is displayed on cancelling the order:\n• \nNote\n1. Once an order is cancelled, it cannot be approved.\n2. When an order goes toCancelledstatus, you can only view the order.\n",
+    "images": [
+      "/files/assets/images/kb/order/19.jpg",
+      "/files/assets/images/kb/order/20.jpg"
+    ]
+  },
+  {
+    "page": 73,
+    "text": "Print, Download & E-mail\nAn order can be printed, downloaded, and e-mailed using the options present at the top-right of the order page.\nInvoices\nThe Invoices page provides a list of all the invoices of all the customers at a glance. When an order is created, an invoice is generated automatically with unpaid status.\nHere you can:\n• 1.View Invoice Summary\n• 2.View Invoice\n• 3.Cancel Invoices\n",
+    "images": [
+      "/files/assets/images/kb/order/21.jpg",
+      "/files/assets/images/kb/invoice/1.jpg"
+    ]
+  },
+  {
+    "page": 74,
+    "text": "View Invoice Summary\nInvoice Summary gives an overview of all the invoices generated for all the customers with their status. Status can be paid or unpaid.\nTo view Invoice Summary:\nGo to Invoices. TheInvoice Summaryis displayed with all the invoices of all your customers.\nThe Invoice Summary lists the following:\n• 1. Invoice No, Invoice Date, Customer who is the product owner.\n• 2. Cost Price and the Amount\n• 3. Receipt Number\n• 4. Mode of payment\n• 5. Invoice Status\nView Invoice\n",
+    "images": [
+      "/files/assets/images/kb/invoice/2.jpg"
+    ]
+  },
+  {
+    "page": 75,
+    "text": "To view an invoice:\n• 1. Go to Invoices and navigate to the invoice you would like to view.\n• \n• 2. SelectView Invoice, to view the generated invoice:\n• \nCancel Invoice\nTo delete an invoice:\n• 1. Go to Invoice and navigate to the invoice you would like to cancel.\n• 2. Click on more optionicon and selectCancel Invoice. A confirmation message is displayed:\n• \n• 3.\tClick onYes, cancel!for deleting the invoice, else clickCancelto cancel the action. A success message is displayed on cancelling the invoice:\n• \n• \n",
+    "images": [
+      "/files/assets/images/kb/invoice/3.jpg",
+      "/files/assets/images/kb/invoice/4.jpg",
+      "/files/assets/images/kb/invoice/5.jpg"
+    ]
+  },
+  {
+    "page": 76,
+    "text": "Storefront\nStorefront allows you to:\n• 1.Add Products to your Marketplace\n• 2.Order Products from Catalog View\n• 3.Set Pricing for the products\n• 4.Generate Coupons or Promotions\nProducts Summary\n• 1. Go to Storefront > Products.\n• \n• 2. The Product Summary page is displayed. This page lists all the products in your catalog.\n• \n",
+    "images": [
+      "/files/assets/images/kb/invoice/6.jpg",
+      "/files/assets/images/kb/invoice/7.jpg",
+      "/files/assets/images/kb/storefront/1.jpg"
+    ]
+  },
+  {
+    "page": 77,
+    "text": "The following actions can be done here\n• 1.Add productAdd products individuallyImport product list\n• Add products individually\n• Import product list\n• 2.Edit product\n• 3.View catalog\n• Add products individually\n• Import product list\nAdd Product\nProducts can be added from:\n• 1.Getting Startedand navigate toReady To Go Marketplaceand selectAdd Product\n• 2. StorefrontThis platform allows you to add products in two ways1. Add Products individually2. Import product list\n• 1. Add Products individually\n• 2. Import product list\n",
+    "images": [
+      "/files/assets/images/kb/storefront/2.jpg",
+      "/files/assets/images/kb/storefront/3.jpg"
+    ]
+  },
+  {
+    "page": 78,
+    "text": "• 1. Add Products individually\n• 2. Import product list\nAdd Products individually\nTo add products individually:\n• 1. Go toStorefronts > Products > Add Product. The Add Product page is displayed.\n• 2. Fill in the details of the product. ReferAdd Productfor description.\n• 3. ClickSave. The product is listed successfully in the product list and in the catalog.\nNote\nThe product added is reflected in the Product Banner of your portal.\nImport Product\nAlternative to adding products individually, the entire product list can also be imported.\n",
+    "images": []
+  },
+  {
+    "page": 79,
+    "text": "To import product list:\n• 1. Go toStorefronts > Products > Actions > Import.\n• 2. Upload the products list\n• 2. Map the columns:\n• 4. Finally import to add the product list.\nFor a description of importing the product list, refer toImport Product.\nNote\n1. Product list can also be uploaded from the Add Products in the Getting Started Page\n2. A sample excel file is provided to have an understanding of the format required for a successful upload.\nEdit Product\nTo edit an individually added product:\n",
+    "images": []
+  },
+  {
+    "page": 80,
+    "text": "• 1. Navigate to the product you want to edit.\n• 2. Click more optionsto edit the product.\n• \n• 2. Select Edit. The product details page is displayed. Make the necessary changes.\n• 4. Click Save to save all changes.\nNote\nYou will be directed to the Product Summary after the product details are edited.\nView Catalog\nThe product list can be viewed in the form of a catalog that lists the logo of the product and the essential details that help to make the purchasing decision. From this page, an item can also be ordered and placed in the cart for checkout.\nTo go to Catalog View:\n• 1. Go toStorefronts > Products > Catalog View.\n• 2. The Catalog View allows to:1. Enter the quantity you would opt for purchase.2. Select the term.2. Add product to the cart.\n• 1. Enter the quantity you would opt for purchase.\n• 2. Select the term.\n• 2. Add product to the cart.\n• 3. Once the product is added to the cart, the items are reflected in the cart icon, present at the upper right corner of the page.\n• \n",
+    "images": [
+      "/files/assets/images/kb/storefront/4.jpg"
+    ]
+  },
+  {
+    "page": 81,
+    "text": "• 1. Enter the quantity you would opt for purchase.\n• 2. Select the term.\n• 2. Add product to the cart.\nNote\n1. To learn more on ordering and checking out a product, connect toOrders.\n2. Ordering a product can be performed in the following ways from:\n• Land up page of your portal\n• Marketplace:  Getting Started and then select View Marketplace which is present as one of the links in the Ready To Go Marketplace.\n• Orders Menu\n• Catalog View(Storefront > Products > Catalog View)\nNote\nThe list view can be navigated from the Catalog View. Click List View which is present at the upper right of the Catalog View.\n",
+    "images": [
+      "/files/assets/images/kb/storefront/5.jpg"
+    ]
+  },
+  {
+    "page": 82,
+    "text": "Pricing\nThe price list contains the products with the cost price and the MRP. Here you can set the markup percentage, thereby generating the selling price of a specific product. The details on this page are inherited from the Add Product section.\nTo connect to Pricing, Go toStorefront > Pricing.\nHere you can:\n• 1.Set pricing\n• 2.Edit pricing\nSet Pricing\nTo set pricing for the products:\n",
+    "images": [
+      "/files/assets/images/kb/storefront/6.jpg"
+    ]
+  },
+  {
+    "page": 83,
+    "text": "• 1. Go toStorefronts > Pricing. The Price List is displayed:\n• \n• 2. Here you can view the pricing details of all the products. This information is accumulated from the Add Product module. You can set the markup % and the selling price is displayed automatically.\nNote\n• 1. The markup % can also be fixed in the Add Product or the Edit Product sections.\n• 2. Make sure the selling price is less than the MRP.\nEdit Pricing\nTo edit the pricing list:\n• 1. Go toStorefronts > Pricing. The Price List is displayed:\n• \n• 2. Click the more options iconto edit the pricing details.\n• 3. SelectEdit. TheAdd Productpage is displayed with all the details entered.\n• 4. Make the required changes.\n• 5. ClickSaveto save the changes.\n• 6. The changes made are shown in the product summary as well as on the pricing page.\n",
+    "images": [
+      "/files/assets/images/kb/storefront/7.jpg",
+      "/files/assets/images/kb/storefront/8.jpg"
+    ]
+  },
+  {
+    "page": 84,
+    "text": "Note\nMake sure to enter all the mandatory fields before saving the pricing details.  On clicking Save, the fields that have to be filled are highlighted.\nPromotions\nPromotions permit the user to generate coupons for specific products and apply when the item is ordered. These coupons are used to provide discounts or cashback and can be set as a percentage or as the amount inAdd Couponsection.\nTo go to Promotions, selectStorefronts > Promotions.\nBelow are the actions performed on this page.\n• 1.View coupon summary\n• 2.Add coupon\n• 3.Edit coupon\n• 4.Delete coupon\n• 5.Change Status\n",
+    "images": [
+      "/files/assets/images/kb/storefront/9.jpg"
+    ]
+  },
+  {
+    "page": 85,
+    "text": "View Coupon Summary\nIn this section, you can view the details of all the generated coupons. The promotions are listed in chronological order.\nThe following details are displayed:\n• 1. Coupon name & code\n• 2. Value\n• 3. Product for which the coupon is applicable\n• 4. Coupon validity date (start date-end date)\n• 5. Customer for whom the coupon\n• 6. Coupon status can be set as active or inactive\nFrom this page, coupons can be added, edited, and deleted.\nAdd Coupon\nTo add a coupon for the selected products:\n",
+    "images": [
+      "/files/assets/images/kb/storefront/10.jpg"
+    ]
+  },
+  {
+    "page": 86,
+    "text": "• 1. Go to  Storefronts > Promotions > Add Coupon. The Add Coupon page is displayed:\n• \n• 2. Enter the following details:FieldDescriptionRequiredCoupon NameRelated name for the couponCoupon DescriptionBrief the coupon usageoptionalCoupon CodeClickGenerateThe code is automatically provided.Generated automaticallySKU / ProductSelect one of the options:By Product Category: Lists the primarycategoriesBy Product/ Plan Name: Lists the productsCoupon TypeOptions available are:1. Discount2. CashbackBoth these types can be specified as a percentage or as an amountUsage1. Specifies if this coupon can be used as one coupon perpurchase or unlimited times. If multiple time optionis selected, enter the maximum number of times the couponcan be applied.2. Checkmark if the coupon is applied to a specific customer. Ifyes, select the customer from the dropdown.Other conditionsCheckmark if applicable for the following:Can be applied only for the first transactionNot applicable for the existing customersOptionalCoupon ValiditySelect one of the two options:1. The coupon start date and end date for validity2. No date range implies coupon is active alwaysCoupon StatusActive: On enabling the coupon for use.Inactive: On disabling the coupon for use.\n• 1. Discount\n• 2. Cashback\n• 1. Specifies if this coupon can be used as one coupon perpurchase or unlimited times. If multiple time optionis selected, enter the maximum number of times the couponcan be applied.\n• 2. Checkmark if the coupon is applied to a specific customer. Ifyes, select the customer from the dropdown.\n• Can be applied only for the first transaction\n• Not applicable for the existing customers\n• 1. The coupon start date and end date for validity\n• 2. No date range implies coupon is active always\n• Active: On enabling the coupon for use.\n• Inactive: On disabling the coupon for use.\n• 3. Click Save. This adds the coupon to the Coupon Summary with the details entered.\n• 1. Discount\n• 2. Cashback\n• 1. Specifies if this coupon can be used as one coupon perpurchase or unlimited times. If multiple time optionis selected, enter the maximum number of times the couponcan be applied.\n• 2. Checkmark if the coupon is applied to a specific customer. Ifyes, select the customer from the dropdown.\n• Can be applied only for the first transaction\n• Not applicable for the existing customers\n• 1. The coupon start date and end date for validity\n• 2. No date range implies coupon is active always\n• Active: On enabling the coupon for use.\n• Inactive: On disabling the coupon for use.\nEdit Coupon\n",
+    "images": [
+      "/files/assets/images/kb/storefront/11.jpg"
+    ]
+  },
+  {
+    "page": 87,
+    "text": "To change the details of the added coupon:\n• 1. Go to Storefronts > Promotions. The Coupon Summary is displayed:\n• \n• 3. Click the more options iconto edit the specific coupon details.\n• 4. Select Edit. The Add Coupon page is displayed with the added information\n• 5. Make the required changes.\n• 6. ClickSaveto save the changes.\n• 6. The changes made are shown in the product summary as well as on the pricing page.\nNote\nMake sure to enter all the mandatory fields before saving the coupon.  On clicking Save, the fields that have to be filled are highlighted.\nDelete Coupon\nTo delete the added coupon:\n• 1. Go toStorefronts > Promotions. The Coupon Summary is displayed:\n• \n• 2. Click the more options iconto delete the specific coupon.\n• 3. Select Delete. A confirmation message is displayed:\n• \n• 4. Click Yes for deleting the coupon else click Cancel for cancelling the action.\n• 5. On clicking yes, a success message is displayed:\n• \n",
+    "images": [
+      "/files/assets/images/kb/storefront/12.jpg"
+    ]
+  },
+  {
+    "page": 88,
+    "text": "Change Status\nThe status of the coupon enables or disables the coupon application. The status change can also be initiated from the Coupon Summary page.\nTo change the status of the coupon:\n• 1. Go toStorefronts > Promotions. The Coupon Summary is displayed:\n• \n• 2. SelectActivefor activation of the coupon else selectInactive.\n• 3. On changing the status, a confirmation message is displayed:\n• \n• 4. Click onYes, update itif you opt for a change of status else click onCancel. On clickingYes, a success message is displayed:\n• \n",
+    "images": [
+      "/files/assets/images/kb/storefront/13.jpg",
+      "/files/assets/images/kb/storefront/14.jpg",
+      "/files/assets/images/kb/storefront/15.jpg",
+      "/files/assets/images/kb/storefront/16.jpg"
+    ]
+  },
+  {
+    "page": 89,
+    "text": "Support\nAll the customer issues are managed in this section. Support takes care of adding to resolving a ticket, assigning, moving and merging, and adding relevant departments. The overview of all the ticket statuses is also visible on this page.\n• 1. Go to Support.\n• \n• 2. The summary of all the tickets is listed:\n• \nHere you can:\n",
+    "images": [
+      "/files/assets/images/kb/storefront/17.jpg",
+      "/files/assets/images/kb/storefront/18.jpg",
+      "/files/assets/images/kb/storefront/19.jpg",
+      "/files/assets/images/kb/storefront/20.jpg"
+    ]
+  },
+  {
+    "page": 90,
+    "text": "Add\nAdd tickets\nView\nView the ticket's summary\nReply\nView ticket and reply\nAdd Department\nAdd a relevant department for resolving issue\n",
+    "images": []
+  },
+  {
+    "page": 91,
+    "text": "Manage\nAllocate assignee, merge tickets, move the tickets to a different department.\nTo know more on support, navigate toTicketssection.\nLogs\nLogs provide an insight into the activities or events recorded in the seller's portal.\nThis section helps to:\nView Activity Logs\n",
+    "images": [
+      "/files/assets/images/kb/storefront/21.jpg"
+    ]
+  },
+  {
+    "page": 92,
+    "text": "View Email Logs\nNote\nFollow the links above to learn on each action on the Logs module.\nSettings\nConfigure all your settings required for successfully setting up a marketplace.\nSettings menu is organized into:\n• 1.Store Settings: set your theme, add hot categories, define email templates, add your company profile and agreement.\n• 2.Server Settings:  configure mail server, add domain and SSL certificate.\n• 3.Integrations: integrate payment gateways, accounting tools\n• 4.Advanced Settings: add custom fields, manage portal settings, users and roles\n",
+    "images": [
+      "/files/assets/images/kb/settings/1.jpg"
+    ]
+  },
+  {
+    "page": 93,
+    "text": "Store Settings\nThe Store Settings allows you to set the following categories:\n• 1.Theme\n• 2.Hot Categories\n• 3.Email Templates\n• 4.Taxation\n• 5.Company Profile\n• 6.Terms & Conditions\nTo access Store Settings:\nGo toSettings > Store Settings\nTheme\nHere you can customize the theme of the portal as per your needs.\n",
+    "images": [
+      "/files/assets/images/kb/settings/2.jpg"
+    ]
+  },
+  {
+    "page": 94,
+    "text": "Note\nYou can also access Customize Theme from the Quick Links of Getting Started page as shown below:\nTo customize theme:\n• 1. Go toSettings > Store Settings > Theme.\n• \n• 2. Click on Customize your Theme.\nHot Categories\nThe most popular & best-rated products, special deals and the latest products,, etc are featured in the seller's portal.\n",
+    "images": [
+      "/files/assets/images/kb/settings/3.jpg",
+      "/files/assets/images/kb/settings/4.jpg"
+    ]
+  },
+  {
+    "page": 95,
+    "text": "Hot Categories allows you to set deals, best sellers, new arrivals, popular & featured services in your portal.\nTo set Hot Categories:\nHead toSettings > Store Settings > Hot Categories.\n• 1. The Hot Categories page is displayed with all the options required to set.\nToday's Deals\nToday's Deals refers to products that are offered at its best price.\n",
+    "images": [
+      "/files/assets/images/kb/settings/5.jpg",
+      "/files/assets/images/kb/settings/6.jpg"
+    ]
+  },
+  {
+    "page": 96,
+    "text": "To set Today's Deals:\n• 1. Go toSettings > Store Settings > Hot Categories.\n• 2. Expand Today's Deal section\n• \n• 3. Checkmark the products you would like to add in Today's Deals.\n• 4. Use  chevron icon,to  move the selected products .\n• 5. The selected products are shifted to the Selected Products list and removed from the Select Products list.\nNote\nIf you would like to remove the selected products, checkmark the specific items. Useto shift the items back to theSelect Productslist.\nBest Seller\nBest Seller features the best and the fast moving products.\n",
+    "images": [
+      "/files/assets/images/kb/settings/7.jpg",
+      "/files/assets/images/kb/settings/8.jpg"
+    ]
+  },
+  {
+    "page": 97,
+    "text": "To know how to add products under Best Sellers, referToday's deal.\nNew Arrivals\nNew Arrivals lists the latest products. This gives an insight on the new products to the existing customers.\nTo learn how to add products under New Arrivals, referToday's deal.\nPopular Products\nHere you can add the top-rated products that are popular.\nTo list the popular products, go toToday's deal.\nFeatured Services\n",
+    "images": []
+  },
+  {
+    "page": 98,
+    "text": "Featured Services are products you would like to highlight on your portal.\nTo  know on adding Featured Services, connect toToday's deal.\nEmail Templates\nE-mail Templates allow you to:\n• 1.Enable / disableall auto generated e-mails from a specific department.\n• 2.Enable/ disable specific e-mails\n• 3.Edit  Template\n• 4.Preview Template\nEnable/ Disable E-mail\n• 1. Go toSettings > Store Settings > Email Templates.\n• 2. All the departments which are related to e-mail templates are listed.\n• 3. You can enable/ disable all auto generated e-mails from a specific department.In case, you would like to disable e-mail from Accounts department, toggle it off. By default, the e-mail templates of all the departments are turned on.\n• \n",
+    "images": [
+      "/files/assets/images/kb/settings/9.jpg"
+    ]
+  },
+  {
+    "page": 99,
+    "text": "Enable/ Disable specific e-mail\nTo enable/ disable specific e-mail form a particular department\n• 1. Go toSettings > Store Settings > Email Templates\n• 2. Click on the specific department, say Accounts. This directs to the Accounts e-mail templates.\n• \n• 3. Find the event you would like to disable.\n• 4. Select disable.\nNote\nAll the e-mails are enabled by default.\nEdit Template\nTo edit an e-mail template:\n",
+    "images": [
+      "/files/assets/images/kb/settings/10.jpg"
+    ]
+  },
+  {
+    "page": 100,
+    "text": "• 1. Go toSettings > Store Settings > Email Templates.\n• \n• 2. Find the event you would like to edit the template for.\n• 3. Click on more optionsand then selectEdit  Template.\n• \n• 4. The template is displayed in edit mode. Make the necessary changes.\n• 5. Click on Save.\nPreview Template\nTo preview an e-mail template:\n• 1. Go toSettings > Store Settings > Email Templates.\n• 2. Find the relevant department, whose e-mail template have to be previewed.\n• 3. Click on the department, say Accounts. All the e-mail templates connected to Accounts department is displayed:\n• \n• 4. Find the event, you would like to preview the template for. for example: On Seller Registration\n• 5. Click on more optionsand then selectPreview Template. The template of On Seller Registration is displayed:\n• \n",
+    "images": [
+      "/files/assets/images/kb/settings/11.jpg",
+      "/files/assets/images/kb/settings/12.jpg",
+      "/files/assets/images/kb/settings/13.jpg",
+      "/files/assets/images/kb/settings/14.jpg"
+    ]
+  },
+  {
+    "page": 101,
+    "text": "Company Profile\nCompany Profile refers to the seller's profile. This includes company's name, primary contact's personal details, demographic information, financial and billing details.\nTo enter your profile details, follow any one of the options:\n• 1. Go toSettings > Store Settings > Company's Profile.\n• 2. Getting Started and navigate to Ready to Go Marketplace links. Select Company Info.To know about Company Profile, referCompany Infoof the Ready To Launch Marketplace.\nTerms of USE\nTerms of use specify the terms & conditions and the privacy policy that has to be published for the customer. The terms of use have to be read and acknowledged by the customer before the products are checked out.\nIn this module, you can publish the following contents:\n• Terms & Conditions\n• Privacy Policy\n",
+    "images": []
+  },
+  {
+    "page": 102,
+    "text": "Terms & Conditions\nTo publish the terms and conditions:\n• 1. Go toSettings > Store Settings > Terms and Conditions.\n• 2. TheTerms Of Usepage is displayed:\n• \n• 3. Click onTerms & Conditions.\n• 4. You can opt for one of the following to publish the agreement:Enter the URL of the Terms & Conditions.Upload the Terms & Conditions pdf file.For uploading, click onChoose Fileand select the agreement.\n• Enter the URL of the Terms & Conditions.\n• Upload the Terms & Conditions pdf file.For uploading, click onChoose Fileand select the agreement.\n• 5.\tClickSave.\n• Enter the URL of the Terms & Conditions.\n• Upload the Terms & Conditions pdf file.For uploading, click onChoose Fileand select the agreement.\nPrivacy Policy\nPrivacy policy specifies how the seller collects and handles the data of the customers.\nTo add privacy policy:\n",
+    "images": [
+      "/files/assets/images/kb/settings/15.jpg"
+    ]
+  },
+  {
+    "page": 103,
+    "text": "• 1. Go toSettings > Store Settings > Terms and Conditions.\n• 2. TheTerms Of Usepage is displayed:\n• \n• 3. Click onPrivacy Policy.\n• 4. You can opt for one of the following to publish the agreement:Enter the URL of the Terms & Conditions.Upload the Terms & Conditions pdf file.For uploading, click on Choose File and select the agreement.\n• Enter the URL of the Terms & Conditions.\n• Upload the Terms & Conditions pdf file.For uploading, click on Choose File and select the agreement.\n• 5. ClickSave.\n• Enter the URL of the Terms & Conditions.\n• Upload the Terms & Conditions pdf file.For uploading, click on Choose File and select the agreement.\nServer Settings\nGo toSettings > Server Settings\nServer Settings allow you to:\n• Configure the Mail Server\nConfigure Mail Server\n",
+    "images": [
+      "/files/assets/images/kb/settings/16.jpg"
+    ]
+  },
+  {
+    "page": 104,
+    "text": "To use the e-mail services, the seller must use a third-party SMTP service or can own one.\nTo setup email integration:\nNavigate toSettings > Server Settings > Mail Server (SMTP)\nNote\nThis functionality can also be accessed from Getting Started > Quick links > Mail Server (SMTP).\nYou can send e-mail using one of the following transfer methods:\n• 1. API\n• 2. SMTP\n",
+    "images": [
+      "/files/assets/images/kb/settings/17.jpg"
+    ]
+  },
+  {
+    "page": 105,
+    "text": "API\nTo connect using API, enter the API key generated from your SMTP portal.\nClick Save\nSMTP\nTo connect to SMTP\n• 1. Go toSettings > Server Settings.\n• 2. Select SMTP credentials.\n• \n• 3. Enter the following information:FieldDescriptionRequiredHostSMTP Host AddressPortSMTP port numberUsernameSMTP credentialsPasswordType of EncryptionOptions: (None, SSL, TLS)NoteSMTP credentials depends on the mail service you are using.\n• 4. ClickSave.\n",
+    "images": [
+      "/files/assets/images/kb/settings/18.jpg",
+      "/files/assets/images/kb/settings/19.jpg"
+    ]
+  },
+  {
+    "page": 106,
+    "text": "Note\nSMTP credentials depends on the mail service you are using.\nIntegrations\nIntegrations enable other applications to integrate with your portal. It aids to connect data from various sources like:\n• Payment Gateways: adds both online and offline payment gateways\n• Accounting Tools: adds and configures accounting tools\nPayment Gateways\nHere you can integrate both online and offline payment modes for the transaction.\n",
+    "images": [
+      "/files/assets/images/kb/settings/20.jpg"
+    ]
+  },
+  {
+    "page": 107,
+    "text": "Go toSettings > Integrations > Payment Gateways\nNote\nPayment Gateways set up can also be initialized from Getting Started >  Ready to Launch -Marketplace > Payment Setup.\nTo learn how to add an online payment gateway, referOnline Paymentof the Customer's Section.\nTo set up an offline payment, referOffline Paymentof the Customer's section.\nAccounting Tools\nAccounting, billing, inventory and business books can be managed with tools like Tally & Quickbooks.\n",
+    "images": [
+      "/files/assets/images/kb/settings/200.jpg"
+    ]
+  },
+  {
+    "page": 108,
+    "text": "You can integrate and configure accounting tools here.\nYou can integrate and configure accounting tools here.\n• 1. Go toSettings > Integrations > Accounting Tools\n• \n• 2. You must configure the tools to work with it. For example, click on quick books and clickConfigure.\n• \nAdvanced Settings\nGo toGetting Started > Settings > Advanced\nAdvanced Settings permit you to add fields in a specific section, customise notification scheduler, manage various settings, and set users and roles\n",
+    "images": [
+      "/files/assets/images/kb/settings/21.jpg",
+      "/files/assets/images/kb/settings/22.jpg"
+    ]
+  },
+  {
+    "page": 109,
+    "text": "The following can be performed in this module:\n• 1.Custom Fields: add fields in a specific section\n• 2.Master Settings: set various functionalities that applies to customers\n• 3.Users and Roles: manage users and access permissions\nCustom Fields\nUse this screen to add field of your choice in a particular section.\nTo add fields:\n• 1. Go toSettings > Advanced Settings > Custom Fieldsand then click onAdd Custom Fields.\n• \n• 2. The Add Custom Field form is displayed:\n• \n• 3. Enter the details of the field to be added:FieldDescriptionRequiredLabel NameName of the label you would like to add. Example:Legal Trading Nameof the companyfield has to be included in the Customer Profile page.Here the label isLegal Trading Name.Show Under ModuleModule name and the specific section where this label has to be listed.As per our case, we have to selectCustomer > Profile.Field TypeThe various field types are listed. Choose the appropriate option.Here the field Legal Trading Name takes intextvalues.Is it Mandatory?Checkmark if this field is mandatory else leave it unchecked.\n• 4. ClickSave. The field added is listed in the Custom Fields page. Click onCustom Fields, at the top-right to navigate to the list.\n",
+    "images": [
+      "/files/assets/images/kb/settings/23.jpg",
+      "/files/assets/images/kb/settings/24.jpg"
+    ]
+  },
+  {
+    "page": 110,
+    "text": "Master Settings\nMaster settings are default settings to manage entire services handled in your portal. You can change these settings in this page.\nGo toSettings > Advanced Settings > Master Settings\nTo know about Master Settings, referSettingsof Customer's section.\nUsers & Roles\nManaging users and their permission to access sections of your portal is handled in this section. Multiple users can share one account.\nIn this page, you can:\n",
+    "images": [
+      "/files/assets/images/kb/settings/25.jpg"
+    ]
+  },
+  {
+    "page": 111,
+    "text": "• Add users\n• Edit user profile\n• Reset password\nAdd Users\nTo add users to an account:\n• 1. Go toSettings > Advanced Settings > Users & Roles. Click onAdd User.\n• \n• 2. TheAdd Userform is displayed\n• \n• 3. Enter the following information:FieldDescriptionRequiredCompany NameCustomer's OrganisationUser NameLogin User NameFirst Name/ Last NamePrimary UserRole/ DepartmentEmail/ Mobile NoPrimary Contact NoAddressProfile ImageUpload your profile imageOptional\n• 4. ClickSave\nNote\nTo view the users and their roles, clickUserspresent at the top-right of the screen. This action directs you to the list of added users with their allocated roles.\n",
+    "images": [
+      "/files/assets/images/kb/settings/26.jpg",
+      "/files/assets/images/kb/settings/27.jpg"
+    ]
+  },
+  {
+    "page": 112,
+    "text": "Edit User Profile\nThe assigned user's profile and roles can be edited.\nTo edit:\n• 1. Go toSettings > Advanced Settings > Users & Roles.\n• 2. Find the user whose details have to be edited. Click more options and selectEdit User.\n• \n• 3. The user profile form is displayed in edit mode.\n• 4. Make the necessary changes. ClickSave.\nReset Password\nHere you can reset the login password of a specific customer.\n",
+    "images": [
+      "/files/assets/images/kb/settings/28.jpg",
+      "/files/assets/images/kb/settings/29.jpg"
+    ]
+  },
+  {
+    "page": 113,
+    "text": "To reset password:\n• 1. Go toSettings > Advanced Settings > Users & Roles.\n• 2. Find the user whose password you would like to change. Click more options and selectReset Password.\n• \n• 3. A confirmation message is displayed\n• \n• 4. Click onYes, to proceed\n",
+    "images": [
+      "/files/assets/images/kb/settings/30.jpg",
+      "/files/assets/images/kb/settings/31.jpg"
+    ]
+  }
+]

@@ -18,7 +18,7 @@ session.post(login_url, data=payload)
 target_url = 'https://demo1.sellarge.com/knowledge-base'  # Replace with actual page
 response = session.get(target_url)
 
-# Parse HTML
+# Parse HTMLc:\Users\Radhika Khatri\Desktop\AppGallop\RasaChatbot
 soup = BeautifulSoup(response.text, 'html.parser')
 
 # Remove unwanted elements

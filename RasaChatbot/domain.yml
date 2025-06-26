@@ -8,7 +8,7 @@ responses:
   utter_greet:
     - text: "Hello! How can I help you?"
   utter_goodbye:
-    - text: "Goodbye! Have a great day!"
+    - text: "I am not trained on these queries"
 
 actions:
   - action_respond_pdf_content
