@@ -1,4 +1,3 @@
-# ocr_service.py
 from fastapi import FastAPI, File, UploadFile, Form, HTTPException
 from fastapi.responses import JSONResponse
 import tempfile
@@ -10,22 +9,19 @@ import ollama
 app = FastAPI()
 
 GST_PATTERN = re.compile(
-    r"^[0-9]{2}"        # state code
-    r"[A-Z]{5}"         # PAN – first 5 letters
-    r"[0-9]{4}"         # PAN – next 4 digits
-    r"[A-Z]"            # PAN – 10th letter
-    r"[A-Z0-9]"         # entity code (1 alphanumeric)
-    r"Z"                # default Z
-    r"[A-Z0-9]$",       # checksum digit
-    re.IGNORECASE
+    r"^[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z][A-Z0-9]Z[A-Z0-9]$", re.IGNORECASE
 )
 
 def is_valid_gst(gst: str) -> bool:
-    return bool(GST_PATTERN.fullmatch(gst.strip().upper()))
+    valid = bool(GST_PATTERN.fullmatch(gst.strip().upper()))
+    print(f"✅ GST Validation: {gst} → {valid}")
+    return valid
 
 def preprocess_image(image_path, processed_path="preprocessed.jpg"):
+    print(f"🖼️ Reading image from: {image_path}")
     image = cv2.imread(image_path)
     if image is None:
+        print("❌ Failed to load image.")
         return None
     image = cv2.resize(image, None, fx=2, fy=2, interpolation=cv2.INTER_LINEAR)
     border_size = 32
@@ -34,6 +30,7 @@ def preprocess_image(image_path, processed_path="preprocessed.jpg"):
         cv2.BORDER_CONSTANT, value=[255, 255, 255]
     )
     cv2.imwrite(processed_path, image)
+    print(f"✅ Image preprocessed and saved to: {processed_path}")
     return processed_path
 
 def extract_raw_text_from_image(image_path):
@@ -42,24 +39,31 @@ def extract_raw_text_from_image(image_path):
         return None
     with open(image_path, "rb") as f:
         image_bytes = f.read()
+    print("🧠 Sending image to LLM for OCR...")
     response = ollama.chat(
         model='llama3.2-vision',
-        messages=[
-            {
-                'role': 'user',
-                'content': (
-                    "You are an OCR engine. Extract all visible text from this image. "
-                    "Return only the raw text exactly as it appears in the image."
-                ),
-                'images': [image_bytes]
-            }
-        ]
+        messages=[{
+            'role': 'user',
+            'content': (
+                "You are an OCR engine. Extract all visible text from this image. "
+                "Return only the raw text exactly as it appears in the image."
+            ),
+            'images': [image_bytes]
+        }]
     )
-    return response['message']['content']
+    raw_text = response['message']['content']
+    print(f"📄 Raw OCR Text:\n{raw_text}\n")
+    return raw_text
 
 def extract_gst_number(text):
+    print("🔍 Searching for GST number...")
     match = re.search(r"(GST(?:IN)?\s*[:\-]?\s*)([0-9A-Z]{15})", text, re.IGNORECASE)
-    return match.group(2).strip() if match else None
+    if match:
+        gst = match.group(2).strip()
+        print(f"✅ Extracted GST Number: {gst}")
+        return gst
+    print("❌ GST number not found.")
+    return None
 
 def extract_relevant_info_with_mistral(text):
     prompt = (
@@ -69,6 +73,7 @@ def extract_relevant_info_with_mistral(text):
         "Return it as a plain list like:\n"
         "Shipped From: ...\nShipped To: ...\nQuantity: ...\nContact Numbers: ..."
     )
+    print("🧠 Sending extracted text to Mistral for structured info extraction...")
     response = ollama.chat(
         model='mistral',
         messages=[
@@ -76,14 +81,18 @@ def extract_relevant_info_with_mistral(text):
             {'role': 'user', 'content': text}
         ]
     )
-    return response['message']['content']
+    result = response['message']['content']
+    print(f"📦 Mistral Extracted Info:\n{result}\n")
+    return result
 
 def parse_mistral_response(response_text):
     details = {}
+    print("📑 Parsing Mistral response...")
     for line in response_text.splitlines():
         if ':' in line:
             key, val = line.split(':', 1)
             details[key.strip()] = val.strip()
+    print(f"✅ Parsed Details: {details}")
     return details
 
 @app.post("/extract-invoice")
@@ -98,6 +107,7 @@ async def extract_invoice(
     with tempfile.NamedTemporaryFile(delete=False, suffix=".jpg") as temp_file:
         file_path = temp_file.name
         temp_file.write(await file.read())
+        print(f"📂 Saved uploaded file to: {file_path}")
 
     try:
         raw_text = extract_raw_text_from_image(file_path)
@@ -123,8 +133,10 @@ async def extract_invoice(
             "GST Number": gst_final
         }
 
+        print(f"✅ Final Output Data: {final_details}")
         return JSONResponse(content={"status": "success", "data": final_details})
 
     finally:
         if os.path.exists(file_path):
             os.remove(file_path)
+            print(f"🧹 Deleted temp file: {file_path}")
